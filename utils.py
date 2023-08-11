@@ -346,6 +346,34 @@ def answer_cleansing(args, pred, must_choice=False):
     return pred
 
 def create_demo_text(args, cot_flag):
+    """
+    Creates a demonstration text from the JSON data found at a specified path.
+
+    Parameters:
+    args (object): An object containing necessary arguments, including:
+                   - demo_path: Path to the JSON file containing the demonstration data.
+                   - direct_answer_trigger_for_fewshot: A string that triggers the direct answer format.
+    cot_flag (bool): A flag indicating whether to include the rationale (z) in the demo text.
+
+    Returns:
+    str: A string containing the concatenated demonstration text, formatted according to the `cot_flag` 
+         and the `direct_answer_trigger_for_fewshot` provided in `args`.
+
+    Example:
+        Input JSON structure should be:
+        {
+            "demo": [
+                {
+                    "question": "What is the capital of France?",
+                    "rationale": "The capital of France is Paris.",
+                    "pred_ans": "Paris"
+                },
+                ...
+            ]
+        }
+        If `cot_flag` is True, the output string will include the question, rationale, trigger, and predicted answer.
+        If `cot_flag` is False, the output string will include only the question, trigger, and predicted answer.
+    """
     x, z, y = [], [], []
     
     with open(args.demo_path, encoding="utf-8") as f:
