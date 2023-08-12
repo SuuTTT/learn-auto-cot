@@ -14,6 +14,8 @@ from sklearn.cluster import AgglomerativeClustering, SpectralClustering
 import networkx as nx
 import numpy as np
 
+from pyseat.SEAT import SEAT
+
 def perform_clustering(corpus_embeddings, method, num_clusters, random_seed):
     if method == "kmeans":
         clustering_model = KMeans(n_clusters=num_clusters, random_state=random_seed)
@@ -23,16 +25,27 @@ def perform_clustering(corpus_embeddings, method, num_clusters, random_seed):
         clustering_model = SpectralClustering(n_clusters=num_clusters, random_state=random_seed)
     elif method == "louvain":
         pass
-        graph = nx.Graph(corpus_embeddings)
-        partition = community_louvain.best_partition(graph)
-        cluster_assignment = [partition[i] for i in range(len(corpus_embeddings))]
-        return cluster_assignment
+        # Louvain clustering code here
     elif method == "infomap":
-        # Implement Infomap clustering here
         pass
+        # Infomap clustering code here
+    elif method == "seat":
+        # create a SEAT instance
+        seat = SEAT(affinity="gaussian_kernel", 
+                    sparsification="knn_neighbors",
+                    min_k=2,
+                    max_k=num_clusters, # Or any other suitable value
+                    objective="SE",
+                    strategy="bottom_up")
+        # fit the model
+        seat.fit_predict(corpus_embeddings)
+        return seat.labels_, seat
 
     clustering_model.fit(corpus_embeddings)
     return clustering_model.labels_, clustering_model
+
+
+
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Zero-shot-CoT")
@@ -42,7 +55,7 @@ def parse_arguments():
     )
     parser.add_argument(
         "--clustering_method", type=str, default="kmeans",
-        choices=["kmeans", "hierarchical", "spectral", "louvain", "infomap"], help="clustering method to be used"
+        choices=["kmeans", "hierarchical", "spectral", "louvain", "infomap","seat","hcse"], help="clustering method to be used"
     )
     parser.add_argument(
         "--max_ra_len", type=int, default=5, help="maximum number of reasoning chains"

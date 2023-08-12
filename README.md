@@ -50,6 +50,13 @@ python run_demo.py \
 --pred_file log/multiarith_zero_shot_cot.log \
 --clustering_method hierarchical \
 --demo_save_dir demos/multiarith_clustering_method=hierarchical
+
+python run_demo.py \
+--task multiarith \
+--pred_file log/multiarith_zero_shot_cot.log \
+--clustering_method seat \
+--demo_save_dir demos/multiarith_clustering_method=seat
+
 ```
 
 Run inference:
@@ -65,6 +72,12 @@ python run_inference.py \
 --dataset multiarith \
 --demo_path demos/multiarith_clustering_method=hierarchical \
 --output_dir experiment/multiarith_clustering_method=hierarchical
+
+python run_inference.py \
+--dataset multiarith \
+--demo_path demos/multiarith_clustering_method=seat \
+--output_dir experiment/multiarith_clustering_method=seat
+
 ```
 
 ## Citing Auto-CoT

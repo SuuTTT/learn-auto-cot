@@ -24,6 +24,20 @@
             "justMyCode": true
         },
         {
+            "name": "Python: Run SEAT Demo Multiarith",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/run_demo.py",
+            "args": [
+                "--task", "multiarith",
+                "--pred_file", "log/multiarith_zero_shot_cot.log",
+                "--clustering_method", "seat",
+                "--demo_save_dir", "demos/multiarith_clustering_method=seat"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
             "name": "Python: Run Inference Multiarith",
             "type": "python",
             "request": "launch",

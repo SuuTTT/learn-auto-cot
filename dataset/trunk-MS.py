@@ -13,7 +13,6 @@ def truncate_file_content(dirpath, filename):
 
     # Open, read, and modify JSON file
     with open(filepath, 'r') as f:
-        data = json.load(f)
         truncated_data = data[:10]  # Retain only the first 10 items
 
     # Overwrite the original file with truncated data
