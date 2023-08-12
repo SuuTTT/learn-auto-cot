@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-661",
+    "Body": "Faye was placing her pencils and crayons into 19 rows with 4 pencils and 27 crayons in each row.",
+    "Question": "How many pencils does she have?",
+    "Equation": "( 19.0 * 4.0 )",
+    "Answer": 76.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-662",
+    "Body": "The Razorback t-shirt shop sells each t-shirt for $ 201 dollars. During the Arkansas and Texas tech game they increased the prices by $ 217 per t-shirt and sold 14 t-shirts.",
+    "Question": "How much money did they make from selling the t-shirts?",
+    "Equation": "( ( 201.0 + 217.0 ) * 14.0 )",
+    "Answer": 5852.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-663",
+    "Body": "Ed had 12 more marbles than Doug. Ed lost 20 of his marbles at the playground. If Ed had 17 marbles",
+    "Question": "How many marbles does Doug have now?",
+    "Equation": "( 17.0 - 12.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-664",
+    "Body": "Lawrence county has 313473 kids. During summer break 274865 kids stay home and the rest go to camp.",
+    "Question": "How many kids go to the camp during the break?",
+    "Equation": "( 313473.0 - 274865.0 )",
+    "Answer": 38608.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-665",
+    "Body": "The Razorback shop makes $ 210 dollars off each jersey and $ 240 off each t-shirt. During the Arkansas and Texas tech game they sold 177 t-shirts and 23 jerseys.",
+    "Question": "How much more does a t-shirt cost than a jersey?",
+    "Equation": "( 240.0 - 210.0 )",
+    "Answer": 30.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-666",
+    "Body": "Dan has $ 4. He bought a candy bar for $ 7 and a chocolate for $ 6.",
+    "Question": "How much money did he spend buying the candy bar and chocolate?",
+    "Equation": "( 7.0 + 6.0 )",
+    "Answer": 13.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-667",
+    "Body": "Jerry had 4 action figures and 22 books on a shelf in his room. Later he added 6 more action figures to the shelf.",
+    "Question": "How many action figures were on his shelf in all?",
+    "Equation": "( 4.0 + 6.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-668",
+    "Body": "Mary is baking a cake. The recipe calls for 11 cups of sugar and some more cups of flour. She already put in 3 cups of flour. If she still needs to add 6 more cups of flour",
+    "Question": "How many cups of flour did the recipe require?",
+    "Equation": "( 3.0 + 6.0 )",
+    "Answer": 9.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-669",
+    "Body": "Baker made 54 cakes and 143 pastries. If he sold 68 cakes and 92 pastries",
+    "Question": "How many more pastries than cakes did baker sell?",
+    "Equation": "( 92.0 - 68.0 )",
+    "Answer": 24.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-670",
+    "Body": "3 birds and 2 storks were sitting on the fence. 5 more birds came to join them.",
+    "Question": "How many birds and storks are sitting on the fence?",
+    "Equation": "( ( 3.0 + 5.0 ) + 2.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  }
+]

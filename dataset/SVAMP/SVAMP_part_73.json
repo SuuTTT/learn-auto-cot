@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-721",
+    "Body": "Jessie weighed 71 kilograms. After she started to go jogging everyday she lost 20 kilograms.",
+    "Question": "How much does she weigh now?",
+    "Equation": "( 71.0 - 20.0 )",
+    "Answer": 51.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-722",
+    "Body": "Lawrence county has 898051 kids. During summer break 629424 kids go to camp and the rest stay home.",
+    "Question": "How many kids stay home?",
+    "Equation": "( 898051.0 - 629424.0 )",
+    "Answer": 268627.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-723",
+    "Body": "Dave had 17 apps and 21 files on his phone. After deleting some apps and files he had 3 apps and 7 files left.",
+    "Question": "How many files did he delete?",
+    "Equation": "( 21.0 - 7.0 )",
+    "Answer": 14.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-724",
+    "Body": "If you had 33 cookies and each bag has 11 cookies",
+    "Question": "How many bags of cookies do you have?",
+    "Equation": "( 33.0 / 11.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-725",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day and that each sack containes 25 oranges.",
+    "Question": "How many oranges will they have after 87 days of harvest?",
+    "Equation": "( ( 66.0 * 87.0 ) * 25.0 )",
+    "Answer": 143550.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-726",
+    "Body": "Nell collects baseball cards. She had 242 cards. She gave 136 of her cards to Jeff.",
+    "Question": "How many cards does Nell have left?",
+    "Equation": "( 242.0 - 136.0 )",
+    "Answer": 106.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-727",
+    "Body": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 90 chocolate chip cookies yesterday and 51 raisin cookies and 484 chocolate chip cookies this morning.",
+    "Question": "How many chocolate chip cookies did Helen bake?",
+    "Equation": "( 90.0 + 484.0 )",
+    "Answer": 574.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-728",
+    "Body": "There were 13 roses in the vase. Jessica cut some more roses from her flower garden which had a total of 12 roses. There are now 21 roses in the vase.",
+    "Question": "How many roses are left in the garden?",
+    "Equation": "( 12.0 - ( 21.0 - 13.0 ) )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-729",
+    "Body": "Jerry had some action figures on a shelf in his room. Later he added 2 more action figures to the shelf and removed 7 of the old ones. If there are 10 action figures on his shelf now",
+    "Question": "How many action figures did he have initially on the shelf?",
+    "Equation": "( ( 10.0 + 7.0 ) - 2.0 )",
+    "Answer": 15.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-730",
+    "Body": "A book has 2 chapters across 23 pages. The first chapter is 10 pages long.",
+    "Question": "How many pages are in the first chapter?",
+    "Equation": "( 23.0 - 10.0 )",
+    "Answer": 13.0,
+    "Type": "Subtraction"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-211",
+    "Body": "Baker made 170 cakes. He sold 78 of them and bought 31 new cakes.",
+    "Question": "How many more cakes did baker sell than those he bought?",
+    "Equation": "( 78.0 - 31.0 )",
+    "Answer": 47.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-212",
+    "Body": "Shirley sold 25 cases of boxes of trefoils.",
+    "Question": "How many boxes of trefoils does she need to deliver if each case has 14 boxes?",
+    "Equation": "( 25.0 * 14.0 )",
+    "Answer": 350.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-213",
+    "Body": "We ordered 17 pizzas. Each pizza has 4 slices. If there are 25 of us",
+    "Question": "How many slices of pizza are there altogether?",
+    "Equation": "( 17.0 * 4.0 )",
+    "Answer": 68.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-214",
+    "Body": "There were 12 roses and 2 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 10 roses and 21 orchids in the vase.",
+    "Question": "How many orchids did she cut?",
+    "Equation": "( 21.0 - 2.0 )",
+    "Answer": 19.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-215",
+    "Body": "White t - shirts can be purchased in packages. If mom buys 66 white t - shirts where each package has 3 white t - shirts.",
+    "Question": "How many packages will she have?",
+    "Equation": "( 66.0 / 3.0 )",
+    "Answer": 22.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-216",
+    "Body": "Mary is baking a cake. The recipe calls for 5 cups of flour and 14 cups of sugar. She already put in 10 cups of flour and 2 cups of sugar.",
+    "Question": "How many more cups of sugar does she need to add?",
+    "Equation": "( 14.0 - 2.0 )",
+    "Answer": 12.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-217",
+    "Body": "Mom buys 51 white t - shirts. If white t - shirts can be purchased in packages of 3",
+    "Question": "How many packages will she have?",
+    "Equation": "( 51.0 / 3.0 )",
+    "Answer": 17.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-218",
+    "Body": "Adam could fit 8 action figures and 10 cabinets on each shelf in his room. His room has 4 shelves.",
+    "Question": "How many total items could his shelves hold?",
+    "Equation": "( ( 8.0 + 10.0 ) * 4.0 )",
+    "Answer": 72.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-219",
+    "Body": "We ordered 7 pizzas. Each pizza has the same number of slices. If there were a total of 14 slices",
+    "Question": "How many slices are there in each pizza?",
+    "Equation": "( 14.0 / 7.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-220",
+    "Body": "Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes.",
+    "Question": "How many more cakes did baker make than those he sold?",
+    "Equation": "( ( 144.0 + 111.0 ) - 71.0 )",
+    "Answer": 184.0,
+    "Type": "Subtraction"
+  }
+]

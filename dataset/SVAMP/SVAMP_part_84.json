@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-831",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food. If 324 students suggested adding mashed potatoes 374 suggested adding bacon to the menu and 128 suggested adding tomatoes",
+    "Question": "How many students participated in the suggestion of new food items?",
+    "Equation": "( ( 324.0 + 374.0 ) + 128.0 )",
+    "Answer": 826.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-832",
+    "Body": "During summer break 202958 kids from Lawrence county go to camp and the other 777622 kids stay home.",
+    "Question": "How many more kids stayed home compared to those who went to the camp?",
+    "Equation": "( 777622.0 - 202958.0 )",
+    "Answer": 574664.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-833",
+    "Body": "6 birds and 3 storks were sitting on the fence. 2 more storks came to join them.",
+    "Question": "How many more birds than storks are sitting on the fence?",
+    "Equation": "( 6.0 - ( 3.0 + 2.0 ) )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-834",
+    "Body": "There are 22 different books and 10 different movies in the ' crazy silly school ' series. If you read 12 of the books and watched 56 of the movies",
+    "Question": "How many more books do you still have to read?",
+    "Equation": "( 22.0 - 12.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-835",
+    "Body": "There were 12 people on the bus. At the next stop 4 more people got on the bus. Each bus can not have more than 36 people.",
+    "Question": "How many people are there on the bus now?",
+    "Equation": "( 12.0 + 4.0 )",
+    "Answer": 16.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-836",
+    "Body": "A grocery store had 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda.",
+    "Question": "How many bottles did they have total?",
+    "Equation": "( ( 57.0 + 26.0 ) + 27.0 )",
+    "Answer": 110.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-837",
+    "Body": "Because of the decision Sofia asked 288 students to suggest specific types of food. 264 students suggested adding bacon while others suggested adding mashed potatoes to the menu.",
+    "Question": "How many students suggested mashed potatoes?",
+    "Equation": "( 288.0 - 264.0 )",
+    "Answer": 24.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-838",
+    "Body": "Edward spent $ 9. Then he spent $ 8 more. Now he has $ 17.",
+    "Question": "How much did Edward have before he spent his money?",
+    "Equation": "( ( 9.0 + 8.0 ) + 17.0 )",
+    "Answer": 34.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-839",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. There are 85 bird families living near the mountain. If 23 bird families flew away to africa and 37 bird families flew away to asia",
+    "Question": "How many bird families were left near the mountain?",
+    "Equation": "( 85.0 - ( 23.0 + 37.0 ) )",
+    "Answer": 25.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-840",
+    "Body": "In a school there are 902 girls and 811 boys. 44 more girls joined the school.",
+    "Question": "How many girls are there in the school now?",
+    "Equation": "( 902.0 + 44.0 )",
+    "Answer": 946.0,
+    "Type": "Addition"
+  }
+]

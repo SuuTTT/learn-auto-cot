@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-921",
+    "Body": "Dave had 24 apps and 9 files on his phone. After deleting some apps and files he had 5 files and 12 apps left.",
+    "Question": "How many more apps than files does he have left on the phone?",
+    "Equation": "( 12.0 - 5.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-922",
+    "Body": "44 campers went rowing in the morning 39 campers went rowing in the afternoon and 31 campers went rowing in the evening.",
+    "Question": "How many more campers went rowing in the morning than in the afternoon?",
+    "Equation": "( 44.0 - 39.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-923",
+    "Body": "Frank was reading through his favorite book. The book had 3 chapters, each with the same number of pages. It has a total of 594 pages. It took Frank 607 days to finish the book.",
+    "Question": "How many pages are in each chapter?",
+    "Equation": "( 594.0 / 3.0 )",
+    "Answer": 198.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-924",
+    "Body": "Jesse has 18 square feet of carpet. If her room is 4 feet long and 20 feet wide",
+    "Question": "How much more carpet does she need to cover the whole floor?",
+    "Equation": "( ( 4.0 * 20.0 ) - 18.0 )",
+    "Answer": 62.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-925",
+    "Body": "There are many different books in the ' crazy silly school ' series. If you have read 13 of the books and are yet to read 8 books",
+    "Question": "How many books are there in the ' crazy silly school ' series?",
+    "Equation": "( 13.0 + 8.0 )",
+    "Answer": 21.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-926",
+    "Body": "Nell collects cards. She had 438 baseball cards and 18 Ace cards. She gave some of her cards to Jeff and now has 55 Ace cards and 178 baseball cards left.",
+    "Question": "How many more baseball cards than Ace cards does Nell have?",
+    "Equation": "( 178.0 - 55.0 )",
+    "Answer": 123.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-927",
+    "Body": "Matthew had 24 crackers. If Matthew gave equal numbers of crackers to his 3 friends and still had 17 crackers left",
+    "Question": "How many crackers did Matthew give to his friends?",
+    "Equation": "( 24.0 - 17.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-928",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog.",
+    "Question": "How much farther did the grasshopper jump than the mouse?",
+    "Equation": "( 25.0 + 16.0 )",
+    "Answer": 41.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-929",
+    "Body": "They decided to hold the party in their backyard. They have 10 sets of tables and each set has 6 chairs. If there are 11 people sitting on chairs",
+    "Question": "How many chairs are left unoccupied?",
+    "Equation": "( ( 10.0 * 6.0 ) - 11.0 )",
+    "Answer": 49.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-930",
+    "Body": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 512 visitors came to the Buckingham palace that day. If there were 471 visitors the previous day and 808 visitors the day before that",
+    "Question": "How many visited the Buckingham palace within the past 89 days?",
+    "Equation": "( ( 512.0 + 471.0 ) + 808.0 )",
+    "Answer": 1791.0,
+    "Type": "Addition"
+  }
+]

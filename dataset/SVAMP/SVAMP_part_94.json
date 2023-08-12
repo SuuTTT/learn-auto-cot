@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-931",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 44 sacks of ripe oranges and 25 sacks of unripe oranges per day.",
+    "Question": "How many more sacks of ripe oranges than unripe oranges are harvested per day?",
+    "Equation": "( 44.0 - 25.0 )",
+    "Answer": 19.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-932",
+    "Body": "White t - shirts can be purchased in packages of 53. If mom buys 57 packages of white t - shirts and 34 trousers",
+    "Question": "How many white t - shirts will she have?",
+    "Equation": "( 53.0 * 57.0 )",
+    "Answer": 3021.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-933",
+    "Body": "Paul had 2 books. After selling some in a garage sale he bought 150 new ones. If he has 58 books now",
+    "Question": "How many books did he sell?",
+    "Equation": "( ( 2.0 + 150.0 ) - 58.0 )",
+    "Answer": 94.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-934",
+    "Body": "6 storks and 2 birds were sitting on the fence. 3 more birds came to join them.",
+    "Question": "How many more storks than birds are sitting on the fence?",
+    "Equation": "( 6.0 - ( 2.0 + 3.0 ) )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-935",
+    "Body": "Bryan took a look at his books and magazines. If he has 27 books and 80 magazines in each of his 23 bookshelves",
+    "Question": "How many books does he have in total?",
+    "Equation": "( 27.0 * 23.0 )",
+    "Answer": 621.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-936",
+    "Body": "Paul got a box of 531 crayons and 38 erasers for his birthday. At the end of the school year he only had 391 left while not having lost a single erasers.",
+    "Question": "How many more crayons than erasers did he have left?",
+    "Equation": "( 391.0 - 38.0 )",
+    "Answer": 353.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-937",
+    "Body": "Lewis earns a total of $ 1216 during the harvest. If he earns $ 16 each week",
+    "Question": "How many weeks did the harvest last?",
+    "Equation": "( 1216.0 / 16.0 )",
+    "Answer": 76.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-938",
+    "Body": "Dave had 10 apps on his phone. He added 11 new apps. After deleting some he had 4 left.",
+    "Question": "How many apps did he delete?",
+    "Equation": "( ( 10.0 + 11.0 ) - 4.0 )",
+    "Answer": 17.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-939",
+    "Body": "The ring toss game at the carnival made the same amount of money each day. In total in 5 days they earned 165 dollars.",
+    "Question": "How much did they make per day?",
+    "Equation": "( 165.0 / 5.0 )",
+    "Answer": 33.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-940",
+    "Body": "There were 5 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 12 roses and 2 orchids in the vase.",
+    "Question": "How many more roses than orchids are there in the vase now?",
+    "Equation": "( 12.0 - 2.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-961",
+    "Body": "Katie had 84 new games and 19 old games. Her friends had 8 new games and 69 old games.",
+    "Question": "How many new games do they have together?",
+    "Equation": "( 84.0 + 8.0 )",
+    "Answer": 92.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-962",
+    "Body": "Being his favorite, he saved checking on the grapevines after 57 stops. He was told by 252 of the pickers that they fill 108 drums of grapes per day.",
+    "Question": "How many drums of grapes would be filled in 58 days?",
+    "Equation": "( 108.0 * 58.0 )",
+    "Answer": 6264.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-963",
+    "Body": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 45 visitors came to the Buckingham palace on the previous day. If 829 people visited the Buckingham palace within the past 85 days",
+    "Question": "How many visitors visited the Buckingham palace on that day?",
+    "Equation": "( 829.0 - 45.0 )",
+    "Answer": 784.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-964",
+    "Body": "Adam has 9 apples. Jackie has 10 apples.",
+    "Question": "How many more apples does Jackie have than Adam?",
+    "Equation": "( 10.0 - 9.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-965",
+    "Body": "There are 2 baskets of peaches. Each basket has 4 red peaches and some more green peaches. If there are a total of 12 peaches in all baskets",
+    "Question": "How many green peaches are in each basket?",
+    "Equation": "( ( 12.0 / 2.0 ) - 4.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-966",
+    "Body": "A chef had 40 apples and 54 peaches. After making some pies, he had 39 apples left.",
+    "Question": "How many apples did he use?",
+    "Equation": "( 40.0 - 39.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-967",
+    "Body": "A mailman has to give 38 pieces of junk mail to each of the 78 blocks. If there are 19 houses on a block",
+    "Question": "How many pieces of junk mail should he give each house?",
+    "Equation": "( 38.0 / 19.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Divison"
+  },
+  {
+    "ID": "chal-968",
+    "Body": "Mary is baking a cake. The recipe calls for 10 cups of flour 2 cups of sugar and 80 cups of salt. She already put in 7 cups of flour.",
+    "Question": "How many more cups of flour than cups of sugar does she need to add now?",
+    "Equation": "( ( 10.0 - 7.0 ) - 2.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-969",
+    "Body": "Julia played tag with 13 kids on monday and 10 kids on tuesday. She played cards with 15 kids on wednesday.",
+    "Question": "How many kids did she play with altogether?",
+    "Equation": "( ( 13.0 + 10.0 ) + 15.0 )",
+    "Answer": 38.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-970",
+    "Body": "Jesse needs a carpet of size 10 square feet to cover her room. If her room is 5 feet long",
+    "Question": "What is the width of her room?",
+    "Equation": "( 10.0 / 5.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  }
+]

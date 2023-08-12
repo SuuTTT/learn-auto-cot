@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-711",
+    "Body": "Jack received a total of 9 emails in the day. If he received 7 emails in the morning and some more in the afternoon",
+    "Question": "How many emails did Jack receive in the afternoon?",
+    "Equation": "( 9.0 - 7.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-712",
+    "Body": "A grocery store had 19 bottles of diet soda and 60 bottles of regular soda.",
+    "Question": "How many more bottles of regular soda than diet soda did they have?",
+    "Equation": "( 60.0 - 19.0 )",
+    "Answer": 41.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-713",
+    "Body": "A book has 3 chapters. The first chapter is 35 pages long the second chapter is 18 pages long and the third chapter is 3 pages long.",
+    "Question": "How many more pages does the second chapter have than the third chapter?",
+    "Equation": "( 18.0 - 3.0 )",
+    "Answer": 15.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-714",
+    "Body": "Randy has 97 blocks. He uses some blocks to build a tower. If there are 72 blocks left",
+    "Question": "How many blocks did he use to build the tower?",
+    "Equation": "( 97.0 - 72.0 )",
+    "Answer": 25.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-715",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food. 182 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 166 more students suggested adding bacon than those that suggested mashed potatoes",
+    "Question": "How many students suggested bacon?",
+    "Equation": "( 182.0 + 166.0 )",
+    "Answer": 348.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-716",
+    "Body": "A waiter had 13 customers. After some left he got 4 new customers. If he still had 9 customers",
+    "Question": "How many customers left?",
+    "Equation": "( 13.0 - ( 9.0 - 4.0 ) )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-717",
+    "Body": "Every day Ryan spends 3 hours on learning english and some more hours on learning chinese. If he spends a total of 4 hours on learning english and chinese everyday",
+    "Question": "How many hours does he spend on learning chinese?",
+    "Equation": "( 4.0 - 3.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-718",
+    "Body": "A book has 2 chapters across 81 pages. The second chapter is 68 pages long.",
+    "Question": "How many pages are in the second chapter?",
+    "Equation": "( 81.0 - 68.0 )",
+    "Answer": 13.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-719",
+    "Body": "White t - shirts can be purchased in packages. If mom buys 28 packages which contain 56 white t - shirts in total",
+    "Question": "How many white t - shirts does each package have?",
+    "Equation": "( 56.0 / 28.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-720",
+    "Body": "Baker made 52 pastries and 84 cakes. If he sold 102 cakes and 94 pastries",
+    "Question": "How many more cakes than pastries did baker make?",
+    "Equation": "( 84.0 - 52.0 )",
+    "Answer": 32.0,
+    "Type": "Subtraction"
+  }
+]

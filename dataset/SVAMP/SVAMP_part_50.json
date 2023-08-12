@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-491",
+    "Body": "Haley grew 20 trees in her backyard. After a typhoon 4 trees were left.",
+    "Question": "How many trees died in the typhoon?",
+    "Equation": "( 20.0 - 4.0 )",
+    "Answer": 16.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-492",
+    "Body": "Jake has 7 fewer peaches than Steven who has 14 more peaches than Jill. Steven has 15 peaches.",
+    "Question": "How many peaches does Jake have?",
+    "Equation": "( 15.0 - 7.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-493",
+    "Body": "Lewis earns $ 491 every week during the 1181 weeks of harvest. If he has to pay $ 216 rent every week",
+    "Question": "How much money will have at the end of the harvest season?",
+    "Equation": "( ( 491.0 - 216.0 ) * 1181.0 )",
+    "Answer": 324775.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-494",
+    "Body": "Paul had 51 books and 106 pens. After selling some books and pens in a garage sale he had 82 books and 14 pens left.",
+    "Question": "How many pens did he sell in the garage sale?",
+    "Equation": "( 106.0 - 14.0 )",
+    "Answer": 92.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-495",
+    "Body": "Zachary did 44 push-ups and 17 crunches in gym class today. David did 29 more push-ups but 13 less crunches than zachary.",
+    "Question": "How many crunches did David do?",
+    "Equation": "( 17.0 - 13.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-496",
+    "Body": "Paul had 42 pens and 143 books. After selling some books and pens in a garage sale he had 113 books and 19 pens left.",
+    "Question": "How many pens did he sell in the garage sale?",
+    "Equation": "( 42.0 - 19.0 )",
+    "Answer": 23.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-497",
+    "Body": "Danny collects bottle caps and wrappers. He found 71 bottle caps and 24 wrappers at the park. Now he has 28 bottle caps and 16 wrappers in his collection.",
+    "Question": "How many more bottle caps than wrappers does danny have now?",
+    "Equation": "( 28.0 - 16.0 )",
+    "Answer": 12.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-498",
+    "Body": "Dan has $ 4. He bought 99 candy bar for $ 3 each one costing the same amount of money.",
+    "Question": "How much money is left?",
+    "Equation": "( 4.0 - 3.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-499",
+    "Body": "5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus.",
+    "Question": "How many more children got on the bus than those that got off?",
+    "Equation": "( 14.0 - 5.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-500",
+    "Body": "Debby bought 95 soda bottles and 180 water bottles when they were on sale. If she drank 15 water bottles and 54 soda bottles a day",
+    "Question": "How many days would the water bottles last?",
+    "Equation": "( 180.0 / 15.0 )",
+    "Answer": 12.0,
+    "Type": "Common-Division"
+  }
+]

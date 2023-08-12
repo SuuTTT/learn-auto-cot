@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-861",
+    "Body": "Baker made 7 cakes and 148 pastries. If he sold 15 cakes and 103 pastries",
+    "Question": "How many pastries would baker still have?",
+    "Equation": "( 148.0 - 103.0 )",
+    "Answer": 45.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-862",
+    "Body": "Robin cut off 13 inches of his hair. If his hair was 14 inches long initially",
+    "Question": "How long is his hair now?",
+    "Equation": "( 14.0 - 13.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-863",
+    "Body": "They decided to hold the party in their backyard. They have 2 sets of tables, each having the same number of chairs. If there are a total of 12 chairs in the backyard",
+    "Question": "How many chairs are there for each table?",
+    "Equation": "( 12.0 / 2.0 )",
+    "Answer": 6.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-864",
+    "Body": "Debby bought 88 water bottles and 13 soda bottles when they were on sale. If she drank 4 water bottles and 87 soda bottles a day",
+    "Question": "How many days would the water bottles last?",
+    "Equation": "( 88.0 / 4.0 )",
+    "Answer": 22.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-865",
+    "Body": "Last week Fred had 60 dollars and Jason had 19 dollars. Jason washed cars over the weekend and now has 33 dollars.",
+    "Question": "How much money did Jason make washing cars?",
+    "Equation": "( 33.0 - 19.0 )",
+    "Answer": 14.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-866",
+    "Body": "Paul sold some books in a garage sale leaving him with 27 books. If he had 136 books initially",
+    "Question": "How many books did he sell?",
+    "Equation": "( 136.0 - 27.0 )",
+    "Answer": 109.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-867",
+    "Body": "Next on his checklist is wax to stick the feathers together. If the feathers require 166 g of wax and right now he has 20 g",
+    "Question": "How many more grams of wax does he need?",
+    "Equation": "( 166.0 - 20.0 )",
+    "Answer": 146.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-868",
+    "Body": "The bananas in Philip's collection are organized into 196 groups. If there are a total of 392 bananas in Philip's banana collection",
+    "Question": "How big is each group?",
+    "Equation": "( 392.0 / 196.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-869",
+    "Body": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 9 inches and the frog jumped 12 inches.",
+    "Question": "How much farther did the frog jump than the grasshopper?",
+    "Equation": "( 12.0 - 9.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-870",
+    "Body": "In Haley's class 13 boys love to play marbles and 50 boys love to play cards. If Haley has 26 marbles",
+    "Question": "How many will each of the boys receive?",
+    "Equation": "( 26.0 / 13.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  }
+]

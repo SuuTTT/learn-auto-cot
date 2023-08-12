@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-681",
+    "Body": "Summer is almost here and most animals are migrating back to cooler countries. There are 87 bird families living near a mountain. If 18 new bird families joined them",
+    "Question": "How many bird families live near the mountain now?",
+    "Equation": "( 87.0 + 18.0 )",
+    "Answer": 105.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-682",
+    "Body": "Danny collects bottle caps and wrappers. He found 15 bottle caps and 18 wrappers at the park. Now he has 67 wrappers and 35 bottle caps in his collection.",
+    "Question": "How many more wrappers than bottle caps does danny have now?",
+    "Equation": "( 67.0 - 35.0 )",
+    "Answer": 32.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-683",
+    "Body": "Melissa scored a total of 91 points in 13 games scoring the same for each game.",
+    "Question": "How many points did she score in each game?",
+    "Equation": "( 91.0 / 13.0 )",
+    "Answer": 7.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-684",
+    "Body": "Robin's hair was 17 inches long. He cut off some inches of her hair. If his hair is now 13 inches long",
+    "Question": "How much of his hair did he cut?",
+    "Equation": "( 17.0 - 13.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-685",
+    "Body": "Baker made 56 pastries and 124 cakes. If he sold 104 cakes and 29 pastries",
+    "Question": "How many pastries would baker still have?",
+    "Equation": "( 56.0 - 29.0 )",
+    "Answer": 27.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-686",
+    "Body": "The school is planning a field trip. The school has 67 classrooms. There are 66 students in each classroom in the school. If there are 6 seats on each school bus",
+    "Question": "How many buses are needed to take the trip?",
+    "Equation": "( 67.0 * ( 66.0 / 6.0 ) )",
+    "Answer": 737.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-687",
+    "Body": "The Razorback t-shirt shop makes $ 87 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 95 t-shirts. If they sold 47 t-shirts during the Arkansas game",
+    "Question": "How much money did they make from selling the t-shirts?",
+    "Equation": "( 87.0 * 95.0 )",
+    "Answer": 8265.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-688",
+    "Body": "3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them.",
+    "Question": "How many more storks than birds are sitting on the fence?",
+    "Equation": "( 6.0 - ( 3.0 + 2.0 ) )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-689",
+    "Body": "The school is planning a field trip. The school has 21 classrooms. There are 98 students in the school and 7 school buses. If all buses are full",
+    "Question": "How many seats are in each bus?",
+    "Equation": "( 98.0 / 7.0 )",
+    "Answer": 14.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-690",
+    "Body": "Randy has 58 blocks. He uses 27 blocks to build a tower and 53 blocks to build a house.",
+    "Question": "How many blocks did he use to build the tower and the house altogether?",
+    "Equation": "( 27.0 + 53.0 )",
+    "Answer": 80.0,
+    "Type": "Addition"
+  }
+]

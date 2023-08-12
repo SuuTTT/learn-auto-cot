@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Julio Sidney Aiden Shay\" and concatenate them.",
+      "answer": "oyny"
+    },
+    {
+      "question": "Take the last letters of each words in \"Mabel Estela Irene May\" and concatenate them.",
+      "answer": "laey"
+    },
+    {
+      "question": "Take the last letters of each words in \"Marcus Ramirez Junior Arely\" and concatenate them.",
+      "answer": "szry"
+    },
+    {
+      "question": "Take the last letters of each words in \"Todd Joni Gil Fran\" and concatenate them.",
+      "answer": "diln"
+    },
+    {
+      "question": "Take the last letters of each words in \"Gerson Roxanne Deborah Nathaniel\" and concatenate them.",
+      "answer": "nehl"
+    },
+    {
+      "question": "Take the last letters of each words in \"Colton Dexter Katy Brayden\" and concatenate them.",
+      "answer": "nryn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Tori Mariam Gaby Brayan\" and concatenate them.",
+      "answer": "imyn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Michel Roy Sergey Jessie\" and concatenate them.",
+      "answer": "lyye"
+    },
+    {
+      "question": "Take the last letters of each words in \"Anil Enrique Jimmy Jhonny\" and concatenate them.",
+      "answer": "leyy"
+    },
+    {
+      "question": "Take the last letters of each words in \"\u00c1ngel Carlton Sameer Martinez\" and concatenate them.",
+      "answer": "lnrz"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 361,
+    "lEquations": [
+      "X = 22 + 13"
+    ],
+    "lSolutions": [
+      "35"
+    ],
+    "sQuestion": "There are 22 orchid bushes and 40 orange trees currently in the park . Park workers will plant 13 orchid bushes today . How many orchid bushes will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 362,
+    "lEquations": [
+      "X = 33 + 23"
+    ],
+    "lSolutions": [
+      "56"
+    ],
+    "sQuestion": "Mary had 33 Pokemon cards , and 6 were torn . Sam gave Mary 23 new Pokemon cards . How many Pokemon cards does Mary have now ? "
+  },
+  {
+    "iIndex": 363,
+    "lEquations": [
+      "X = 14 + 41"
+    ],
+    "lSolutions": [
+      "55"
+    ],
+    "sQuestion": "Mary picked 14 oranges and Jason picked 41 oranges . Keith picked 38 apples . How many oranges were picked in all ? "
+  },
+  {
+    "iIndex": 364,
+    "lEquations": [
+      "X = 37 + 11"
+    ],
+    "lSolutions": [
+      "48"
+    ],
+    "sQuestion": "Jason grew 37 watermelons and 30 pumpkins . Sandy grew 11 watermelons . How many watermelons did they grow in total ? "
+  },
+  {
+    "iIndex": 365,
+    "lEquations": [
+      "X = 15 + 39"
+    ],
+    "lSolutions": [
+      "54"
+    ],
+    "sQuestion": "Mike went to 15 basketball games this year , but missed 41 . He went to 39 games last year . How many basketball games did Mike go to in total ? "
+  },
+  {
+    "iIndex": 366,
+    "lEquations": [
+      "X = 17 + 27 + 19"
+    ],
+    "lSolutions": [
+      "63"
+    ],
+    "sQuestion": "Melanie had 10 quarters and 17 pennies in her bank . Her dad gave her 27 pennies and her mother gave her 19 pennies . How many pennies does Melanie have now ? "
+  },
+  {
+    "iIndex": 367,
+    "lEquations": [
+      "X = 24 + 42 + 13"
+    ],
+    "lSolutions": [
+      "79"
+    ],
+    "sQuestion": "Joan grew 24 pumpkins , Keith grew 42 pumpkins , and Alyssa grew 13 pumpkins . They worked for 34 days on the farm . How many pumpkins did they grow in all ? "
+  },
+  {
+    "iIndex": 368,
+    "lEquations": [
+      "X = 18 + 26 + 40"
+    ],
+    "lSolutions": [
+      "84"
+    ],
+    "sQuestion": "Mary had 18 baseball cards , and 8 were torn . Fred gave Mary 26 new baseball cards . Mary bought 40 baseball cards . How many baseball cards does Mary have now ? "
+  },
+  {
+    "iIndex": 369,
+    "lEquations": [
+      "X = 11 + 13 + 15"
+    ],
+    "lSolutions": [
+      "39"
+    ],
+    "sQuestion": "Alyssa went to 11 soccer games this year , but missed 12 . She went to 13 games last year and plans to go to 15 games next year . How many soccer games will Alyssa go to in all ? "
+  },
+  {
+    "iIndex": 370,
+    "lEquations": [
+      "X = 48 + 30 + 39"
+    ],
+    "lSolutions": [
+      "117"
+    ],
+    "sQuestion": "There are 48 erasers in the drawer and 30 erasers on the desk . Alyssa placed 39 erasers and 45 rulers on the desk . How many erasers are now there in total ? "
+  }
+]

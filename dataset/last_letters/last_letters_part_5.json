@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Kennedy Ginny Iliana Sky\" and concatenate them.",
+      "answer": "yyay"
+    },
+    {
+      "question": "Take the last letters of each words in \"Billy Kassandra Joy Abe\" and concatenate them.",
+      "answer": "yaye"
+    },
+    {
+      "question": "Take the last letters of each words in \"Nubia Sarah Jalen Kris\" and concatenate them.",
+      "answer": "ahns"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ale Gaspar Sonny Simon\" and concatenate them.",
+      "answer": "eryn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Skylar Chrissy Misty Kike\" and concatenate them.",
+      "answer": "ryye"
+    },
+    {
+      "question": "Take the last letters of each words in \"Gavin Neha Asha Baltazar\" and concatenate them.",
+      "answer": "naar"
+    },
+    {
+      "question": "Take the last letters of each words in \"Camilo Becky Eliza Rebecca\" and concatenate them.",
+      "answer": "oyaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Isela Leslie Stacy Ingrid\" and concatenate them.",
+      "answer": "aeyd"
+    },
+    {
+      "question": "Take the last letters of each words in \"Meg Andrey Gerard Lilia\" and concatenate them.",
+      "answer": "gyda"
+    },
+    {
+      "question": "Take the last letters of each words in \"Denny Carlo Reinaldo Jessi\" and concatenate them.",
+      "answer": "yooi"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-581",
+    "Body": "Baker sold 44 cakes. If he had made 48 cakes initially",
+    "Question": "How many cakes would baker still have?",
+    "Equation": "( 48.0 - 44.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-582",
+    "Body": "Every day Ryan spends 5 hours on learning chinese and some more hours on learning english. If he spends 2 hours more on learning english than on learning chinese",
+    "Question": "How many hours does he spend on learning english?",
+    "Equation": "( 5.0 + 2.0 )",
+    "Answer": 7.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-583",
+    "Body": "Rachel had to complete 8 pages of math homework. If she had to complete 3 more pages of math homework than reading homework",
+    "Question": "How many pages did she have to complete in all?",
+    "Equation": "( ( 8.0 + 8.0 ) - 3.0 )",
+    "Answer": 13.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-584",
+    "Body": "Dan has $ 5. He bought a chocolate for $ 3 and a candy bar for $ 7.",
+    "Question": "How much money did he spend to buy candy bar than he did to buy chocolate?",
+    "Equation": "( 7.0 - 3.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-585",
+    "Body": "Jessie weighed 92 kilograms. After she started to go jogging everyday she lost 56 kilograms in the first week and 99 kilograms in the second week.",
+    "Question": "How much did she weigh after the first week of jogging?",
+    "Equation": "( 92.0 - 56.0 )",
+    "Answer": 36.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-586",
+    "Body": "Julia played tag with 2 kids on monday, 14 kids on tuesday and 16 kids on wednesday.",
+    "Question": "How many kids did she play with on tuesday and wednesday?",
+    "Equation": "( 14.0 + 16.0 )",
+    "Answer": 30.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-587",
+    "Body": "21 children were riding on the bus. At the bus stop 10 children got off the bus while some more got on the bus. Then there were 16 children altogether on the bus.",
+    "Question": "How many children got on the bus at the bus stop?",
+    "Equation": "( ( 16.0 - 21.0 ) + 10.0 )",
+    "Answer": 5.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-588",
+    "Body": "Baker made 62 cakes. Then he made 149 more cakes. He sold 144 of them.",
+    "Question": "How many cakes would baker still have?",
+    "Equation": "( ( 62.0 - 144.0 ) + 149.0 )",
+    "Answer": 67.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-589",
+    "Body": "Paul got a box of some crayons for his birthday. By the end of the school year he only had 291 crayons left since he had either lost or given away 315 of them.",
+    "Question": "How many crayons did he get for his birthday?",
+    "Equation": "( 315.0 + 291.0 )",
+    "Answer": 606.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-590",
+    "Body": "Jack received 5 emails and 6 letters in the morning. He then received 9 emails and 7 letters in the afternoon.",
+    "Question": "How many letters did jack receive in the day?",
+    "Equation": "( 6.0 + 7.0 )",
+    "Answer": 13.0,
+    "Type": "Addition"
+  }
+]

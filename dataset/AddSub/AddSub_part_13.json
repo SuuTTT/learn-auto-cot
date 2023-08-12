@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 121,
+    "lEquations": [
+      "X = 46 - 25"
+    ],
+    "lSolutions": [
+      "21"
+    ],
+    "sQuestion": "There are 46 rulers in the drawer . Tim took 25 rulers from the drawer . How many rulers are now in the drawer ? "
+  },
+  {
+    "iIndex": 122,
+    "lEquations": [
+      "X = 33 - 18"
+    ],
+    "lSolutions": [
+      "15"
+    ],
+    "sQuestion": "There are 33 oak trees currently in the park . Park workers had to cut down 18 oak trees that were damaged . How many oak trees will be in the park when the workers are finished ? "
+  },
+  {
+    "iIndex": 123,
+    "lEquations": [
+      "X = 5.20 + 4.23"
+    ],
+    "lSolutions": [
+      "9.43"
+    ],
+    "sQuestion": "Joan purchased a basketball game for $ 5.20 , and a racing game for $ 4.23 . How much did Joan spend on video games ? "
+  },
+  {
+    "iIndex": 124,
+    "lEquations": [
+      "X = 145.16 + 5.84"
+    ],
+    "lSolutions": [
+      "151"
+    ],
+    "sQuestion": "Mike joined his school 's band . He bought a trumpet for $ 145.16 , and a song book which was $ 5.84 . How much did Mike spend at the music store ? "
+  },
+  {
+    "iIndex": 125,
+    "lEquations": [
+      "X = 5.71 + 6.59"
+    ],
+    "lSolutions": [
+      "12.3"
+    ],
+    "sQuestion": "Alyssa bought some toys . She bought a football for $ 5.71 , and spent $ 6.59 on marbles . In total , how much did Alyssa spend on toys ? "
+  },
+  {
+    "iIndex": 126,
+    "lEquations": [
+      "X = 10.22 + 11.73"
+    ],
+    "lSolutions": [
+      "21.95"
+    ],
+    "sQuestion": "Jessica spent $ 10.22 on a cat toy , and a cage cost her $ 11.73 . What was the total cost of Jessica 's purchases ? "
+  },
+  {
+    "iIndex": 127,
+    "lEquations": [
+      "X = 5.36 + 5.10"
+    ],
+    "lSolutions": [
+      "10.46"
+    ],
+    "sQuestion": "Sara got fast food for lunch . Sara spent $ 5.36 on a hotdog and $ 5.10 on a salad . What was the total of the lunch bill ? "
+  },
+  {
+    "iIndex": 128,
+    "lEquations": [
+      "X = 14.28 + 4.74"
+    ],
+    "lSolutions": [
+      "19.02"
+    ],
+    "sQuestion": "Jason went to the mall on Saturday to buy clothes . He spent $ 14.28 on shorts and $ 4.74 on a jacket . In total , how much money did Jason spend on clothing ? "
+  },
+  {
+    "iIndex": 129,
+    "lEquations": [
+      "X = 12.08 + 9.85"
+    ],
+    "lSolutions": [
+      "21.93"
+    ],
+    "sQuestion": "Alyssa loves eating fruits . Alyssa paid $ 12.08 for grapes , and $ 9.85 for cherries . In total , how much money did Alyssa spend ? "
+  },
+  {
+    "iIndex": 130,
+    "lEquations": [
+      "X = 11.08 + 14.33 + 9.31"
+    ],
+    "lSolutions": [
+      "34.72"
+    ],
+    "sQuestion": "Mary loves eating fruits . Mary paid $ 11.08 for berries , $ 14.33 for apples , and $ 9.31 for peaches . In total , how much money did she spend ? "
+  }
+]

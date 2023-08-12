@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-501",
+    "Body": "Mary is baking a cake. The recipe calls for 3 cups of sugar and 10 cups of flour. She already put in some cups of flour. If she still needs 5 more cups of flour than sugar",
+    "Question": "How many cups of flour did she put in?",
+    "Equation": "( ( 10.0 - 3.0 ) - 5.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-502",
+    "Body": "Faye had 35 packs of pencils each one having 4 pencils. She was placing her pencils into rows with 2 pencils in each row.",
+    "Question": "How many rows could she make?",
+    "Equation": "( 35.0 * ( 4.0 / 2.0 ) )",
+    "Answer": 70.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-503",
+    "Body": "Each Ferris wheel in paradise park has 19 seats. Each seat in a Ferris wheel can hold 15 people.",
+    "Question": "How many people can ride 20 Ferris wheels at the same time?",
+    "Equation": "( ( 19.0 * 15.0 ) * 20.0 )",
+    "Answer": 5700.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-504",
+    "Body": "Bobby had 19 pieces of candy. He ate 2 pieces of candy.",
+    "Question": "How many pieces of candy does he still have left?",
+    "Equation": "( 19.0 - 2.0 )",
+    "Answer": 17.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-505",
+    "Body": "Bobby had 20 pieces of candy. He ate 34 pieces of candy. Then he ate 18 more.",
+    "Question": "How many pieces of candy did Bobby eat?",
+    "Equation": "( 34.0 + 18.0 )",
+    "Answer": 52.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-506",
+    "Body": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 705 visitors came to the Buckingham palace that day. If there were 191 visitors the previous day and 457 visitors the day before that",
+    "Question": "How many more visitors visited the Buckingham palace on that day than on the previous 245 days?",
+    "Equation": "( 705.0 - ( 191.0 + 457.0 ) )",
+    "Answer": 57.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-507",
+    "Body": "Paul had 108 books and 55 pens. After selling some books and pens in a garage sale he had 66 books and 59 pens left.",
+    "Question": "How many books did he sell in the garage sale?",
+    "Equation": "( 108.0 - 66.0 )",
+    "Answer": 42.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-508",
+    "Body": "Marco and his dad went strawberry picking. Marco's dad's strawberries weighed 11 pounds. If together their strawberries weighed 30 pounds.",
+    "Question": "How much did Marco's strawberries weigh?",
+    "Equation": "( 30.0 - 11.0 )",
+    "Answer": 19.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-509",
+    "Body": "Julia played tag with 5 kids on monday, 9 kids on tuesday and 15 kids on wednesday.",
+    "Question": "How many kids did she play with on monday and wednesday?",
+    "Equation": "( 5.0 + 15.0 )",
+    "Answer": 20.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-510",
+    "Body": "Marco and his dad went strawberry picking. Marco's strawberries weighed 15 pounds. If together their strawberries weighed 37 pounds.",
+    "Question": "How much did his dad's strawberries weigh?",
+    "Equation": "( 37.0 - 15.0 )",
+    "Answer": 22.0,
+    "Type": "Subtraction"
+  }
+]

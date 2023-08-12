@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-841",
+    "Body": "Dan has $ 4. He bought a chocolate for $ 7 and a candy bar for $ 2.",
+    "Question": "How much money did he spend to buy chocolate than he did to buy candy bar?",
+    "Equation": "( 7.0 - 2.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-842",
+    "Body": "At the arcade Dave had won 18 tickets. If he used 5 to buy some toys and 11 more to buy some clothes",
+    "Question": "How many tickets did Dave have left?",
+    "Equation": "( 18.0 - ( 5.0 + 11.0 ) )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-843",
+    "Body": "The school is planning a field trip. The school has 24 classrooms. There are 120 students in the school with each classroom having the same number of students. There are 84 seats on each school bus.",
+    "Question": "How many students are in each class?",
+    "Equation": "( 120.0 / 24.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-844",
+    "Body": "He then went to see the oranges being harvested. He found out that the harvest will go on for 4 days.",
+    "Question": "How many sacks do they harvest per day if they harvested a total of 56 sacks of oranges?",
+    "Equation": "( 56.0 / 4.0 )",
+    "Answer": 14.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-845",
+    "Body": "There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase.",
+    "Question": "How many more roses did she throw away than those she cut from her garden?",
+    "Equation": "( 21.0 - 15.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-846",
+    "Body": "Allan brought 2 balloons and Jake brought 6 balloons to the park. Allan then bought 3 more balloons at the park.",
+    "Question": "How many more balloons did Jake have than Allan in the park?",
+    "Equation": "( 6.0 - ( 2.0 + 3.0 ) )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-847",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 28 sacks of ripe oranges and 52 sacks of unripe oranges per day.",
+    "Question": "How many sacks of oranges will they have after 26 days of harvest?",
+    "Equation": "( ( 28.0 + 52.0 ) * 26.0 )",
+    "Answer": 2080.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-848",
+    "Body": "Together Adam and Jackie have 6 apples. He has 4 apples more than adam and jackie together do.",
+    "Question": "How many apples does he have?",
+    "Equation": "( 6.0 + 4.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-849",
+    "Body": "After a typhoon, 2 trees in Haley's backyard died. If she had grown 11 trees initially",
+    "Question": "How many more trees survived the typhoon than those that died?",
+    "Equation": "( ( 11.0 - 2.0 ) - 2.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-850",
+    "Body": "Allan brought 5 balloons and Jake brought 6 balloons to the park. Jake then bought 3 more balloons at the park.",
+    "Question": "How many balloons did Jake bring to the park?",
+    "Equation": "( 6.0 + 3.0 )",
+    "Answer": 9.0,
+    "Type": "Addition"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 181,
+    "lEquations": [
+      "X = 0.3 - 0.2"
+    ],
+    "lSolutions": [
+      "0.1"
+    ],
+    "sQuestion": "A marine biologist measured 1 fish that was 0.3 foot long and a second fish that was 0.2 foot long . How much longer was the first fish ? "
+  },
+  {
+    "iIndex": 182,
+    "lEquations": [
+      "X = 0.3333333333333333 + 0.3333333333333333"
+    ],
+    "lSolutions": [
+      "0.6666666666666666"
+    ],
+    "sQuestion": "Hannah 's Vegetarian Restaurant bought 0.3333333333333333 pound of green peppers and 0.3333333333333333 pound of red peppers . How many pounds of peppers did Hannah 's Vegetarian Restaurant buy in all ? "
+  },
+  {
+    "iIndex": 183,
+    "lEquations": [
+      "X = 0.125 + 0.125"
+    ],
+    "lSolutions": [
+      "0.25"
+    ],
+    "sQuestion": "Ella owns 2 dogs . Each day , 1 dog eats 0.125 scoop of dog food and the other dog eats 0.125 scoop . Together , how much dog food do the 2 dogs eat each day ? "
+  },
+  {
+    "iIndex": 184,
+    "lEquations": [
+      "X = 0.8 - 0.2"
+    ],
+    "lSolutions": [
+      "0.6"
+    ],
+    "sQuestion": "Blake filled a bucket with 0.8 gallon of water . Later , he poured out 0.2 gallon of the water . How much water is in the bucket ? "
+  },
+  {
+    "iIndex": 185,
+    "lEquations": [
+      "X = 0.6666666666666666 - 0.5"
+    ],
+    "lSolutions": [
+      "0.16666666666666666"
+    ],
+    "sQuestion": "Mandy made an apple pie . She used 0.6666666666666666 tablespoon of cinnamon and 0.5 tablespoon of nutmeg . How much more cinnamon than nutmeg did Mandy use ? "
+  },
+  {
+    "iIndex": 186,
+    "lEquations": [
+      "X = 0.6 + 0.2"
+    ],
+    "lSolutions": [
+      "0.8"
+    ],
+    "sQuestion": "The Montoya family spends 0.6 their budget on groceries and another 0.2 going out to eat . Altogether , what fraction of their budget does the Montoya family spend on food ? "
+  },
+  {
+    "iIndex": 187,
+    "lEquations": [
+      "X = 0.7 + 0.2"
+    ],
+    "lSolutions": [
+      "0.9"
+    ],
+    "sQuestion": "In Mr. Olsen 's mathematics class , 0.7 the students received A 's and 0.2 received B 's . What fraction of the students received either A 's or B 's ? "
+  },
+  {
+    "iIndex": 188,
+    "lEquations": [
+      "X = 0.16666666666666666 + 0.6666666666666666"
+    ],
+    "lSolutions": [
+      "0.8333333333333334"
+    ],
+    "sQuestion": "There is 0.16666666666666666 cup of oil in Scarlett 's measuring cup . If Scarlett adds 0.6666666666666666 cup more , how much oil will be in the measuring cup ? "
+  },
+  {
+    "iIndex": 189,
+    "lEquations": [
+      "X = 0.2 + 0.4"
+    ],
+    "lSolutions": [
+      "0.6"
+    ],
+    "sQuestion": "1 evening , a restaurant served a total of 0.2 loaf of wheat bread and 0.4 loaf of white bread . How many loaves were served in all ? "
+  },
+  {
+    "iIndex": 190,
+    "lEquations": [
+      "X = 0.4 - 0.2"
+    ],
+    "lSolutions": [
+      "0.2"
+    ],
+    "sQuestion": "Stanley ran 0.4 mile and walked 0.2 mile . How much farther did Stanley run than walk ? "
+  }
+]

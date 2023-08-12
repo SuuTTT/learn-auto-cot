@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-971",
+    "Body": "There are 4502 skittles in Steven's skittles collection. Steven also has 4276 erasers. If the skittles and erasers are organized into 154 groups",
+    "Question": "How big is each group?",
+    "Equation": "( ( 4502.0 + 4276.0 ) / 154.0 )",
+    "Answer": 57.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-972",
+    "Body": "A mailman has to give 4 pieces of junk mail to each house in each of the 16 blocks. If there are 17 houses in each block",
+    "Question": "How many pieces of junk mail should he give in total?",
+    "Equation": "( ( 4.0 * 17.0 ) * 16.0 )",
+    "Answer": 1088.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-973",
+    "Body": "A book has 3 chapters. The first chapter is 53 pages long the second chapter is 75 pages long and the third chapter is 21 pages long.",
+    "Question": "How many more pages does the first chapter have than the third chapter?",
+    "Equation": "( 53.0 - 21.0 )",
+    "Answer": 32.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-974",
+    "Body": "Dave had 21 apps on his phone. He added 89 new apps. After deleting some he had 24 left.",
+    "Question": "How many more apps did he add than he deleted?",
+    "Equation": "( 24.0 - 21.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-975",
+    "Body": "Bobby ate 17 pieces of candy. Then he ate 15 more. If he initially had 36 pieces of candy",
+    "Question": "How many pieces of candy does he still have left?",
+    "Equation": "( 36.0 - ( 17.0 + 15.0 ) )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-976",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. There are some bird families living near the mountain. 20 bird families flew away for winter while 14 bird families stayed behind.",
+    "Question": "How many bird families were living near the mountain at the start?",
+    "Equation": "( 20.0 + 14.0 )",
+    "Answer": 34.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-977",
+    "Body": "Frank was reading through some books. Each book had 66 pages and it took Frank 12 days to finish each book. If he takes 492 days to finish all books",
+    "Question": "How many books did he read?",
+    "Equation": "( 492.0 / 12.0 )",
+    "Answer": 41.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-978",
+    "Body": "David did 36 more push-ups but 33 less crunches than Zachary in gym class today. If Zachary did 58 push-ups and 33 crunches",
+    "Question": "How many more push-ups than crunches did Zachary do?",
+    "Equation": "( 58.0 - 33.0 )",
+    "Answer": 25.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-979",
+    "Body": "Rebecca wants to split a collection of eggs into groups of 20. Rebecca has 5 marbles and 12 eggs.",
+    "Question": "How many more eggs does Rebecca have than marbles?",
+    "Equation": "( 12.0 - 5.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-980",
+    "Body": "Baker made 81 cakes. Then he made 92 more cakes. He sold 46 of them.",
+    "Question": "How many more cakes did baker make than those he sold?",
+    "Equation": "( ( 81.0 + 92.0 ) - 46.0 )",
+    "Answer": 127.0,
+    "Type": "Subtraction"
+  }
+]

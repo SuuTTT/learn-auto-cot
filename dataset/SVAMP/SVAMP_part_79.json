@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-781",
+    "Body": "There were 106 dollars in Olivia's wallet. After she visited a supermarket and a showroom there were 26 dollars left. If she spent 49 dollars at the showroom",
+    "Question": "How much did she spend at the supermarket?",
+    "Equation": "( ( 106.0 - 26.0 ) - 49.0 )",
+    "Answer": 31.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-782",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 24 inches. The frog jumped 33 inches farther than the grasshopper and the mouse jumped 5 inches lesser than the frog.",
+    "Question": "How much farther did the mouse jump than the grasshopper?",
+    "Equation": "( 33.0 - 5.0 )",
+    "Answer": 28.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-783",
+    "Body": "Rachel picked 6 ripe apples from her tree. Now the tree has 2 ripe apples and 4 unripe apples.",
+    "Question": "How many apples did the tree have to begin with?",
+    "Equation": "( ( 6.0 + 2.0 ) + 4.0 )",
+    "Answer": 12.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-784",
+    "Body": "Frank was reading through his favorite book. The book had 392 pages and he read 14 pages per day.",
+    "Question": "How many days did he take to finish the book?",
+    "Equation": "( 392.0 / 14.0 )",
+    "Answer": 28.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-785",
+    "Body": "Ed had 24 more marbles than Doug. Doug lost 27 of his marbles at the playground while Ed found 9 more marbles.",
+    "Question": "How many more marbles did Ed have than Doug then?",
+    "Equation": "( ( 24.0 + 27.0 ) + 9.0 )",
+    "Answer": 60.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-786",
+    "Body": "Faye was placing her pencils into rows with 5 pencils in each row. If she had 35 pencils and 7 crayons",
+    "Question": "How many rows could she make?",
+    "Equation": "( 35.0 / 5.0 )",
+    "Answer": 7.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-787",
+    "Body": "Some children were riding on the bus. At the bus stop 2 more children got on the bus. Then there were 41 children altogether on the bus.",
+    "Question": "How many children were riding on the bus before the bus stop?",
+    "Equation": "( 41.0 - 2.0 )",
+    "Answer": 39.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-788",
+    "Body": "Danny has 12 bottle caps in his collection. He found 53 bottle caps at the park.",
+    "Question": "How many bottle caps does he have now?",
+    "Equation": "( 12.0 + 53.0 )",
+    "Answer": 65.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-789",
+    "Body": "Allan brought 5 balloons and Jake brought 3 balloons to the park.",
+    "Question": "How many more balloons did Allan have than Jake in the park?",
+    "Equation": "( 5.0 - 3.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-790",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. There are 8 bird families living near the mountain. If 42 bird families flew away to africa and 31 bird families flew away to asia",
+    "Question": "How many more bird families flew away to africa than those that flew away to asia?",
+    "Equation": "( 42.0 - 31.0 )",
+    "Answer": 11.0,
+    "Type": "Subtraction"
+  }
+]

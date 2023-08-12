@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Jesse Roderick Travis Rita\" and concatenate them.",
+      "answer": "eksa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Cinthia Lloyd Jacqueline Jc\" and concatenate them.",
+      "answer": "adec"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sterling Jenifer Patsy Denise\" and concatenate them.",
+      "answer": "grye"
+    },
+    {
+      "question": "Take the last letters of each words in \"Beatriz Gillian Coco Vivian\" and concatenate them.",
+      "answer": "znon"
+    },
+    {
+      "question": "Take the last letters of each words in \"Prince Rene Vishal Patrick\" and concatenate them.",
+      "answer": "eelk"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jae Dennis Cris Bernadette\" and concatenate them.",
+      "answer": "esse"
+    },
+    {
+      "question": "Take the last letters of each words in \"Hank Janine Frankie Isa\" and concatenate them.",
+      "answer": "keea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Max Mikey Cynthia Holly\" and concatenate them.",
+      "answer": "xyay"
+    },
+    {
+      "question": "Take the last letters of each words in \"Christy Rey Michelle Dolly\" and concatenate them.",
+      "answer": "yyey"
+    },
+    {
+      "question": "Take the last letters of each words in \"Annie To\u00f1o Sharon Delores\" and concatenate them.",
+      "answer": "eons"
+    }
+  ]
+}

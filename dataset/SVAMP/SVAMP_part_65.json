@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-641",
+    "Body": "Dan has $ 2. He bought some candy bar for $ 6 each one costing $ 3.",
+    "Question": "How many candy bar did he buy?",
+    "Equation": "( 6.0 / 3.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-642",
+    "Body": "Lucy went to the grocery store. She bought 4 packs of cookie, 22 packs of cake and 16 packs of chocolate.",
+    "Question": "How many packs of groceries did she buy in all?",
+    "Equation": "( ( 4.0 + 22.0 ) + 16.0 )",
+    "Answer": 42.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-643",
+    "Body": "The school has 304 grades and each grade has 75 students",
+    "Question": "How many students were there in total?",
+    "Equation": "( 304.0 * 75.0 )",
+    "Answer": 22800.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-644",
+    "Body": "The cave is 1218 feet deep and they are already at 849 feet. If they are travelling at speed of 17",
+    "Question": "How much farther until they reach the end of the cave?",
+    "Equation": "( 1218.0 - 849.0 )",
+    "Answer": 369.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-645",
+    "Body": "Bobby had 32 pieces of candy. He ate some pieces of candy. If he has 20 pieces of candy left",
+    "Question": "How many pieces of candy did Bobby eat?",
+    "Equation": "( 32.0 - 20.0 )",
+    "Answer": 12.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-646",
+    "Body": "Baker sold 8 cakes. If he had made 40 cakes initially",
+    "Question": "How many more cakes did baker make than those he sold?",
+    "Equation": "( 40.0 - 8.0 )",
+    "Answer": 32.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-647",
+    "Body": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 92 visitors came to the Buckingham palace that day. If there were 419 visitors the previous day and 103 visitors the day before that",
+    "Question": "How many visited the Buckingham palace before that day?",
+    "Equation": "( 419.0 + 103.0 )",
+    "Answer": 522.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-648",
+    "Body": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 100 visitors came to the Buckingham palace on the previous day. If there were 666 visitors on that day",
+    "Question": "How many more visitors visited the Buckingham palace on that day than on the previous day?",
+    "Equation": "( 666.0 - 100.0 )",
+    "Answer": 566.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-649",
+    "Body": "In Haley's class 4 are boys who love to play marbles. If Haley has 23 marbles and wants to keep 15 marbles for herself",
+    "Question": "How many will each of the boys receive?",
+    "Equation": "( ( 23.0 - 15.0 ) / 4.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-650",
+    "Body": "Matthew had 22 crackers and 34 cakes. If Matthew gave equal numbers of crackers and cakes to his 11 friends",
+    "Question": "How many crackers did each person eat?",
+    "Equation": "( 22.0 / 11.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  }
+]

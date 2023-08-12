@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Norma Timothy Willie Mathew\" and concatenate them.",
+      "answer": "ayew"
+    },
+    {
+      "question": "Take the last letters of each words in \"Maricruz Alfredo Barry Deepak\" and concatenate them.",
+      "answer": "zoyk"
+    },
+    {
+      "question": "Take the last letters of each words in \"Julia Kirsten Pam Adan\" and concatenate them.",
+      "answer": "anmn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Adalberto Jamal Carter Robyn\" and concatenate them.",
+      "answer": "olrn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Nicky Eden James Matt\" and concatenate them.",
+      "answer": "ynst"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jaime Brad Levi Emmanuel\" and concatenate them.",
+      "answer": "edil"
+    },
+    {
+      "question": "Take the last letters of each words in \"Kristie Johnnie Marisa Derick\" and concatenate them.",
+      "answer": "eeak"
+    },
+    {
+      "question": "Take the last letters of each words in \"Wilfredo Abby Karthik Perry\" and concatenate them.",
+      "answer": "oyky"
+    },
+    {
+      "question": "Take the last letters of each words in \"Pancho Claudio Elaine Vicky\" and concatenate them.",
+      "answer": "ooey"
+    },
+    {
+      "question": "Take the last letters of each words in \"Teri Lina Mery Melanie\" and concatenate them.",
+      "answer": "iaye"
+    }
+  ]
+}

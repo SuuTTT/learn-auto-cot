@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-201",
+    "Body": "A grocery store had 4 bottles of diet soda. If they had 79 more bottles of regular soda than diet soda",
+    "Question": "How many bottles of regular soda did they have?",
+    "Equation": "( 4.0 + 79.0 )",
+    "Answer": 83.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-202",
+    "Body": "During the Arkansas and Texas tech game the Razorback t-shirt shop made $ 60 by selling t-shirts. If they make $ 10 dollars off each t-shirt sold",
+    "Question": "How many t-shirts did they sell?",
+    "Equation": "( 60.0 / 10.0 )",
+    "Answer": 6.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-203",
+    "Body": "Frank was reading through his favorite book. He read 22 pages per day and it took him 569 days to finish the book.",
+    "Question": "How many pages are there in the book?",
+    "Equation": "( 22.0 * 569.0 )",
+    "Answer": 12518.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-204",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. 86 bird families flew away for the winter from near a mountain. If there were 45 bird families living near the mountain initially",
+    "Question": "How many more bird families flew away for the winter than those that stayed behind?",
+    "Equation": "( 86.0 - ( 45.0 - 86.0 ) )",
+    "Answer": 127.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-205",
+    "Body": "Allan brought 2 balloons to the park and then bought 3 more balloons there. If Jake brought 6 balloons to the park",
+    "Question": "How many more balloons did Jake have than Allan in the park?",
+    "Equation": "( 6.0 - ( 2.0 + 3.0 ) )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-206",
+    "Body": "Bryan took a look at his books and magazines. If he has 9 books and 46 magazines in each of his 10 bookshelves",
+    "Question": "How many magazines does he have in total?",
+    "Equation": "( 46.0 * 10.0 )",
+    "Answer": 460.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-207",
+    "Body": "Rachel had to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework.",
+    "Question": "How many pages of math and biology homework did she have to complete?",
+    "Equation": "( 8.0 + 3.0 )",
+    "Answer": 11.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-208",
+    "Body": "Every day Ryan spends 2 hours on learning english, 5 hours on learning chinese and 4 hours on learning spanish.",
+    "Question": "How many more hours does he spend on learning chinese than he does on learning spanish?",
+    "Equation": "( 5.0 - 4.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-209",
+    "Body": "2 birds were sitting on the fence. 5 more birds and 4 more storks came to join them.",
+    "Question": "How many more birds than storks are sitting on the fence?",
+    "Equation": "( ( 2.0 + 5.0 ) - 4.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-210",
+    "Body": "Paco had 6 cookies. He gave 30 cookies to his friend and ate 23 cookies.",
+    "Question": "How many more cookies did he give to his friend than those he ate?",
+    "Equation": "( 30.0 - 23.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-951",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 19 inches. The frog jumped 39 inches farther than the grasshopper and the mouse jumped 94 inches lesser than the frog.",
+    "Question": "How far did the frog jump?",
+    "Equation": "( 19.0 + 39.0 )",
+    "Answer": 58.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-952",
+    "Body": "Adam has 5 more apples than Jackie. Jackie has 89 oranges and 11 apples.",
+    "Question": "How many apples does Adam have?",
+    "Equation": "( 5.0 + 11.0 )",
+    "Answer": 16.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-953",
+    "Body": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 132 visitors came to the Buckingham palace that day. If 406 people visited the Buckingham palace within the past 327 days",
+    "Question": "How many visitors visited the Buckingham palace on the previous day?",
+    "Equation": "( 406.0 - 132.0 )",
+    "Answer": 274.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-954",
+    "Body": "29 campers went rowing and 66 campers went hiking in the morning. 26 campers went rowing in the afternoon.",
+    "Question": "How many more campers went rowing in the morning than in the afternoon?",
+    "Equation": "( 29.0 - 26.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-955",
+    "Body": "Dave had 17 apps on his phone. After adding some he had 18 left.",
+    "Question": "How many apps did he add?",
+    "Equation": "( 18.0 - 17.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-956",
+    "Body": "There were 174 parents in the program and 521 pupils too.",
+    "Question": "How many more pupils were present compared to parents in the program?",
+    "Equation": "( 521.0 - 174.0 )",
+    "Answer": 347.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-957",
+    "Body": "Paco ate 19 cookies and had 35 cookies left.",
+    "Question": "How many cookies did he have in the beginning?",
+    "Equation": "( 19.0 + 35.0 )",
+    "Answer": 54.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-958",
+    "Body": "If each bag has 3 cookies and you had 21 cookies in total",
+    "Question": "How many bags of cookies do you have?",
+    "Equation": "( 21.0 / 3.0 )",
+    "Answer": 7.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-959",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 39 inches. The grasshopper jumped 19 inches farther than the frog and the mouse jumped 12 inches lesser than the frog.",
+    "Question": "How far did the mouse jump?",
+    "Equation": "( ( 39.0 - 19.0 ) - 12.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-960",
+    "Body": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 94 of the pickers that they fill 90 drums of grapes in 6 days.",
+    "Question": "How many drums of grapes would be filled per day?",
+    "Equation": "( 90.0 / 6.0 )",
+    "Answer": 15.0,
+    "Type": "Common-Division"
+  }
+]

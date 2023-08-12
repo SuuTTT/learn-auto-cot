@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-191",
+    "Body": "Baker made 43 cakes and 114 pastries. If he sold 154 pastries and 78 cakes",
+    "Question": "How many more pastries than cakes did baker sell?",
+    "Equation": "( 154.0 - 78.0 )",
+    "Answer": 76.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-192",
+    "Body": "Haley has 20 marbles. In her class 2 boys love to play marbles. If she distributes her marbles equally",
+    "Question": "How many will each of the boys receive?",
+    "Equation": "( 20.0 / 2.0 )",
+    "Answer": 10.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-193",
+    "Body": "They decided to hold the party in their backyard. They have 4 sets of tables and each set has 3 chairs. If a total of 14 people will attend the party",
+    "Question": "How many more chairs will they have to buy?",
+    "Equation": "( 14.0 - ( 4.0 * 3.0 ) )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-194",
+    "Body": "Last week Fred had 19 dollars and Jason had 16 dollars. They washed cars over the weekend and now Fred has 40 dollars and Jason has 69 dollars.",
+    "Question": "How much money did Fred earn over the weekend?",
+    "Equation": "( 40.0 - 19.0 )",
+    "Answer": 21.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-195",
+    "Body": "Paco had 25 cookies. He ate 5 of them. Then he bought 3 more cookies",
+    "Question": "How many more cookies did he eat than those he bought?",
+    "Equation": "( 5.0 - 3.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-196",
+    "Body": "Rachel has 4 apple trees. She picked 7 apples from each of her trees. Now the trees have a total 29 apples still on them.",
+    "Question": "How many apples did Rachel pick in all?",
+    "Equation": "( 4.0 * 7.0 )",
+    "Answer": 28.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-197",
+    "Body": "Jake has 8 fewer peaches and 10 more apples than Steven. Steven has 11 apples and 18 peaches.",
+    "Question": "How many more peaches than apples does Steven have?",
+    "Equation": "( 18.0 - 11.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-198",
+    "Body": "A grocery store had a total of 30 bottles of which 28 were bottles of regular soda and the rest were bottles of diet soda.",
+    "Question": "How many bottles of diet soda did they have?",
+    "Equation": "( 30.0 - 28.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-199",
+    "Body": "The Ferris wheel in paradise park has 2 small seats and 23 large seats. Each small seat can hold 14 people and large seat can hold 54 people.",
+    "Question": "How many people can ride the Ferris wheel on small seats?",
+    "Equation": "( 2.0 * 14.0 )",
+    "Answer": 28.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-200",
+    "Body": "Debby bought 360 soda bottles and 162 water bottles when they were on sale. If she drank 122 water bottles and 9 soda bottles a day",
+    "Question": "How many days would the soda bottles last?",
+    "Equation": "( 360.0 / 9.0 )",
+    "Answer": 40.0,
+    "Type": "Common-Division"
+  }
+]

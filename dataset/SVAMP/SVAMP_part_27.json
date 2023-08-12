@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-261",
+    "Body": "The Razorback t-shirt shop makes $ 106 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 242 t-shirts. If they sold 115 t-shirts during the Arkansas game",
+    "Question": "How many t-shirts did they sell during the Texas tech game?",
+    "Equation": "( 242.0 - 115.0 )",
+    "Answer": 127.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-262",
+    "Body": "The Razorback t-shirt shop makes $ 23 dollars off each t-shirt sold. During the Arkansas and Texas tech game they made $ 230 by selling t-shirts.",
+    "Question": "How many t-shirts did they sell?",
+    "Equation": "( 230.0 / 23.0 )",
+    "Answer": 10.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-263",
+    "Body": "Randy has 90 blocks. He uses 89 blocks to build a house and 63 blocks to build a tower.",
+    "Question": "How many more blocks did he use to build the house than he did to build the tower?",
+    "Equation": "( 89.0 - 63.0 )",
+    "Answer": 26.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-264",
+    "Body": "Allan brought 2 balloons and Jake brought 3 balloons to the park.",
+    "Question": "How many more balloons did Jake have than Allan in the park?",
+    "Equation": "( 3.0 - 2.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-265",
+    "Body": "Every day Ryan spends 7 hours on learning english, 2 hours on learning chinese and 4 hours on learning spanish.",
+    "Question": "How many more hours does he spend on learning english than he does on learning spanish?",
+    "Equation": "( 7.0 - 4.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-266",
+    "Body": "Robin has 43 packages of gum. There are 23 pieces in each package. Robin has 8 extra pieces of gum.",
+    "Question": "How many pieces of gum does Robin have?",
+    "Equation": "( ( 43.0 * 23.0 ) + 8.0 )",
+    "Answer": 997.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-267",
+    "Body": "Paul had 108 books. After selling some books in a garage sale and giving 35 books to his friend he had 62 books left.",
+    "Question": "How many books did he sell in the garage sale?",
+    "Equation": "( ( 108.0 - 35.0 ) - 62.0 )",
+    "Answer": 11.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-268",
+    "Body": "For the walls of the house he would use 12 large planks of wood and 17 small planks. If each large plank of wood needs 14 pieces of nails to be secured and each small plank needs 25 nails.",
+    "Question": "How many planks does John need for the house wall?",
+    "Equation": "( 12.0 + 17.0 )",
+    "Answer": 29.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-269",
+    "Body": "Melissa played 3 games and scored a total of 81 points scoring the same for each game.",
+    "Question": "How many points did she score in each game?",
+    "Equation": "( 81.0 / 3.0 )",
+    "Answer": 27.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-270",
+    "Body": "Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left.",
+    "Question": "How many more Ace cards than baseball cards does Nell have?",
+    "Equation": "( 495.0 - 404.0 )",
+    "Answer": 91.0,
+    "Type": "Subtraction"
+  }
+]

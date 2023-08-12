@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 41,
+    "lEquations": [
+      "X = 21 + 49"
+    ],
+    "lSolutions": [
+      "70"
+    ],
+    "sQuestion": "Sara had 21 quarters in her bank . Her dad gave her 49 quarters . How many quarters does she have now ? "
+  },
+  {
+    "iIndex": 42,
+    "lEquations": [
+      "X = 41 + 30"
+    ],
+    "lSolutions": [
+      "71"
+    ],
+    "sQuestion": "There are 41 pencils in the drawer . Mike placed 30 pencils in the drawer . How many pencils are now there in total ? "
+  },
+  {
+    "iIndex": 43,
+    "lEquations": [
+      "X = 10 + 38"
+    ],
+    "lSolutions": [
+      "48"
+    ],
+    "sQuestion": "Joan has 10 books . Tom has 38 books . How many books do they have together ? "
+  },
+  {
+    "iIndex": 44,
+    "lEquations": [
+      "X = 40 + 41"
+    ],
+    "lSolutions": [
+      "81"
+    ],
+    "sQuestion": "Joan has 40 blue balloons Melanie has 41 blue balloons . How many blue balloons do they have in total ? "
+  },
+  {
+    "iIndex": 45,
+    "lEquations": [
+      "X = 38 + 44"
+    ],
+    "lSolutions": [
+      "82"
+    ],
+    "sQuestion": "Fred grew 38 cantelopes . Tim grew 44 cantelopes . How many cantelopes did they grow in total ? "
+  },
+  {
+    "iIndex": 46,
+    "lEquations": [
+      "X = 14 + 29"
+    ],
+    "lSolutions": [
+      "43"
+    ],
+    "sQuestion": "Sam went to 14 football games this year . He went to 29 games last year . How many football games did Sam go to in all ? "
+  },
+  {
+    "iIndex": 47,
+    "lEquations": [
+      "X = 18 + 41"
+    ],
+    "lSolutions": [
+      "59"
+    ],
+    "sQuestion": "Mary found 18 seashells and Jessica found 41 seashells on the beach . How many seashells did they find together ? "
+  },
+  {
+    "iIndex": 48,
+    "lEquations": [
+      "X = 39 + 41 + 20"
+    ],
+    "lSolutions": [
+      "100"
+    ],
+    "sQuestion": "There are 39 dogwood trees currently in the park . Park workers will plant 41 dogwood trees today and 20 dogwood trees tomorrow . How many dogwood trees will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 49,
+    "lEquations": [
+      "X = 10 + 24 + 33"
+    ],
+    "lSolutions": [
+      "67"
+    ],
+    "sQuestion": "Sandy has 10 books , Benny has 24 books , and Tim has 33 books . How many books do they have together ? "
+  },
+  {
+    "iIndex": 50,
+    "lEquations": [
+      "X = 46 + 47 + 12"
+    ],
+    "lSolutions": [
+      "105"
+    ],
+    "sQuestion": "Jason picked 46 pears , Keith picked 47 pears , and Mike picked 12 pears from the pear tree . How many pears were picked in total ? "
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 21,
+    "lEquations": [
+      "X = 7 + 8 + 4"
+    ],
+    "lSolutions": [
+      "19"
+    ],
+    "sQuestion": "Melanie had 7 dimes in her bank . Her dad gave her 8 dimes and her mother gave her 4 dimes . How many dimes does Melanie have now ? "
+  },
+  {
+    "iIndex": 22,
+    "lEquations": [
+      "X = 5 + 6 + 3"
+    ],
+    "lSolutions": [
+      "14"
+    ],
+    "sQuestion": "A restaurant served 5 cakes during lunch and 6 during dinner today . The restaurant served 3 cakes yesterday . How many cakes were served in total ? "
+  },
+  {
+    "iIndex": 23,
+    "lEquations": [
+      "X = 4 + 9 + 3"
+    ],
+    "lSolutions": [
+      "16"
+    ],
+    "sQuestion": "Melanie picked 4 plums , Dan picked 9 plums , and Sally picked 3 plums from the plum tree . How many plums were picked in total ? "
+  },
+  {
+    "iIndex": 24,
+    "lEquations": [
+      "X = 7 + 3 + 2"
+    ],
+    "lSolutions": [
+      "12"
+    ],
+    "sQuestion": "There are 7 dogwood trees currently in the park . Park workers will plant 3 dogwood trees today and 2 dogwood trees tomorrow . How many dogwood trees will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 25,
+    "lEquations": [
+      "X = 4 + 5 + 9"
+    ],
+    "lSolutions": [
+      "18"
+    ],
+    "sQuestion": "Sara grew 4 onions , Sally grew 5 onions , and Fred grew 9 onions . How many onions did they grow in all ? "
+  },
+  {
+    "iIndex": 26,
+    "lEquations": [
+      "X = 43 + 24"
+    ],
+    "lSolutions": [
+      "67"
+    ],
+    "sQuestion": "Jason has 43 blue and 16 red marbles . Tom has 24 blue marbles . How many blue marbles do they have in all ? "
+  },
+  {
+    "iIndex": 27,
+    "lEquations": [
+      "X = 18 + 47"
+    ],
+    "lSolutions": [
+      "65"
+    ],
+    "sQuestion": "Sam found 18 seashells and Mary found 47 seashells on the beach . How many seashells did they find together ? "
+  },
+  {
+    "iIndex": 28,
+    "lEquations": [
+      "X = 23 + 28"
+    ],
+    "lSolutions": [
+      "51"
+    ],
+    "sQuestion": "Jason grew 23 watermelons and 18 turnips . Nancy grew 28 watermelons . How many watermelons did they grow in total ? "
+  },
+  {
+    "iIndex": 29,
+    "lEquations": [
+      "X = 11 + 14"
+    ],
+    "lSolutions": [
+      "25"
+    ],
+    "sQuestion": "There are 11 rulers and 34 crayons in the drawer . Tim placed 14 rulers in the drawer . How many rulers are now there in all ? "
+  },
+  {
+    "iIndex": 30,
+    "lEquations": [
+      "X = 45 + 11"
+    ],
+    "lSolutions": [
+      "56"
+    ],
+    "sQuestion": "Sara picked 45 pears and Sally picked 11 pears from the pear tree . How many pears were picked in total ? "
+  }
+]

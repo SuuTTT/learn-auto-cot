@@ -1,0 +1,212 @@
+Cluster  1
+Q: There were 8 friends playing a video game online when 2 more players joined the game. If each player had 6 lives, how many lives did they have total?
+A:
+Let's think step by step. There were 8 friends playing a game. So, they had 8*6=48 lives in total. Then, 2 more players joined the game. So, the total number of lives became 8*6+2*6=60.
+60
+60
+
+Cluster  2
+Q: For Halloween Katie and her sister combined the candy they received. Katie had 8 pieces of candy while her sister had 23. If they ate 8 pieces the first night, how many pieces do they have left?
+A:
+Let's think step by step. Katie and her sister have a total of 8 + 23 = 31 pieces of candy. If they eat 8 pieces the first night, they have 31 - 8 = 23 pieces left.
+23
+23
+
+Cluster  3
+Q: A pet store had 78 puppies. In one day they sold 30 of them and put the rest into cages with 8 in each cage. How many cages did they use?
+A:
+Let's think step by step. There are 78 puppies. 30 are sold, so that means there are 48 left. 48 divided by 8 is 6, so that means there are 6 cages with 8 puppies in each.
+6
+6
+
+Cluster  4
+Q: Mike made 69 dollars mowing lawns over the summer. If he spent 24 dollars buying new mower blades, how many 5 dollar games could he buy with the money he had left?
+A:
+Let's think step by step. Mike made $69 from mowing lawns. He spent $24 on new mower blades. That means he has $45 left. Each game costs $5, so he could buy 9 games.
+9
+9
+
+Cluster  5
+Q: Wendy uploaded 45 pictures to Facebook. She put 27 pics into one album and put the rest into 9 different albums. How many pictures were in each album?
+A:
+Let's think step by step. First, we know that Wendy uploaded 45 pictures in total. Second, we know that Wendy put 27 pictures into one album. That means that Wendy put the remaining 18 pictures into 9 different albums. That means that each album would have 2 pictures.
+2
+2
+
+Cluster  6
+Q: A waiter had 9 tables he was waiting on, with 7 women and 3 men at each table. How many customers total did the waiter have?
+A:
+Let's think step by step. There are 9 tables. Each table has 7 women and 3 men. That means there are 7 x 9 = 63 women and 3 x 9 = 27 men. Therefore, there are 63 + 27 = 90 customers in total.
+90
+90
+
+Cluster  7
+Q: Bianca was organizing her book case making sure each of the shelves had exactly 8 books on it. If she had 5 shelves of mystery books and 4 shelves of picture books, how many books did she have total?
+A:
+Let's think step by step. There are 5 shelves of mystery books. Each shelf has 8 books. So that's 40 mystery books. There are 4 shelves of picture books. Each shelf has 8 books. So that's 32 picture books. 40 + 32 = 72 books.
+72
+72
+
+Cluster  8
+Q: A worksheet had 4 problems on it. If a teacher had 9 worksheets to grade and had already graded 5 of them, how many more problems does she have to grade?
+A:
+Let's think step by step. The teacher has already graded 5 worksheets. Each worksheet has 4 problems. So the teacher has graded 5*4=20 problems so far. The teacher has 9 worksheets left to grade. Each worksheet has 4 problems. So the teacher has 9*4=36 problems left to grade. So the teacher has 36-20=16 problems left to grade.
+16
+16
+
+*****************************
+Namespace(random_seed=1, dataset='multiarith', demo_path='demos/multiarith_clustering_method=hierarchical', resume_id=0, minibatch_size=1, max_num_worker=0, model='gpt3-xl', method='auto_cot', output_dir='experiment/multiarith_clustering_method=hierarchical', max_length_cot=256, max_length_direct=32, limit_dataset_size=0, api_time_interval=1.0, temperature=0, log_dir='./log/', dataset_path='./dataset/MultiArith/MultiArith.json', direct_answer_trigger='\nTherefore, the answer (arabic numerals) is', direct_answer_trigger_for_zeroshot='The answer (arabic numerals) is', direct_answer_trigger_for_zeroshot_cot='\nTherefore, the answer (arabic numerals) is', direct_answer_trigger_for_fewshot='The answer is', cot_trigger="Let's think step by step.")
+*****************************
+OPENAI_API_KEY:
+Traceback (most recent call last):
+  File "/workspaces/learn-auto-cot/run_inference.py", line 223, in <module>
+    main()
+  File "/workspaces/learn-auto-cot/run_inference.py", line 20, in main
+    print(os.getenv("OPENAI_API_KEY")[0:5] + '**********')
+TypeError: 'NoneType' object is not subscriptable
+usage: run_demo.py [-h]
+                   [--task {aqua,gsm8k,commonsensqa,addsub,multiarith,strategyqa,svamp,singleeq,coin_flip,last_letters}]
+                   [--clustering_method {kmeans,hierarchical,spectral,louvain,infomap}]
+                   [--max_ra_len MAX_RA_LEN] [--pred_file PRED_FILE]
+                   [--demo_save_dir DEMO_SAVE_DIR] [--random_seed RANDOM_SEED]
+                   [--encoder ENCODER] [--sampling SAMPLING] [--debug DEBUG]
+run_demo.py: error: argument --task: invalid choice: 'AQuA' (choose from 'aqua', 'gsm8k', 'commonsensqa', 'addsub', 'multiarith', 'strategyqa', 'svamp', 'singleeq', 'coin_flip', 'last_letters')
+usage: run_inference.py [-h] [--random_seed RANDOM_SEED]
+                        [--dataset {aqua,gsm8k,commonsensqa,addsub,multiarith,strategyqa,svamp,singleeq,coin_flip,last_letters}]
+                        [--demo_path DEMO_PATH] [--resume_id RESUME_ID]
+                        [--minibatch_size {1}]
+                        [--max_num_worker MAX_NUM_WORKER]
+                        [--model {gpt3,gpt3-medium,gpt3-large,gpt3-xl,code-davinci-002}]
+                        [--method {zero_shot,zero_shot_cot,few_shot,few_shot_cot,auto_cot}]
+                        [--output_dir OUTPUT_DIR]
+                        [--max_length_cot MAX_LENGTH_COT]
+                        [--max_length_direct MAX_LENGTH_DIRECT]
+                        [--limit_dataset_size LIMIT_DATASET_SIZE]
+                        [--api_time_interval API_TIME_INTERVAL]
+                        [--temperature TEMPERATURE] [--log_dir LOG_DIR]
+run_inference.py: error: argument --dataset: invalid choice: 'AQuA' (choose from 'aqua', 'gsm8k', 'commonsensqa', 'addsub', 'multiarith', 'strategyqa', 'svamp', 'singleeq', 'coin_flip', 'last_letters')
+usage: run_demo.py [-h]
+                   [--task {aqua,gsm8k,commonsensqa,addsub,multiarith,strategyqa,svamp,singleeq,coin_flip,last_letters}]
+                   [--clustering_method {kmeans,hierarchical,spectral,louvain,infomap}]
+                   [--max_ra_len MAX_RA_LEN] [--pred_file PRED_FILE]
+                   [--demo_save_dir DEMO_SAVE_DIR] [--random_seed RANDOM_SEED]
+                   [--encoder ENCODER] [--sampling SAMPLING] [--debug DEBUG]
+run_demo.py: error: argument --task: invalid choice: 'AddSub' (choose from 'aqua', 'gsm8k', 'commonsensqa', 'addsub', 'multiarith', 'strategyqa', 'svamp', 'singleeq', 'coin_flip', 'last_letters')
+usage: run_inference.py [-h] [--random_seed RANDOM_SEED]
+                        [--dataset {aqua,gsm8k,commonsensqa,addsub,multiarith,strategyqa,svamp,singleeq,coin_flip,last_letters}]
+                        [--demo_path DEMO_PATH] [--resume_id RESUME_ID]
+                        [--minibatch_size {1}]
+                        [--max_num_worker MAX_NUM_WORKER]
+                        [--model {gpt3,gpt3-medium,gpt3-large,gpt3-xl,code-davinci-002}]
+                        [--method {zero_shot,zero_shot_cot,few_shot,few_shot_cot,auto_cot}]
+                        [--output_dir OUTPUT_DIR]
+                        [--max_length_cot MAX_LENGTH_COT]
+                        [--max_length_direct MAX_LENGTH_DIRECT]
+                        [--limit_dataset_size LIMIT_DATASET_SIZE]
+                        [--api_time_interval API_TIME_INTERVAL]
+                        [--temperature TEMPERATURE] [--log_dir LOG_DIR]
+run_inference.py: error: argument --dataset: invalid choice: 'AddSub' (choose from 'aqua', 'gsm8k', 'commonsensqa', 'addsub', 'multiarith', 'strategyqa', 'svamp', 'singleeq', 'coin_flip', 'last_letters')
+Cluster  1
+Q: Take the last letters of each words in "Celso Tracy Winston Anton" and concatenate them.
+A:
+Let's think step by step. The last letter of "Celso" is "o". The last letter of "Tracy" is "y". The last letter of "Winston" is "n". The last letter of "Anton" is "n". So the final answer would be "onynn".
+onynn
+oynn
+
+Cluster  2
+Q: Take the last letters of each words in "Len Marquis Kylie Sandra" and concatenate them.
+A:
+Let's think step by step. The last letter of "Len" is "n". The last letter of "Marquis" is "s". The last letter of "Kylie" is "e". The last letter of "Sandra" is "a". So the final answer is "nsaea".
+nsaea
+nsea
+
+Cluster  3
+Q: Take the last letters of each words in "Alina Alessandra Amina Bianca" and concatenate them.
+A:
+Let's think step by step. The last letter of "Alina" is "a". The last letter of "Alessandra" is "a". The last letter of "Amina" is "a". The last letter of "Bianca" is "a". So the final answer is "aaaa".
+aaaa
+aaaa
+
+Cluster  4
+Q: Take the last letters of each words in "Alfonso Collin Amado Dick" and concatenate them.
+A:
+Let's think step by step. The last letter of "Alfonso" is "o". The last letter of "Collin" is "n". The last letter of "Amado" is "o". The last letter of "Dick" is "k". So the final answer would be "onok".
+onok
+onok
+
+*****************************
+Namespace(random_seed=1, dataset='last_letters', demo_path='demos/last_letters_clustering_method=hierarchical', resume_id=0, minibatch_size=1, max_num_worker=0, model='gpt3-xl', method='auto_cot', output_dir='experiment/last_letters_clustering_method=hierarchical', max_length_cot=256, max_length_direct=32, limit_dataset_size=0, api_time_interval=1.0, temperature=0, log_dir='./log/', dataset_path='./dataset/last_letters/last_letters.json', direct_answer_trigger='\nTherefore, the answer is', direct_answer_trigger_for_zeroshot='The answer is', direct_answer_trigger_for_zeroshot_cot='\nTherefore, the answer is', direct_answer_trigger_for_fewshot='The answer is', cot_trigger="Let's think step by step.")
+*****************************
+OPENAI_API_KEY:
+Traceback (most recent call last):
+  File "/workspaces/learn-auto-cot/run_inference.py", line 223, in <module>
+    main()
+  File "/workspaces/learn-auto-cot/run_inference.py", line 20, in main
+    print(os.getenv("OPENAI_API_KEY")[0:5] + '**********')
+TypeError: 'NoneType' object is not subscriptable
+Cluster  1
+Q: A coin is heads up. Nabil does not flip the coin. Marlene does not flip the coin. Wendy flips the coin. Jillian does not flip the coin. Is the coin still heads up? Note that "flip" here means "reverse".
+A:
+Let's think step by step. Nabil does not flip the coin, so the coin remains heads up. Marlene does not flip the coin, so the coin remains heads up. Wendy flips the coin, so the coin is now tails up. Jillian does not flip the coin, so the coin remains tails up.
+no
+no
+
+Cluster  2
+Q: A coin is heads up. Deandre does not flip the coin. Moe does not flip the coin. Jack does not flip the coin. Vanessa does not flip the coin. Is the coin still heads up? Note that "flip" here means "reverse".
+A:
+Let's think step by step. If Deandre does not flip the coin, then the coin is still heads up. If Moe does not flip the coin, then the coin is still heads up. If Jack does not flip the coin, then the coin is still heads up. If Vanessa does not flip the coin, then the coin is still heads up. So, the answer is yes, the coin is still heads up.
+yes
+yes
+
+Cluster  3
+Q: A coin is heads up. Paula does not flip the coin. Irina flips the coin. Laurel does not flip the coin. Maribel flips the coin. Is the coin still heads up? Note that "flip" here means "reverse".
+A:
+Let's think step by step. Paula does not flip the coin, so the coin remains heads up. Irina flips the coin, so the coin is now tails up. Laurel does not flip the coin, so the coin remains tails up. Maribel flips the coin, so the coin is now heads up again.
+yes
+yes
+
+Cluster  4
+Q: A coin is heads up. Brandon does not flip the coin. Ivonne does not flip the coin. Jefferson flips the coin. Isabella does not flip the coin. Is the coin still heads up? Note that "flip" here means "reverse".
+A:
+Let's think step by step. Brandon does not flip the coin, so the coin remains heads up. Ivonne does not flip the coin, so the coin remains heads up. Jefferson flips the coin, so the coin is now tails up. Isabella does not flip the coin, so the coin remains tails up.
+no
+no
+
+Cluster  5
+Q: A coin is heads up. Ramona does not flip the coin. Lucy flips the coin. Gail does not flip the coin. Octavio flips the coin. Is the coin still heads up? Note that "flip" here means "reverse".
+A:
+Let's think step by step. Ramona does not flip the coin, so the coin is still heads up. Lucy flips the coin, so the coin is now tails up. Gail does not flip the coin, so the coin is still tails up. Octavio flips the coin, so the coin is now heads up again.
+yes
+yes
+
+Cluster  6
+Q: A coin is heads up. Domingo does not flip the coin. Briana flips the coin. Michael flips the coin. Joan does not flip the coin. Is the coin still heads up? Note that "flip" here means "reverse".
+A:
+Let's think step by step. Domingo does not flip the coin, so the coin remains heads up. Briana flips the coin, so the coin is now tails up. Michael flips the coin, so the coin is now heads up again. Joan does not flip the coin, so the coin remains heads up.
+yes
+yes
+
+Cluster  7
+Q: A coin is heads up. Wesley does not flip the coin. Marcelo does not flip the coin. Rodolfo flips the coin. Erick does not flip the coin. Is the coin still heads up? Note that "flip" here means "reverse".
+A:
+Let's think step by step. Wesley does not flip the coin, so the coin remains heads up. Marcelo does not flip the coin, so the coin remains heads up. Rodolfo flips the coin, so the coin is now tails up. Erick does not flip the coin, so the coin remains tails up.
+no
+no
+
+Cluster  8
+Q: A coin is heads up. Clarissa does not flip the coin. Shauna does not flip the coin. Alexis does not flip the coin. Branden flips the coin. Is the coin still heads up? Note that "flip" here means "reverse".
+A:
+Let's think step by step. Clarissa does not flip the coin. This means that the state of the coin does not change. The coin is still heads up. Shauna does not flip the coin. The state of the coin does not change. The coin is still heads up. Alexis does not flip the coin. The state of the coin does not change. The coin is still heads up. Branden flips the coin. This means that the state of the coin is reversed. The coin is now tails up.
+no
+no
+
+*****************************
+Namespace(random_seed=1, dataset='coin_flip', demo_path='demos/coin_flip_clustering_method=hierarchical', resume_id=0, minibatch_size=1, max_num_worker=0, model='gpt3-xl', method='auto_cot', output_dir='experiment/coin_flip_clustering_method=hierarchical', max_length_cot=256, max_length_direct=32, limit_dataset_size=0, api_time_interval=1.0, temperature=0, log_dir='./log/', dataset_path='./dataset/coin_flip/coin_flip.json', direct_answer_trigger='\nTherefore, the answer (Yes or No) is', direct_answer_trigger_for_zeroshot='The answer (Yes or No) is', direct_answer_trigger_for_zeroshot_cot='\nTherefore, the answer (Yes or No) is', direct_answer_trigger_for_fewshot='The answer is', cot_trigger="Let's think step by step.")
+*****************************
+OPENAI_API_KEY:
+Traceback (most recent call last):
+  File "/workspaces/learn-auto-cot/run_inference.py", line 223, in <module>
+    main()
+  File "/workspaces/learn-auto-cot/run_inference.py", line 20, in main
+    print(os.getenv("OPENAI_API_KEY")[0:5] + '**********')
+TypeError: 'NoneType' object is not subscriptable

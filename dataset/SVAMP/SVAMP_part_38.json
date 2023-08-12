@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-371",
+    "Body": "Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday.",
+    "Question": "How many more kids did she play with on monday than on tuesday?",
+    "Equation": "( 9.0 - 7.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-372",
+    "Body": "In a school there are 402 more girls than boys. If there are 739 girls",
+    "Question": "How many boys are there in that school?",
+    "Equation": "( 739.0 - 402.0 )",
+    "Answer": 337.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-373",
+    "Body": "For Gwen's birthday she received 2 dollars from her mom. Her dad gave her 4 more dollars. If she spent 3 dollars.",
+    "Question": "How much money did she still have?",
+    "Equation": "( ( 2.0 + 4.0 ) - 3.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-374",
+    "Body": "6 red peaches, 90 yellow peaches and 16 green peaches are in the basket.",
+    "Question": "How many red and green peaches are in the basket?",
+    "Equation": "( 6.0 + 16.0 )",
+    "Answer": 22.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-375",
+    "Body": "Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house.",
+    "Question": "How many more blocks did he use to build the tower than he did to build the house?",
+    "Equation": "( 33.0 - 13.0 )",
+    "Answer": 20.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-376",
+    "Body": "The Razorback shop makes $ 76 dollars off each jersey and $ 204 off each t-shirt. During the Arkansas and Texas tech game they sold 158 t-shirts and 2 jerseys.",
+    "Question": "How much money did they make from selling the jerseys?",
+    "Equation": "( 76.0 * 2.0 )",
+    "Answer": 152.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-377",
+    "Body": "Baker made 8 cakes. He bought 139 new cakes and sold 145 cakes.",
+    "Question": "How many more cakes did baker sell than those he bought?",
+    "Equation": "( 145.0 - 139.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-378",
+    "Body": "Jack received 6 emails and 8 letters in the morning. He then received 2 emails and 7 letters in the afternoon.",
+    "Question": "How many more letters did Jack receive in the morning than in the afternoon?",
+    "Equation": "( 8.0 - 7.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-379",
+    "Body": "Jake has 3 fewer peaches and 10 more apples than Steven. Steven has 12 peaches and 15 apples.",
+    "Question": "How many more apples than peaches does Steven have?",
+    "Equation": "( 15.0 - 12.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-380",
+    "Body": "Rachel had to complete 5 pages of math homework and 2 pages of reading homework.",
+    "Question": "How many more pages of math homework than reading homework did she have?",
+    "Equation": "( 5.0 - 2.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  }
+]

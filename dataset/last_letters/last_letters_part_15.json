@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Dino Toby Abigail Manuela\" and concatenate them.",
+      "answer": "oyla"
+    },
+    {
+      "question": "Take the last letters of each words in \"Shannon Millie Rosemary Priyanka\" and concatenate them.",
+      "answer": "neya"
+    },
+    {
+      "question": "Take the last letters of each words in \"Cristian Nik Gwen Josiah\" and concatenate them.",
+      "answer": "nknh"
+    },
+    {
+      "question": "Take the last letters of each words in \"Garry Arielle Elba Rodney\" and concatenate them.",
+      "answer": "yeay"
+    },
+    {
+      "question": "Take the last letters of each words in \"Clarissa Shauna Alexis Branden\" and concatenate them.",
+      "answer": "aasn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Barb Gage Kristian Asia\" and concatenate them.",
+      "answer": "bena"
+    },
+    {
+      "question": "Take the last letters of each words in \"Emilia Jonas Christi Sophia\" and concatenate them.",
+      "answer": "asia"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sonia Griffin Claude Josephine\" and concatenate them.",
+      "answer": "anee"
+    },
+    {
+      "question": "Take the last letters of each words in \"Arthur Shan Norman Manny\" and concatenate them.",
+      "answer": "rnny"
+    },
+    {
+      "question": "Take the last letters of each words in \"Abdi Clyde Ana Maria Pepe\" and concatenate them.",
+      "answer": "ieae"
+    }
+  ]
+}

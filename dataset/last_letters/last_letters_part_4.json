@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Axel Osvaldo Mildred Sylvia\" and concatenate them.",
+      "answer": "loda"
+    },
+    {
+      "question": "Take the last letters of each words in \"Emiliano Jasmin Wade Vilma\" and concatenate them.",
+      "answer": "onea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lino Mariel Aditya Elisabeth\" and concatenate them.",
+      "answer": "olah"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jacky Socorro Mark Wanda\" and concatenate them.",
+      "answer": "yoka"
+    },
+    {
+      "question": "Take the last letters of each words in \"Mauricio Lee Madi Lizzie\" and concatenate them.",
+      "answer": "oeie"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ruben Bernardo Ariel Shelley\" and concatenate them.",
+      "answer": "noly"
+    },
+    {
+      "question": "Take the last letters of each words in \"Phillip Ajay Janie Augusto\" and concatenate them.",
+      "answer": "pyeo"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ari Jasmine Elliot Kendrick\" and concatenate them.",
+      "answer": "ietk"
+    },
+    {
+      "question": "Take the last letters of each words in \"Margarita Anabel Shaun Celina\" and concatenate them.",
+      "answer": "alna"
+    },
+    {
+      "question": "Take the last letters of each words in \"Geo Kody Isaias Giovanni\" and concatenate them.",
+      "answer": "oysi"
+    }
+  ]
+}

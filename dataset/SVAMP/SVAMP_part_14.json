@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-131",
+    "Body": "There were 7 roses and 12 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 11 roses and 20 orchids in the vase.",
+    "Question": "How many more orchids than roses are there in the vase now?",
+    "Equation": "( 20.0 - 11.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-132",
+    "Body": "After Jessie started to go jogging everyday she lost 35 kilograms. She weighed 69 kilograms before beginning jogging.",
+    "Question": "How much does she weigh now?",
+    "Equation": "( 69.0 - 35.0 )",
+    "Answer": 34.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-133",
+    "Body": "22 children were riding on the bus. At the bus stop 40 children got on the bus while some got off the bus. Then there were 2 children altogether on the bus.",
+    "Question": "How many children got off the bus at the bus stop?",
+    "Equation": "( ( 22.0 + 40.0 ) - 2.0 )",
+    "Answer": 60.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-134",
+    "Body": "There are 10 different books and 11 different movies in the ' crazy silly school ' series. If you read 13 of the books and watched 12 of the movies",
+    "Question": "How many more books than movies have you read?",
+    "Equation": "( 13.0 - 12.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-135",
+    "Body": "Emily is making bead necklaces for her friends. She made 11 necklaces and each necklace takes 28 beads.",
+    "Question": "How many beads did Emily have?",
+    "Equation": "( 11.0 * 28.0 )",
+    "Answer": 308.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-136",
+    "Body": "A farmer had 175 tomatoes and 77 potatoes in his garden. If he picked 172 potatoes",
+    "Question": "How many tomatoes and potatoes does he have left?",
+    "Equation": "( ( 175.0 + 77.0 ) - 172.0 )",
+    "Answer": 80.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-137",
+    "Body": "Last week Fred had 111 dollars and Jason had 40 dollars. Fred washed cars over the weekend and now has 115 dollars. Jason delivered newspapers and now has 44 dollars.",
+    "Question": "How much money did they earn by washing cars?",
+    "Equation": "( 115.0 - 111.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-138",
+    "Body": "A mailman has to give 9 pieces of junk mail to each house in each block. If there are 20 houses on a block",
+    "Question": "How many pieces of junk mail should he give in each block?",
+    "Equation": "( 9.0 * 20.0 )",
+    "Answer": 180.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-139",
+    "Body": "Matthew gave equal numbers of crackers and cakes to his 4 friends. If he had 10 crackers and 8 cakes initially",
+    "Question": "How many cakes did each person eat?",
+    "Equation": "( 8.0 / 4.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-140",
+    "Body": "Jessica cut some roses from her flower garden to put in her vase. There are now 19 roses in the vase. If there were 3 roses in the vase initially",
+    "Question": "How many roses did she cut?",
+    "Equation": "( 19.0 - 3.0 )",
+    "Answer": 16.0,
+    "Type": "Subtraction"
+  }
+]

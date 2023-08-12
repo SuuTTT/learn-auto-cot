@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Courtney Ann John Fer\" and concatenate them.",
+      "answer": "ynnr"
+    },
+    {
+      "question": "Take the last letters of each words in \"Debby Geoffrey Alana Silvestre\" and concatenate them.",
+      "answer": "yyae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Stevie Julie Leonard Karina\" and concatenate them.",
+      "answer": "eeda"
+    },
+    {
+      "question": "Take the last letters of each words in \"Juana Chip Lila Jayme\" and concatenate them.",
+      "answer": "apae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jon Heath Reynaldo Catherine\" and concatenate them.",
+      "answer": "nhoe"
+    },
+    {
+      "question": "Take the last letters of each words in \"Beatrice Taylor Juan Carlos Kaitlin\" and concatenate them.",
+      "answer": "ersn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Christina Edna Ileana Lynette\" and concatenate them.",
+      "answer": "aaae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Eugenia Kellie Quentin Mike\" and concatenate them.",
+      "answer": "aene"
+    },
+    {
+      "question": "Take the last letters of each words in \"Yasmin Yesenia Carmela Susie\" and concatenate them.",
+      "answer": "naae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Oswaldo Jos\u00e9 Luis Sheldon Tara\" and concatenate them.",
+      "answer": "osna"
+    }
+  ]
+}

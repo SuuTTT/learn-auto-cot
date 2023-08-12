@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-61",
+    "Body": "A waiter had 12 customers. While 15 customers left he got 14 new customers.",
+    "Question": "How many customers does he still have?",
+    "Equation": "( ( 12.0 - 15.0 ) + 14.0 )",
+    "Answer": 11.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-62",
+    "Body": "Emily is making bead necklaces for her 72 friends. She has 6 beads and each necklace takes 3 beads.",
+    "Question": "How many necklaces can Emily make?",
+    "Equation": "( 6.0 / 3.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-63",
+    "Body": "He also had 26 aquariums for saltwater animals. The aquarium had 52 saltwater animals in total and every aquarium had the same number of animals.",
+    "Question": "How many saltwater animals does each aquarium have?",
+    "Equation": "( 52.0 / 26.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-64",
+    "Body": "Mary is baking a cake. The recipe calls for 11 cups of flour and 7 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour than sugar",
+    "Question": "How many cups of flour did she put in?",
+    "Equation": "( ( 11.0 - 7.0 ) - 2.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-65",
+    "Body": "Baker made 149 cakes and 91 pastries. If he sold 10 cakes and 90 pastries",
+    "Question": "How many cakes would baker still have?",
+    "Equation": "( 149.0 - 10.0 )",
+    "Answer": 139.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-66",
+    "Body": "Dave had 24 files and 13 apps on his phone. After deleting some apps and files he had 17 apps and 21 files left.",
+    "Question": "How many files did he delete?",
+    "Equation": "( 24.0 - 21.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-67",
+    "Body": "An industrial machine made 9 shirts yesterday and 8 shirts today. It can make 2 shirts a minute.",
+    "Question": "How many minutes did the machine work today?",
+    "Equation": "( 8.0 / 2.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-68",
+    "Body": "Rebecca wants to split a collection of eggs into 3 groups. Rebecca has 4 marbles and 15 eggs.",
+    "Question": "How many eggs will each group have?",
+    "Equation": "( 15.0 / 3.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-69",
+    "Body": "Matthew had some crackers. If Matthew gave 2 crackers to each of his 11 friends",
+    "Question": "How many crackers did Matthew have?",
+    "Equation": "( 11.0 * 2.0 )",
+    "Answer": 22.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-70",
+    "Body": "Olivia spent 78 dollars at a supermarket. If she has 33 dollars left with her",
+    "Question": "How much money did she have initially?",
+    "Equation": "( 78.0 + 33.0 )",
+    "Answer": 111.0,
+    "Type": "Addition"
+  }
+]

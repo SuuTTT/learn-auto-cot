@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-521",
+    "Body": "There were 73 parents, 724 pupils and 744 teachers in the program.",
+    "Question": "How many people were present in the program?",
+    "Equation": "( ( 73.0 + 724.0 ) + 744.0 )",
+    "Answer": 1541.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-522",
+    "Body": "At the stop 8 more people got on the train. Initially there were 11 people on the train.",
+    "Question": "How many people are there on the train now?",
+    "Equation": "( 11.0 + 8.0 )",
+    "Answer": 19.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-523",
+    "Body": "Frank had 33 pieces of candy. He lost 24 of them. If he put the remaining pieces into bags with 9 pieces in each bag",
+    "Question": "How many bags would he have?",
+    "Equation": "( ( 33.0 - 24.0 ) / 9.0 )",
+    "Answer": 1.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-524",
+    "Body": "Bryan took a look at his books as well. If he has 34 books distributed equally in 2 bookshelves",
+    "Question": "How many books are there in each bookshelf?",
+    "Equation": "( 34.0 / 2.0 )",
+    "Answer": 17.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-525",
+    "Body": "A waiter had 3 customers. After some more arrived he had 8 customers.",
+    "Question": "How many new customers arrived?",
+    "Equation": "( 8.0 - 3.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-526",
+    "Body": "Brenda's mother made cookies for guests. If she prepared 38 cookies and each of them had 19 cookies",
+    "Question": "How many guests did she prepare cookies for?",
+    "Equation": "( 38.0 / 19.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-527",
+    "Body": "They decided to hold the party in their backyard. They have some sets of tables, each having the 3 chairs. If there are a total of 9 chairs in the backyard",
+    "Question": "How many sets of tables do they have?",
+    "Equation": "( 9.0 / 3.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-528",
+    "Body": "Luke played a trivia game and scored 154 points. If he gained the 11 points in each round",
+    "Question": "How many rounds did he play?",
+    "Equation": "( 154.0 / 11.0 )",
+    "Answer": 14.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-529",
+    "Body": "Jack received 3 emails in the afternoon, 6 emails in the morning and some more in the evening. If he received a total of 10 emails in the day",
+    "Question": "How many emails did jack receive in the evening?",
+    "Equation": "( 10.0 - ( 6.0 + 3.0 ) )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-530",
+    "Body": "There are 65 baskets of peaches. Each basket has 7 red peaches and 3 green peaches.",
+    "Question": "How many peaches are in each basket?",
+    "Equation": "( 7.0 + 3.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  }
+]

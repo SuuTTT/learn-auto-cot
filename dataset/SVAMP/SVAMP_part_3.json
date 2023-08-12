@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-21",
+    "Body": "Baker made 121 cakes. He sold 105 of them and bought 170 new cakes.",
+    "Question": "How many cakes does baker still have?",
+    "Equation": "( ( 121.0 - 105.0 ) + 170.0 )",
+    "Answer": 186.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-22",
+    "Body": "An industrial machine worked for 5 minutes. It can make 4 shirts a minute.",
+    "Question": "How many shirts did machine make?",
+    "Equation": "( 4.0 * 5.0 )",
+    "Answer": 20.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-23",
+    "Body": "The bananas in Philip's collection are organized into groups of size 18. If there are a total of 180 bananas in Philip's banana collection",
+    "Question": "How many groups are there?",
+    "Equation": "( 180.0 / 18.0 )",
+    "Answer": 10.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-24",
+    "Body": "There were some birds sitting on the fence. 4 more birds came to join them. If there are a total of 5 birds on the fence now",
+    "Question": "How many birds had been sitting on the fence at the start?",
+    "Equation": "( 5.0 - 4.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-25",
+    "Body": "Jerry had 3 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed some of the old ones. If there are 6 action figures on his shelf now",
+    "Question": "How many action figures did he remove from the shelf?",
+    "Equation": "( ( 3.0 + 4.0 ) - 6.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-26",
+    "Body": "Danny collects bottle caps and wrappers. He found 65 wrappers and 5 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection.",
+    "Question": "How many more wrappers than bottle caps did danny find at the park?",
+    "Equation": "( 65.0 - 5.0 )",
+    "Answer": 60.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-27",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food from a total of 66 choices. If 450 students suggested adding mashed potatoes 38 suggested adding bacon to the menu and the rest did not participate",
+    "Question": "How many students participated in the suggestion of new food items?",
+    "Equation": "( 450.0 + 38.0 )",
+    "Answer": 488.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-28",
+    "Body": "Matthew gave equal numbers of crackers and cakes to his 28 friends. If he had 13 crackers and 15 cakes initially",
+    "Question": "How many crackers and cakes did each person eat?",
+    "Equation": "( ( 13.0 + 15.0 ) / 28.0 )",
+    "Answer": 1.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-29",
+    "Body": "A grocery store had 49 bottles of regular soda, 40 bottles of diet soda and 6 bottles of lite soda.",
+    "Question": "How many bottles of regular soda and diet soda did they have altogether?",
+    "Equation": "( 40.0 + 49.0 )",
+    "Answer": 89.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-30",
+    "Body": "Dan has $ 3. He bought 2 candy bar for $ 4, each one costing the same amount of money.",
+    "Question": "How much did each candy bar cost?",
+    "Equation": "( 4.0 / 2.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  }
+]

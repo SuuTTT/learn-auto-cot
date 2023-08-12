@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-41",
+    "Body": "Mary is baking a cake. The recipe calls for 12 cups of flour and 5 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour",
+    "Question": "How many cups of flour did she put in?",
+    "Equation": "( 12.0 - 2.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-42",
+    "Body": "Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection.",
+    "Question": "How many more bottle caps than wrappers did danny find at the park?",
+    "Equation": "( 50.0 - 46.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-43",
+    "Body": "Luke played 177 rounds of a trivia game. If he gained 46 points in each round",
+    "Question": "How many points did he score in the game?",
+    "Equation": "( 177.0 * 46.0 )",
+    "Answer": 8142.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-44",
+    "Body": "3 birds and 4 storks were sitting on the fence. 2 more birds came to join them.",
+    "Question": "How many more birds than storks are sitting on the fence?",
+    "Equation": "( ( 3.0 + 2.0 ) - 4.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-45",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 9 inches. The mouse jumped 3 inches lesser than the frog who jumped 33 inches farther than the grasshopper.",
+    "Question": "How far did the mouse jump?",
+    "Equation": "( ( 9.0 + 33.0 ) - 3.0 )",
+    "Answer": 39.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-46",
+    "Body": "Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary.",
+    "Question": "How many more push-ups than crunches did Zachary do?",
+    "Equation": "( 35.0 - 3.0 )",
+    "Answer": 32.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-47",
+    "Body": "Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening.",
+    "Question": "How many emails did Jack receive in the afternoon and evening?",
+    "Equation": "( 5.0 + 8.0 )",
+    "Answer": 13.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-48",
+    "Body": "Jerry had 7 action figures on a shelf in his room. Later he added some more action figures to the shelf and removed 10 of the old ones. If there are 8 action figures on his shelf now",
+    "Question": "How many action figures did he add to the shelf?",
+    "Equation": "( ( 8.0 + 10.0 ) - 7.0 )",
+    "Answer": 11.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-49",
+    "Body": "Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. She spent a total of 34 hours to play tag on both days.",
+    "Question": "How many kids did she play with altogether?",
+    "Equation": "( 12.0 + 14.0 )",
+    "Answer": 26.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-50",
+    "Body": "Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left.",
+    "Question": "How many more baseball cards than Ace cards does Nell have?",
+    "Equation": "( 415.0 - 149.0 )",
+    "Answer": 266.0,
+    "Type": "Subtraction"
+  }
+]

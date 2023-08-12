@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-251",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. There are 3 bird families living near the mountain. 26 new bird families came to live near the mountain from the arctic while 2 bird families flew away further south for winter.",
+    "Question": "How many bird families were left near the mountain?",
+    "Equation": "( ( 3.0 - 2.0 ) + 26.0 )",
+    "Answer": 27.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-252",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food. If 144 students suggested adding mashed potatoes 467 suggested adding bacon to the menu and 79 suggested adding tomatoes",
+    "Question": "How many more students suggested mashed potatoes than those that suggested tomatoes?",
+    "Equation": "( 144.0 - 79.0 )",
+    "Answer": 65.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-253",
+    "Body": "Jesse's rooms are 19 feet long and 18 feet wide. If she has 20 rooms in all",
+    "Question": "How much carpet does she need to cover the floors of all rooms?",
+    "Equation": "( ( 19.0 * 18.0 ) * 20.0 )",
+    "Answer": 6840.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-254",
+    "Body": "Rachel had to complete 10 pages of math homework. If she had to complete 3 more pages of reading homework than math homework",
+    "Question": "How many pages did she have to complete in all?",
+    "Equation": "( ( 10.0 + 10.0 ) + 3.0 )",
+    "Answer": 23.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-255",
+    "Body": "In a school there are 700 girls and the rest are boys. If there are 142 more boys than girls",
+    "Question": "How many pupils are there in that school?",
+    "Equation": "( ( 700.0 + 700.0 ) + 142.0 )",
+    "Answer": 1542.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-256",
+    "Body": "A waiter had 14 customers. 5 customers left.",
+    "Question": "How many customers does he still have?",
+    "Equation": "( 14.0 - 5.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-257",
+    "Body": "Lucy went to the grocery store. She bought 2 packs of cookie and 12 packs of cake. In the end she had 56 amount of change remaining.",
+    "Question": "How many packs of groceries did she buy in all?",
+    "Equation": "( 2.0 + 12.0 )",
+    "Answer": 14.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-258",
+    "Body": "Mary is baking a cake. The recipe calls for 11 cups of sugar and 9 cups of flour. She already put in 12 cups of flour and 10 cups of sugar.",
+    "Question": "How many more cups of sugar does she need to add?",
+    "Equation": "( 11.0 - 10.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-259",
+    "Body": "Marco and his dad went strawberry picking. His strawberries weighed 8 pounds while his dad's strawberries weighed 32 pounds.",
+    "Question": "Together how much did their strawberries weigh?",
+    "Equation": "( 8.0 + 32.0 )",
+    "Answer": 40.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-260",
+    "Body": "Kelly gives away 91 nintendo games.",
+    "Question": "How many did she have initially if she still has 92 games left?",
+    "Equation": "( 91.0 + 92.0 )",
+    "Answer": 183.0,
+    "Type": "Addition"
+  }
+]

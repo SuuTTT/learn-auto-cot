@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Selene Felix Milton Yessica\" and concatenate them.",
+      "answer": "exna"
+    },
+    {
+      "question": "Take the last letters of each words in \"Gus Brock Ava Jenna\" and concatenate them.",
+      "answer": "skaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Karen Hector Mai Steven\" and concatenate them.",
+      "answer": "nrin"
+    },
+    {
+      "question": "Take the last letters of each words in \"Alexander Marina Valentina Mila\" and concatenate them.",
+      "answer": "raaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Kristine Van Marisol Preston\" and concatenate them.",
+      "answer": "enln"
+    },
+    {
+      "question": "Take the last letters of each words in \"Evan Ray Sofia Alonso\" and concatenate them.",
+      "answer": "nyao"
+    },
+    {
+      "question": "Take the last letters of each words in \"Alfonso Collin Amado Dick\" and concatenate them.",
+      "answer": "onok"
+    },
+    {
+      "question": "Take the last letters of each words in \"Les Jun Noe Juliana\" and concatenate them.",
+      "answer": "snea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Damian Crystal Nisha Hernan\" and concatenate them.",
+      "answer": "nlan"
+    },
+    {
+      "question": "Take the last letters of each words in \"Rosario Manoj Adolfo Reina\" and concatenate them.",
+      "answer": "ojoa"
+    }
+  ]
+}

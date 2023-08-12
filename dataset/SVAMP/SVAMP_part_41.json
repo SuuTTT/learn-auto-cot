@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-401",
+    "Body": "19 red peaches, 11 yellow peaches and 12 green peaches are in the basket.",
+    "Question": "How many more red peaches than yellow peaches are in the basket?",
+    "Equation": "( 19.0 - 11.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-402",
+    "Body": "For Gwen's birthday she received 8 dollars from her mom. Her dad gave her 5 more dollars. If she spent 4 dollars.",
+    "Question": "How much more money did she receive from her mom than she did from her dad?",
+    "Equation": "( 8.0 - 5.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-403",
+    "Body": "The ring toss game at the carnival made the same amount of money each day. In total in 30 days they earned 420 dollars. Together with game they earned 22 dollars.",
+    "Question": "How much did ring toss game make per day?",
+    "Equation": "( 420.0 / 30.0 )",
+    "Answer": 14.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-404",
+    "Body": "Dave had 16 apps and 77 files on his phone. After deleting some apps and files he had 5 apps and 23 files left.",
+    "Question": "How many apps did he delete?",
+    "Equation": "( 16.0 - 5.0 )",
+    "Answer": 11.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-405",
+    "Body": "Paco had 39 sweet cookies and 6 salty cookies. He ate 23 salty cookies and 32 sweet cookies.",
+    "Question": "How many more sweet cookies than salty cookies did he eat?",
+    "Equation": "( 32.0 - 23.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-406",
+    "Body": "Haley grew 13 trees in her backyard. After a typhoon 6 died.",
+    "Question": "How many more trees survived the typhoon than those that died?",
+    "Equation": "( ( 13.0 - 6.0 ) - 6.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-407",
+    "Body": "Julia played tag with 18 kids on monday. She played tag with 10 kids on tuesday.",
+    "Question": "How many more kids did she play with on monday than on tuesday?",
+    "Equation": "( 18.0 - 10.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-408",
+    "Body": "Kelly has 46 nintendo games and 132 sony games.",
+    "Question": "How many sony games does she need to give away so that she will have 31 sony games left?",
+    "Equation": "( 132.0 - 31.0 )",
+    "Answer": 101.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-409",
+    "Body": "5 red peaches and 11 green peaches are in the basket.",
+    "Question": "How many more green peaches than red peaches are in the basket?",
+    "Equation": "( 11.0 - 5.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-410",
+    "Body": "Nell collects baseball cards. She gave 301 of her cards to Jeff and now has 154 cards left..",
+    "Question": "How many cards did Nell have initially?",
+    "Equation": "( 154.0 + 301.0 )",
+    "Answer": 455.0,
+    "Type": "Addition"
+  }
+]

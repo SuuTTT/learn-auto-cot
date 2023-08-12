@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-311",
+    "Body": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 31 inches and the frog jumped 35 inches.",
+    "Question": "How much did they jump altogether?",
+    "Equation": "( 31.0 + 35.0 )",
+    "Answer": 66.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-312",
+    "Body": "There were 100 dollars in Olivia's wallet. She collected 148 more dollars from an atm. After she visited a supermarket there were 159 dollars left.",
+    "Question": "How much did she spend?",
+    "Equation": "( ( 100.0 + 148.0 ) - 159.0 )",
+    "Answer": 89.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-313",
+    "Body": "A waiter had 11 customers. After some left he still had 3 customers.",
+    "Question": "How many more customers left than those that stayed behind?",
+    "Equation": "( ( 11.0 - 3.0 ) - 3.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-314",
+    "Body": "Katie had 81 ds games and her friends had 59 games.",
+    "Question": "How many more games does Katie have than her friends?",
+    "Equation": "( 81.0 - 59.0 )",
+    "Answer": 22.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-315",
+    "Body": "Frank put some pieces of candy equally into 2 bags. If he had 16 pieces of candy",
+    "Question": "How many pieces of candy are in each bag?",
+    "Equation": "( 16.0 / 2.0 )",
+    "Answer": 8.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-316",
+    "Body": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 266 of the pickers that they fill 90 drums of grapes in 5 days.",
+    "Question": "How many drums of grapes would be filled in each day?",
+    "Equation": "( 90.0 / 5.0 )",
+    "Answer": 18.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-317",
+    "Body": "Julia played tag with 5 kids on tuesday. She had played tag with 6 kids on monday.",
+    "Question": "How many more kids did she play with on monday than on tuesday?",
+    "Equation": "( 6.0 - 5.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-318",
+    "Body": "Julia played tag with a total of 18 kids. She played with 4 kids on monday and yet with some more kids on tuesday.",
+    "Question": "How many kids did she play with on tuesday?",
+    "Equation": "( 18.0 - 4.0 )",
+    "Answer": 14.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-319",
+    "Body": "Jerry had 3 books and 4 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.",
+    "Question": "How many more action figures than books were on his shelf?",
+    "Equation": "( ( 4.0 + 2.0 ) - 3.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-320",
+    "Body": "There are 6 houses on a block. If a mailman has to give 24 pieces of junk mail to each block",
+    "Question": "How many pieces of junk mail should he give in each house?",
+    "Equation": "( 24.0 / 6.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  }
+]

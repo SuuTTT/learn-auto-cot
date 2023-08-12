@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Justin Neal Jt Lucia\" and concatenate them.",
+      "answer": "nlta"
+    },
+    {
+      "question": "Take the last letters of each words in \"Carmelo Tony Susan Sara\" and concatenate them.",
+      "answer": "oyna"
+    },
+    {
+      "question": "Take the last letters of each words in \"Boris Sabina Kaitlyn Cameron\" and concatenate them.",
+      "answer": "sann"
+    },
+    {
+      "question": "Take the last letters of each words in \"Elizabeth Mitch Brooke Jordyn\" and concatenate them.",
+      "answer": "hhen"
+    },
+    {
+      "question": "Take the last letters of each words in \"Delia Kathleen Mateo Marvin\" and concatenate them.",
+      "answer": "anon"
+    },
+    {
+      "question": "Take the last letters of each words in \"Bj Rigo Nigel Christian\" and concatenate them.",
+      "answer": "joln"
+    },
+    {
+      "question": "Take the last letters of each words in \"Kathy Elsa Alba Ivette\" and concatenate them.",
+      "answer": "yaae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Cruz Wilber Marilu Malik\" and concatenate them.",
+      "answer": "zruk"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sherry Ben Allison Anthony\" and concatenate them.",
+      "answer": "ynny"
+    },
+    {
+      "question": "Take the last letters of each words in \"Seth Dario Anne Jodie\" and concatenate them.",
+      "answer": "hoee"
+    }
+  ]
+}

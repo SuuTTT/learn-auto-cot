@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Alain Jerome Kristina Ida\" and concatenate them.",
+      "answer": "neaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Drew Jhon Jayden Cliff\" and concatenate them.",
+      "answer": "wnnf"
+    },
+    {
+      "question": "Take the last letters of each words in \"Trish Vero Victor Clemente\" and concatenate them.",
+      "answer": "hore"
+    },
+    {
+      "question": "Take the last letters of each words in \"Antonio Ronald Ken Rachael\" and concatenate them.",
+      "answer": "odnl"
+    },
+    {
+      "question": "Take the last letters of each words in \"Juliet Ricardo Tita Dianna\" and concatenate them.",
+      "answer": "toaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Larissa Shawna Alma Paulette\" and concatenate them.",
+      "answer": "aaae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Donald Lia Gonzalo Lily\" and concatenate them.",
+      "answer": "daoy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Evelyn Mason Shelby Aldo\" and concatenate them.",
+      "answer": "nnyo"
+    },
+    {
+      "question": "Take the last letters of each words in \"Georgina Joshua Lindsey C\u00e9sar\" and concatenate them.",
+      "answer": "aayr"
+    },
+    {
+      "question": "Take the last letters of each words in \"King Edith Traci Flor\" and concatenate them.",
+      "answer": "ghir"
+    }
+  ]
+}

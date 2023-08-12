@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 11,
+    "lEquations": [
+      "X = 9 + 7"
+    ],
+    "lSolutions": [
+      "16"
+    ],
+    "sQuestion": "Sam had 9 dimes in his bank . His dad gave him 7 dimes . How many dimes does Sam have now ? "
+  },
+  {
+    "iIndex": 12,
+    "lEquations": [
+      "X = 7 + 5"
+    ],
+    "lSolutions": [
+      "12"
+    ],
+    "sQuestion": "Alyssa 's dog had puppies . She gave 7 to her friends . She now has 5 puppies . How many puppies did she have to start with ? "
+  },
+  {
+    "iIndex": 13,
+    "lEquations": [
+      "X = 9 + 6 "
+    ],
+    "lSolutions": [
+      "15"
+    ],
+    "sQuestion": "A restaurant served 9 pizzas during lunch and 6 during dinner today . How many pizzas were served today ? "
+  },
+  {
+    "iIndex": 14,
+    "lEquations": [
+      "X = 2 + 3"
+    ],
+    "lSolutions": [
+      "5"
+    ],
+    "sQuestion": "There are 2 pencils in the drawer . Tim placed 3 pencils in the drawer . How many pencils are now there in total ? "
+  },
+  {
+    "iIndex": 15,
+    "lEquations": [
+      "X = 6 + 8"
+    ],
+    "lSolutions": [
+      "14"
+    ],
+    "sQuestion": "Joan found 6 seashells and Jessica found 8 seashells on the beach . How many seashells did they find together ? "
+  },
+  {
+    "iIndex": 16,
+    "lEquations": [
+      "X = 6 + 3"
+    ],
+    "lSolutions": [
+      "9"
+    ],
+    "sQuestion": "Sandy grew 6 carrots . Sam grew 3 carrots . How many carrots did they grow in total ? "
+  },
+  {
+    "iIndex": 17,
+    "lEquations": [
+      "X = 2 + 9"
+    ],
+    "lSolutions": [
+      "11"
+    ],
+    "sQuestion": "Benny picked 2 apples and Dan picked 9 apples from the apple tree . How many apples were picked in total ? "
+  },
+  {
+    "iIndex": 18,
+    "lEquations": [
+      "X = 9 + 7 + 5"
+    ],
+    "lSolutions": [
+      "21"
+    ],
+    "sQuestion": "Sally found 9 seashells , Tom found 7 seashells , and Jessica found 5 seashells on the beach . How many seashells did they find together ? "
+  },
+  {
+    "iIndex": 19,
+    "lEquations": [
+      "X = 3 + 6 + 9"
+    ],
+    "lSolutions": [
+      "18"
+    ],
+    "sQuestion": "Tim 's cat had kittens . He gave 3 to Jessica and 6 to Sara . He now has 9 kittens . How many kittens did he have to start with ? "
+  },
+  {
+    "iIndex": 20,
+    "lEquations": [
+      "X = 9 + 5 + 2"
+    ],
+    "lSolutions": [
+      "16"
+    ],
+    "sQuestion": "Joan has 9 blue balloons , Sally has 5 blue balloons , and Jessica has 2 blue balloons . How many blue balloons do they have in total ? "
+  }
+]

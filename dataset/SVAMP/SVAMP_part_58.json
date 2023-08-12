@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-571",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 25 sacks of unripe oranges and 5 sacks of ripe oranges per day.",
+    "Question": "How many sacks of ripe oranges will they have after 73 days of harvest?",
+    "Equation": "( 5.0 * 73.0 )",
+    "Answer": 365.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-572",
+    "Body": "Paul had 134 books. After giving 39 books to his friend and selling some books in a garage sale he had 68 books left.",
+    "Question": "How many books did he sell in the garage sale?",
+    "Equation": "( ( 134.0 - 39.0 ) - 68.0 )",
+    "Answer": 27.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-573",
+    "Body": "Paco had 97 salty cookies and 34 sweet cookies. He ate 15 sweet cookies and 56 salty cookies.",
+    "Question": "How many sweet cookies did Paco have left?",
+    "Equation": "( 34.0 - 15.0 )",
+    "Answer": 19.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-574",
+    "Body": "The school is planning a field trip. The school has 84 classrooms. 95 school buses are fully filled with 118 seats on each school bus.",
+    "Question": "How many students are in the school?",
+    "Equation": "( 95.0 * 118.0 )",
+    "Answer": 11210.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-575",
+    "Body": "Faye was placing her pencils and crayons into 30 rows with 71 crayons and 24 pencils in each row.",
+    "Question": "How many pencils does she have?",
+    "Equation": "( 30.0 * 24.0 )",
+    "Answer": 720.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-576",
+    "Body": "Faye was placing 12 pencils equally into 3 rows.",
+    "Question": "How many pencils did she place in each row?",
+    "Equation": "( 12.0 / 3.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-577",
+    "Body": "Julia played tag with 15 kids on monday, 18 kids on tuesday and 7 kids on wednesday.",
+    "Question": "How many more kids did she play with on monday and tuesday than on wednesday?",
+    "Equation": "( ( 15.0 + 18.0 ) - 7.0 )",
+    "Answer": 26.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-578",
+    "Body": "Baker made 133 cakes. If he sold 51 of them",
+    "Question": "How many more cakes did baker make than those he sold?",
+    "Equation": "( 133.0 - 51.0 )",
+    "Answer": 82.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-579",
+    "Body": "There are 18 bananas in Philip's banana collection. If the bananas are organized into groups of size 2",
+    "Question": "How many groups are there?",
+    "Equation": "( 18.0 / 2.0 )",
+    "Answer": 9.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-580",
+    "Body": "Olivia spent 38 dollars at a supermarket. If there were 128 dollars in her wallet initially",
+    "Question": "How much money does she have left?",
+    "Equation": "( 128.0 - 38.0 )",
+    "Answer": 90.0,
+    "Type": "Subtraction"
+  }
+]

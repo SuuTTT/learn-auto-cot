@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-301",
+    "Body": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 49 g of colors to paint them. If the feathers require 288 g of wax and right now he just needs 260 g",
+    "Question": "How many grams of wax does he already have?",
+    "Equation": "( 288.0 - 260.0 )",
+    "Answer": 28.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-302",
+    "Body": "Mary is baking a cake. The recipe calls for 14 cups of flour and 6 cups of sugar. She already put in 5 cups of flour.",
+    "Question": "How many more cups of flour than cups of sugar does she need to add now?",
+    "Equation": "( ( 14.0 - 5.0 ) - 6.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-303",
+    "Body": "Jake has 13 more apples and 17 fewer peaches than Steven. Steven has 8 peaches and 12 apples.",
+    "Question": "How many apples does Jake have?",
+    "Equation": "( 13.0 + 12.0 )",
+    "Answer": 25.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-304",
+    "Body": "Jake has 12 fewer peaches than Steven who has 11 more peaches than Jill. Steven has 4 peaches.",
+    "Question": "How many more peaches does Jill have than Jake?",
+    "Equation": "( 12.0 - 11.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-305",
+    "Body": "Last week Fred had 86 dollars and Jason had 5 dollars. Fred washed cars over the weekend and now has 9 dollars and Jason did not work.",
+    "Question": "How much money do they have together now?",
+    "Equation": "( 5.0 + 9.0 )",
+    "Answer": 14.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-306",
+    "Body": "Jake has 12 fewer peaches and 79 more apples than Steven. Steven has 19 peaches and 14 apples.",
+    "Question": "How many peaches does Jake have?",
+    "Equation": "( 19.0 - 12.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-307",
+    "Body": "There are 10 different books and 6 different movies in the ' crazy silly school ' series. If you read 14 of the movies and watched 19 of the books",
+    "Question": "How many more books than movies have you read?",
+    "Equation": "( 19.0 - 14.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-308",
+    "Body": "Debby bought 301 water bottles when they were on sale. If she drank 144 bottles a day for some days. If she has 157 bottles left",
+    "Question": "How many days did she drink for?",
+    "Equation": "( ( 301.0 - 157.0 ) / 144.0 )",
+    "Answer": 1.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-309",
+    "Body": "He also had 56 aquariums for saltwater animals and 10 aquariums for freshwater animals. Each aquarium has 39 animals in it.",
+    "Question": "How many saltwater animals does Tyler have?",
+    "Equation": "( 56.0 * 39.0 )",
+    "Answer": 2184.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-310",
+    "Body": "Tiffany was collecting cans for recycling. On monday she had 10 bags of cans. She found 3 bags of cans on the next day and 7 bags of cans the day after that.",
+    "Question": "How many bags did she have altogether?",
+    "Equation": "( ( 10.0 + 3.0 ) + 7.0 )",
+    "Answer": 20.0,
+    "Type": "Addition"
+  }
+]

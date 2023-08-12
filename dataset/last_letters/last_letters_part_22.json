@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Nico Lorenzo Johanna Teresita\" and concatenate them.",
+      "answer": "ooaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Paulo Tatyana Bernice Ra\u00fal\" and concatenate them.",
+      "answer": "oael"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lionel Fiona Bobby Janeth\" and concatenate them.",
+      "answer": "layh"
+    },
+    {
+      "question": "Take the last letters of each words in \"Dany Hilda Butch Mahesh\" and concatenate them.",
+      "answer": "yahh"
+    },
+    {
+      "question": "Take the last letters of each words in \"Deon Lane Everett Lindsay\" and concatenate them.",
+      "answer": "nety"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ubaldo Katrina Francis Lynn\" and concatenate them.",
+      "answer": "oasn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lesley Luna Nadia Adriana\" and concatenate them.",
+      "answer": "yaaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Maureen Fabian Claudette Peyton\" and concatenate them.",
+      "answer": "nnen"
+    },
+    {
+      "question": "Take the last letters of each words in \"Gabby Reese Leah Celia\" and concatenate them.",
+      "answer": "yeha"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ramona Lucy Gail Octavio\" and concatenate them.",
+      "answer": "aylo"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 261,
+    "lEquations": [
+      "X = 6.0 + 3.12"
+    ],
+    "lSolutions": [
+      "9.12"
+    ],
+    "sQuestion": "Ron weighed 2 colored metal balls during a science class . The blue ball weighed 6 pounds and the brown ball weighed 3.12 pounds . If Ron places both balls on the scale at the same time , what will the scale read ? "
+  },
+  {
+    "iIndex": 262,
+    "lEquations": [
+      "X = 0.36 - 0.05"
+    ],
+    "lSolutions": [
+      "0.31"
+    ],
+    "sQuestion": "A bee colony produced 0.36 pounds of honey , but bears ate 0.05 pounds of it . How much honey remains ? "
+  },
+  {
+    "iIndex": 263,
+    "lEquations": [
+      "X = 0.9 - 0.7"
+    ],
+    "lSolutions": [
+      "0.2"
+    ],
+    "sQuestion": "It rained 0.9 inches on Monday . On Tuesday , it rained 0.7 inches less than on Monday . How much did it rain on Tuesday ? "
+  },
+  {
+    "iIndex": 264,
+    "lEquations": [
+      "X = 0.32 = 0.21"
+    ],
+    "lSolutions": [
+      "0.53"
+    ],
+    "sQuestion": "It snowed 0.32 inches on Monday and 0.21 inches on Tuesday . How much did it snow on Monday and Tuesday combined ? "
+  },
+  {
+    "iIndex": 265,
+    "lEquations": [
+      "X = 0.25 - 0.16"
+    ],
+    "lSolutions": [
+      "0.09"
+    ],
+    "sQuestion": "Brennan had 0.25 grams of pepper . Then he used 0.16 grams of the pepper to make some scrambled eggs . How much pepper does Brennan have ? "
+  },
+  {
+    "iIndex": 266,
+    "lEquations": [
+      "X = 5.91 + 8.11"
+    ],
+    "lSolutions": [
+      "14.02"
+    ],
+    "sQuestion": "A construction company bought 5.91 tons of gravel and 8.11 tons of sand . How many tons of material did the company buy in all ? "
+  },
+  {
+    "iIndex": 267,
+    "lEquations": [
+      "X = 0.2 + 0.4"
+    ],
+    "lSolutions": [
+      "0.6"
+    ],
+    "sQuestion": "It rained 0.2 inches on Saturday and 0.4 inches on Sunday . How much did it rain on Saturday and Sunday combined ? "
+  },
+  {
+    "iIndex": 268,
+    "lEquations": [
+      "X = 9.8 - 5.2"
+    ],
+    "lSolutions": [
+      "4.6"
+    ],
+    "sQuestion": "Pamela bought 9.8 ounces of sugar , and she spilled 5.2 ounces of it on the floor . How much is ? "
+  },
+  {
+    "iIndex": 269,
+    "lEquations": [
+      "X = 3.42 - 2.2"
+    ],
+    "lSolutions": [
+      "1.22"
+    ],
+    "sQuestion": "Gordon bought 3.42 pounds of fruit for a class party . The class ate 2.2 pounds of the fruit . How much fruit is ? "
+  },
+  {
+    "iIndex": 270,
+    "lEquations": [
+      "X = 0.14 + 0.38"
+    ],
+    "lSolutions": [
+      "0.52"
+    ],
+    "sQuestion": "A chef bought 0.14 kilograms of almonds and 0.38 kilograms of pecans . How many kilograms of nuts did the chef buy in all ? "
+  }
+]

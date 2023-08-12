@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 351,
+    "lEquations": [
+      "X = 7 + 9 + 2"
+    ],
+    "lSolutions": [
+      "18"
+    ],
+    "sQuestion": "Sally had 8 pennies and 7 nickels in her bank . Her dad gave her 9 nickels and her mother gave her 2 nickels . How many nickels does Sally have now ? "
+  },
+  {
+    "iIndex": 352,
+    "lEquations": [
+      "X = 9 + 8 + 7"
+    ],
+    "lSolutions": [
+      "24"
+    ],
+    "sQuestion": "Nancy went to 9 football games this month . She went to 8 games last month , and plans to go to 7 games next month . She paid 3 dollars for the tickets . How many games will she attend in all ? "
+  },
+  {
+    "iIndex": 353,
+    "lEquations": [
+      "X = 6 + 8 + 7"
+    ],
+    "lSolutions": [
+      "21"
+    ],
+    "sQuestion": "Keith found 6 seashells , Jessica found 8 seashells , and Tim found 7 seashells on the beach . When they cleaned them , they discovered that 3 were cracked . How many seashells did they find together ? "
+  },
+  {
+    "iIndex": 354,
+    "lEquations": [
+      "X = 2 + 9 + 4"
+    ],
+    "lSolutions": [
+      "15"
+    ],
+    "sQuestion": "Nancy grew 2 onions , Dan grew 9 onions , and Mike grew 4 onions . They worked for 6 days on the farm . How many onions did they grow in total ? "
+  },
+  {
+    "iIndex": 355,
+    "lEquations": [
+      "X = 5 + 6 + 7"
+    ],
+    "lSolutions": [
+      "18"
+    ],
+    "sQuestion": "Fred has 5 yellow balloons , Sam has 6 yellow balloons , and Mary has 7 yellow balloons . The balloons cost 5 dollars . How many yellow balloons do they have in total ? "
+  },
+  {
+    "iIndex": 356,
+    "lEquations": [
+      "X = 4 + 9 + 7"
+    ],
+    "lSolutions": [
+      "20"
+    ],
+    "sQuestion": "A restaurant served 4 pies during lunch and 9 during dinner today . The restaurant served 7 pies and 2 pizzas yesterday . How many pies were served in total ? "
+  },
+  {
+    "iIndex": 357,
+    "lEquations": [
+      "X = 37 + 13"
+    ],
+    "lSolutions": [
+      "50"
+    ],
+    "sQuestion": "Tim found 37 seashells and Sally found 13 seashells on the beach . When they cleaned them , they discovered that 25 were cracked . How many seashells did they find together ? "
+  },
+  {
+    "iIndex": 358,
+    "lEquations": [
+      "X = 15 + 33"
+    ],
+    "lSolutions": [
+      "48"
+    ],
+    "sQuestion": "Tom had 27 pennies and 15 dimes in his bank . His dad gave him 33 dimes and 49 nickels . How many dimes does he have now ? "
+  },
+  {
+    "iIndex": 359,
+    "lEquations": [
+      "X = 39 + 13"
+    ],
+    "lSolutions": [
+      "52"
+    ],
+    "sQuestion": "There are 39 scissors and 22 pencils in the drawer . Dan placed 13 scissors in the drawer . How many scissors are now there in total ? "
+  },
+  {
+    "iIndex": 360,
+    "lEquations": [
+      "X = 16 + 21"
+    ],
+    "lSolutions": [
+      "37"
+    ],
+    "sQuestion": "Sam has 16 blue and 25 green balloons . Alyssa has 21 blue balloons . How many blue balloons do they have in all ? "
+  }
+]

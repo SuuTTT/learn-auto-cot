@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-701",
+    "Body": "Every day Ryan spends 6 hours on learning english and 2 hours on learning chinese.",
+    "Question": "How many more hours does he spend on learning english than he does on learning chinese?",
+    "Equation": "( 6.0 - 2.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-702",
+    "Body": "David did 40 more push-ups but 17 less crunches than Zachary in gym class today. If Zachary did 34 push-ups and 62 crunches",
+    "Question": "How many crunches did David do?",
+    "Equation": "( 62.0 - 17.0 )",
+    "Answer": 45.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-703",
+    "Body": "The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches.",
+    "Question": "How much farther did the frog jump than the grasshopper?",
+    "Equation": "( 39.0 - 17.0 )",
+    "Answer": 22.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-704",
+    "Body": "Paul had 50 books. After buying some in a garage sale he had 151 left.",
+    "Question": "How many books did he buy?",
+    "Equation": "( 151.0 - 50.0 )",
+    "Answer": 101.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-705",
+    "Body": "If they are already at 659 feet and the cave is 762 feet deep",
+    "Question": "How much farther until they reach the end of the cave?",
+    "Equation": "( 762.0 - 659.0 )",
+    "Answer": 103.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-706",
+    "Body": "Katie had 78 new games and 86 old games. Her friends had 48 new games.",
+    "Question": "How many new games do they have together?",
+    "Equation": "( 78.0 + 48.0 )",
+    "Answer": 126.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-707",
+    "Body": "Josh had 19 marbles in his collection. He lost 11 marbles and found 5 new ones.",
+    "Question": "How many marbles does he have now?",
+    "Equation": "( ( 19.0 - 11.0 ) + 5.0 )",
+    "Answer": 13.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-708",
+    "Body": "Jerry had 4 action figures on a shelf in his room. Later he added some more action figures to the shelf. If there are a total of 8 action figures on his shelf now",
+    "Question": "How many action figures did he add to the shelf?",
+    "Equation": "( 8.0 - 4.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-709",
+    "Body": "Rachel has 52 apple trees. She picked 2 apples from 1 of her trees. Now the tree has 7 apples still on it.",
+    "Question": "How many apples did the tree have to begin with?",
+    "Equation": "( 2.0 + 7.0 )",
+    "Answer": 9.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-710",
+    "Body": "We ordered 9 pizzas. Each pizza has 10 slices. If there are 2 of us",
+    "Question": "How many slices of pizza does each of us get if distributed equally?",
+    "Equation": "( 9.0 * ( 10.0 / 2.0 ) )",
+    "Answer": 45.0,
+    "Type": "Multiplication"
+  }
+]

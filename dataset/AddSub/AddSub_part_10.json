@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 91,
+    "lEquations": [
+      "X = 676 - 224"
+    ],
+    "lSolutions": [
+      "452"
+    ],
+    "sQuestion": "Jason has 676 Pokemon cards . Alyssa bought 224 of Jason 's Pokemon cards . How many Pokemon cards does Jason have now ? "
+  },
+  {
+    "iIndex": 92,
+    "lEquations": [
+      "X = 107 + 104"
+    ],
+    "lSolutions": [
+      "211"
+    ],
+    "sQuestion": "There are 107 walnut trees currently in the park . Park workers will plant 104 walnut trees today . How many walnut trees will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 93,
+    "lEquations": [
+      "X = 709 - 221"
+    ],
+    "lSolutions": [
+      "488"
+    ],
+    "sQuestion": "Fred has 709 green balloons , he gave Sandy 221 of the balloons . How many green balloons does he now have ? "
+  },
+  {
+    "iIndex": 94,
+    "lEquations": [
+      "X = 115 + 100"
+    ],
+    "lSolutions": [
+      "215"
+    ],
+    "sQuestion": "There are 115 pencils in the drawer . Sara placed 100 pencils in the drawer . How many pencils are now there in all ? "
+  },
+  {
+    "iIndex": 95,
+    "lEquations": [
+      "X = 3 - 2"
+    ],
+    "lSolutions": [
+      "1"
+    ],
+    "sQuestion": "Jason has 3 Pokemon cards . Benny bought 2 of Jason 's Pokemon cards . How many Pokemon cards does Jason have now ? "
+  },
+  {
+    "iIndex": 96,
+    "lEquations": [
+      "X = 8 - 4"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "Mike has 8 orange marbles , he gave Sam 4 of the marbles . How many orange marbles does he now have ? "
+  },
+  {
+    "iIndex": 97,
+    "lEquations": [
+      "X = 5 - 2"
+    ],
+    "lSolutions": [
+      "3"
+    ],
+    "sQuestion": "Joan had 5 dimes in her bank . She spent 2 of her dimes . How many dimes does she have now ? "
+  },
+  {
+    "iIndex": 98,
+    "lEquations": [
+      "X = 2 + 4"
+    ],
+    "lSolutions": [
+      "6"
+    ],
+    "sQuestion": "There are 2 orchid bushes currently in the park . Park workers will plant 4 orchid bushes today . How many orchid bushes will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 99,
+    "lEquations": [
+      "X = 6 + 5"
+    ],
+    "lSolutions": [
+      "11"
+    ],
+    "sQuestion": "Sara picked 6 pears and Tim picked 5 pears from the pear tree . How many pears were picked in total ? "
+  },
+  {
+    "iIndex": 100,
+    "lEquations": [
+      "X = 4 - 3"
+    ],
+    "lSolutions": [
+      "1"
+    ],
+    "sQuestion": "Sam grew 4 watermelons , but the rabbits ate 3 watermelons . How many watermelons does Sam have ? "
+  }
+]

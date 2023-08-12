@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-511",
+    "Body": "Shirley sold 10 boxes of trefoils.",
+    "Question": "How many boxes are in each case if she needs to deliver 5 cases of boxes?",
+    "Equation": "( 10.0 / 5.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-512",
+    "Body": "Paul got a box of 521 crayons and 66 erasers for his birthday. At the end of the school year he only had 154 left while not having lost a single erasers.",
+    "Question": "How many crayons had been lost or given away?",
+    "Equation": "( 521.0 - 154.0 )",
+    "Answer": 367.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-513",
+    "Body": "David did 56 more push-ups than Zachary in gym class today. If David did 38 push-ups",
+    "Question": "How many push-ups did Zachary and David do altogether?",
+    "Equation": "( ( 38.0 + 38.0 ) - 56.0 )",
+    "Answer": 20.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-514",
+    "Body": "Danny collects bottle caps and wrappers. He found 10 bottle caps and 62 wrappers at the park. Now he has 27 bottle caps and 43 wrappers in his collection.",
+    "Question": "How many more wrappers than bottle caps does danny have now?",
+    "Equation": "( 43.0 - 27.0 )",
+    "Answer": 16.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-515",
+    "Body": "Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. She found 10 bags of cans on the next day and 4 bags of cans the day after that.",
+    "Question": "How many bags did she find after monday?",
+    "Equation": "( 10.0 + 4.0 )",
+    "Answer": 14.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-516",
+    "Body": "Faye was placing her pencils into rows with 16 pencils in each row. She had 28 packs of pencils each one having 24 pencils.",
+    "Question": "How many rows could she make?",
+    "Equation": "( 28.0 * ( 24.0 / 16.0 ) )",
+    "Answer": 42.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-517",
+    "Body": "4 birds and 3 storks were sitting on the fence. 6 more storks came to join them.",
+    "Question": "How many more storks than birds are sitting on the fence?",
+    "Equation": "( ( 3.0 + 6.0 ) - 4.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-518",
+    "Body": "Jessie weighed 114 kilograms. After she started to go jogging everyday she lost 50 kilograms in the first week and 60 kilograms in the second week.",
+    "Question": "How much does she weigh now?",
+    "Equation": "( ( 114.0 - 50.0 ) - 60.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-519",
+    "Body": "6 packs of dvds can be bought with 120 dollars.",
+    "Question": "How much does each pack cost?",
+    "Equation": "( 120.0 / 6.0 )",
+    "Answer": 20.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-520",
+    "Body": "Julia played tag with 14 kids on monday, 2 kids on tuesday and 8 kids on wednesday.",
+    "Question": "How many more kids did she play with on monday than on wednesday?",
+    "Equation": "( 14.0 - 8.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  }
+]

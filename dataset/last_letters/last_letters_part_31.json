@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Clark Jenn Diane Blair\" and concatenate them.",
+      "answer": "kner"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lalo Yolanda Elida Ester\" and concatenate them.",
+      "answer": "oaar"
+    },
+    {
+      "question": "Take the last letters of each words in \"Bethany Rakesh Christine Dinesh\" and concatenate them.",
+      "answer": "yheh"
+    },
+    {
+      "question": "Take the last letters of each words in \"Nery Cindy Jess Chris\" and concatenate them.",
+      "answer": "yyss"
+    },
+    {
+      "question": "Take the last letters of each words in \"Miriam Brandy Bertha Renato\" and concatenate them.",
+      "answer": "myao"
+    },
+    {
+      "question": "Take the last letters of each words in \"Abel Mallory Theresa Quinn\" and concatenate them.",
+      "answer": "lyan"
+    },
+    {
+      "question": "Take the last letters of each words in \"Celso Tracy Winston Anton\" and concatenate them.",
+      "answer": "oynn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lore Erasmo Louis David\" and concatenate them.",
+      "answer": "eosd"
+    },
+    {
+      "question": "Take the last letters of each words in \"Cristobal Dania Li Anna\" and concatenate them.",
+      "answer": "laia"
+    },
+    {
+      "question": "Take the last letters of each words in \"Wally Claire Helen Nacho\" and concatenate them.",
+      "answer": "yeno"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Claudia Cole Matthew Juan Pablo\" and concatenate them.",
+      "answer": "aewo"
+    },
+    {
+      "question": "Take the last letters of each words in \"Arturo Dominick Christa Myles\" and concatenate them.",
+      "answer": "okas"
+    },
+    {
+      "question": "Take the last letters of each words in \"Marc Doris Ernie Gary\" and concatenate them.",
+      "answer": "csey"
+    },
+    {
+      "question": "Take the last letters of each words in \"Teresa Reid Karin Gracie\" and concatenate them.",
+      "answer": "adne"
+    },
+    {
+      "question": "Take the last letters of each words in \"Rahul Praveen Isaiah Elsie\" and concatenate them.",
+      "answer": "lnhe"
+    },
+    {
+      "question": "Take the last letters of each words in \"Miranda Jacques Clarence Chandra\" and concatenate them.",
+      "answer": "asea"
+    },
+    {
+      "question": "Take the last letters of each words in \"June Robin Josie Bo\" and concatenate them.",
+      "answer": "eneo"
+    },
+    {
+      "question": "Take the last letters of each words in \"Luisa Tatiana Drake Hillary\" and concatenate them.",
+      "answer": "aaey"
+    },
+    {
+      "question": "Take the last letters of each words in \"Louise Mariano Laura Gerardo\" and concatenate them.",
+      "answer": "eoao"
+    },
+    {
+      "question": "Take the last letters of each words in \"Star Jude Rosemarie Raquel\" and concatenate them.",
+      "answer": "reel"
+    }
+  ]
+}

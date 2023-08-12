@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Anand Estefania Stanley Lizette\" and concatenate them.",
+      "answer": "daye"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sunil Tiana Darla Darnell\" and concatenate them.",
+      "answer": "laal"
+    },
+    {
+      "question": "Take the last letters of each words in \"Eugenio Moises Marion Kirk\" and concatenate them.",
+      "answer": "osnk"
+    },
+    {
+      "question": "Take the last letters of each words in \"Marty Justine Edgardo Osman\" and concatenate them.",
+      "answer": "yeon"
+    },
+    {
+      "question": "Take the last letters of each words in \"Tucker Daniel Hernandez Alison\" and concatenate them.",
+      "answer": "rlzn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sherri Genesis Jeffrey Samir\" and concatenate them.",
+      "answer": "isyr"
+    },
+    {
+      "question": "Take the last letters of each words in \"Cat Alisha Ramon Norberto\" and concatenate them.",
+      "answer": "tano"
+    },
+    {
+      "question": "Take the last letters of each words in \"Hilario Magdalena Morris Patricio\" and concatenate them.",
+      "answer": "oaso"
+    },
+    {
+      "question": "Take the last letters of each words in \"Fausto Tito Jade Terrance\" and concatenate them.",
+      "answer": "ooee"
+    },
+    {
+      "question": "Take the last letters of each words in \"Gayle Doreen Chelsey Helena\" and concatenate them.",
+      "answer": "enya"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "demo": [
+        {
+            "question": "Q: Take the last letters of each words in \"Celso Tracy Winston Anton\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. The last letter of \"Celso\" is \"o\". The last letter of \"Tracy\" is \"y\". The last letter of \"Winston\" is \"n\". The last letter of \"Anton\" is \"n\". So the final answer would be \"onynn\".",
+            "pred_ans": "onynn",
+            "gold_ans": "oynn"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Len Marquis Kylie Sandra\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. The last letter of \"Len\" is \"n\". The last letter of \"Marquis\" is \"s\". The last letter of \"Kylie\" is \"e\". The last letter of \"Sandra\" is \"a\". So the final answer is \"nsaea\".",
+            "pred_ans": "nsaea",
+            "gold_ans": "nsea"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Alina Alessandra Amina Bianca\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. The last letter of \"Alina\" is \"a\". The last letter of \"Alessandra\" is \"a\". The last letter of \"Amina\" is \"a\". The last letter of \"Bianca\" is \"a\". So the final answer is \"aaaa\".",
+            "pred_ans": "aaaa",
+            "gold_ans": "aaaa"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Alfonso Collin Amado Dick\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. The last letter of \"Alfonso\" is \"o\". The last letter of \"Collin\" is \"n\". The last letter of \"Amado\" is \"o\". The last letter of \"Dick\" is \"k\". So the final answer would be \"onok\".",
+            "pred_ans": "onok",
+            "gold_ans": "onok"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Vicente Dayana Kasey Lin\" and concatenate them.",
+      "answer": "eayn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Craig Dillon Troy Griselda\" and concatenate them.",
+      "answer": "gnya"
+    },
+    {
+      "question": "Take the last letters of each words in \"Rubi Daisy Yadira Santa\" and concatenate them.",
+      "answer": "iyaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Dave Ernesto Liam Marsha\" and concatenate them.",
+      "answer": "eoma"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ira Paola Jose Antonio Maria\" and concatenate them.",
+      "answer": "aaoa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Manish Lu Karl Don\" and concatenate them.",
+      "answer": "huln"
+    },
+    {
+      "question": "Take the last letters of each words in \"Irving Hans Moses Nicole\" and concatenate them.",
+      "answer": "gsse"
+    },
+    {
+      "question": "Take the last letters of each words in \"Micaela Kevin Diamond Ty\" and concatenate them.",
+      "answer": "andy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Maura Selvin Tabitha Gino\" and concatenate them.",
+      "answer": "anao"
+    },
+    {
+      "question": "Take the last letters of each words in \"Rosendo Shayla Erica Georgia\" and concatenate them.",
+      "answer": "oaaa"
+    }
+  ]
+}

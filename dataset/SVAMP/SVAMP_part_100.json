@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-991",
+    "Body": "After resting they decided to go for a swim. The depth of the water is 9 times Dean's height. If Ron is 15 feet tall and Dean is 6 feet shorter than Ron",
+    "Question": "How deep was the water?",
+    "Equation": "( ( 15.0 - 6.0 ) * 9.0 )",
+    "Answer": 81.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-992",
+    "Body": "In a school there are 308 girls and 318 boys. There are also 36 teachers",
+    "Question": "How many pupils are there in that school?",
+    "Equation": "( 308.0 + 318.0 )",
+    "Answer": 626.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-993",
+    "Body": "Friends of Katie had 57 games and she had 63 ds games.",
+    "Question": "How many more games does Katie have than her friends?",
+    "Equation": "( 63.0 - 57.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-994",
+    "Body": "Luke scored 84 points after playing 2 rounds of a trivia game. If he gained the same number of points each round",
+    "Question": "How many points did he score per round?",
+    "Equation": "( 84.0 / 2.0 )",
+    "Answer": 42.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-995",
+    "Body": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 57 g of colors to paint them. He needs 22 g of wax more. If the feathers require a total of 353 g of wax",
+    "Question": "How many grams of wax does he already have?",
+    "Equation": "( 353.0 - 22.0 )",
+    "Answer": 331.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-996",
+    "Body": "Paige was helping her mom plant flowers and together they planted 36 seeds. They put 12 seeds in each flower bed and only 58 seeds grew into flowers in each flower bed.",
+    "Question": "How many flower beds did they have?",
+    "Equation": "( 36.0 / 12.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-997",
+    "Body": "At the zoo, a cage had 3 snakes and 75 alligators. If 82 snakes and 19 alligators were hiding",
+    "Question": "How many alligators were not hiding?",
+    "Equation": "( 75.0 - 19.0 )",
+    "Answer": 56.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-998",
+    "Body": "Paige was helping her mom plant flowers and together they planted 55 seeds. They put 15 seeds in each flower bed and only 60 seeds grew into flowers in each flower bed.",
+    "Question": "How many flowers did they grow?",
+    "Equation": "( 60.0 * ( 55.0 / 15.0 ) )",
+    "Answer": 220.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-999",
+    "Body": "Mary is baking a cake. The recipe calls for 7 cups of sugar and 10 cups of flour. She already put in 4 cups of sugar.",
+    "Question": "How many more cups of sugar does she need to add?",
+    "Equation": "( 7.0 - 4.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-1000",
+    "Body": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 13 inches. The grasshopper jumped 2 inches farther than the grasshopper.",
+    "Question": "How far did the frog jump?",
+    "Equation": "( 13.0 - 2.0 )",
+    "Answer": 11.0,
+    "Type": "Subtraction"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 221,
+    "lEquations": [
+      "X = 0.125 + 0.125 + 0.5"
+    ],
+    "lSolutions": [
+      "0.75"
+    ],
+    "sQuestion": "During a canned food drive , items were sorted into bins . The drive resulted in 0.125 bin of soup , 0.125 bin of vegetables , and 0.5 bin of pasta . Altogether , how many bins would the canned food take up ? "
+  },
+  {
+    "iIndex": 222,
+    "lEquations": [
+      "X = 0.3333333333333333 + 0.3333333333333333 + 0.08333333333333333"
+    ],
+    "lSolutions": [
+      "0.75"
+    ],
+    "sQuestion": "Paco 's Countertop Company purchased pieces of marble from a quarry . The weights of the pieces they purchased were 0.3333333333333333 ton , 0.3333333333333333 ton , and 0.08333333333333333 ton . How many tons of marble did Paco 's Countertop Company purchase in all ? "
+  },
+  {
+    "iIndex": 223,
+    "lEquations": [
+      "X = 0.08333333333333333 + 0.08333333333333333 + 0.6666666666666666"
+    ],
+    "lSolutions": [
+      "0.8333333333333334"
+    ],
+    "sQuestion": "Nina did a running drill to get in shape for soccer season . First , Nina ran 0.08333333333333333 mile . Then she ran 0.08333333333333333 mile and 0.6666666666666666 mile . How many miles did Nina run in total ? "
+  },
+  {
+    "iIndex": 224,
+    "lEquations": [
+      "X = 0.16666666666666666 + 0.4166666666666667 + 0.08333333333333333"
+    ],
+    "lSolutions": [
+      "0.6666666666666666"
+    ],
+    "sQuestion": "Bonnie 's science class recorded the rainfall each day . They recorded 0.16666666666666666 centimeter of rain on Monday , 0.4166666666666667 centimeter of rain on Tuesday , and 0.08333333333333333 centimeter of rain on Wednesday . How many centimeters of rain did the class record in all ? "
+  },
+  {
+    "iIndex": 225,
+    "lEquations": [
+      "X = 0.3 + 0.1 + 0.4"
+    ],
+    "lSolutions": [
+      "0.8"
+    ],
+    "sQuestion": "Last Saturday , Spencer walked all over town running errands . First , he walked 0.3 mile from his house to the library and 0.1 mile from the library to the post office . Then he walked 0.4 mile from the post office back home . How many miles did Spencer walk in all ? "
+  },
+  {
+    "iIndex": 226,
+    "lEquations": [
+      "X = 0.16666666666666666 + 0.16666666666666666 + 0.5"
+    ],
+    "lSolutions": [
+      "0.8333333333333334"
+    ],
+    "sQuestion": "A construction company ordered 0.16666666666666666 ton of concrete , 0.16666666666666666 ton of bricks , and 0.5 ton of stone . How many tons of material did the company order in all ? "
+  },
+  {
+    "iIndex": 227,
+    "lEquations": [
+      "X = 0.25 + 0.375 + 0.125"
+    ],
+    "lSolutions": [
+      "0.75"
+    ],
+    "sQuestion": "Kendra made punch for her friend 's birthday party . She used 0.25 gallon of grape juice , 0.375 gallon of cranberry juice , and 0.125 gallon of club soda . How many gallons of punch did Kendra make ? "
+  },
+  {
+    "iIndex": 228,
+    "lEquations": [
+      "X = 0.5 + 0.1 + 0.1"
+    ],
+    "lSolutions": [
+      "0.7"
+    ],
+    "sQuestion": "A spaceship traveled 0.5 light-year from Earth to Planet X and 0.1 light-year from Planet X to Planet Y. Then it traveled 0.1 light-year from Planet Y back to Earth . How many light-years did the spaceship travel in all ? "
+  },
+  {
+    "iIndex": 229,
+    "lEquations": [
+      "X = 0.3333333333333333 + 0.3333333333333333 + 0.2222222222222222"
+    ],
+    "lSolutions": [
+      "0.8888888888888888"
+    ],
+    "sQuestion": "Logan recorded the snowfall every day during a snowstorm . He recorded 0.3333333333333333 centimeter on Wednesday , 0.3333333333333333 centimeter on Thursday , and 0.2222222222222222 centimeter on Friday . How many total centimeters of snow did Logan record ? "
+  },
+  {
+    "iIndex": 230,
+    "lEquations": [
+      "X = 0.2 + 0.1 + 0.2"
+    ],
+    "lSolutions": [
+      "0.5"
+    ],
+    "sQuestion": "Ellen made smoothies in the blender . She used 0.2 cup of strawberries , 0.1 cup of yogurt , and 0.2 cup of orange juice . How many cups of ingredients did Ellen use for the smoothies ? "
+  }
+]

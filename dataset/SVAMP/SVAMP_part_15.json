@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-141",
+    "Body": "23 children were riding on the bus. At the bus stop 24 children got on the bus while some got off the bus. Then there were 8 children altogether on the bus.",
+    "Question": "How many more children got off the bus than those that got on?",
+    "Equation": "( 23.0 - 8.0 )",
+    "Answer": 15.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-142",
+    "Body": "A book has 3 chapters. The first chapter is 66 pages long the second chapter is 35 pages long and the third chapter is 24 pages long.",
+    "Question": "How many pages does the book have altogether?",
+    "Equation": "( ( 66.0 + 35.0 ) + 24.0 )",
+    "Answer": 125.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-143",
+    "Body": "7 red peaches, 15 yellow peaches and 8 green peaches are in the basket.",
+    "Question": "How many peaches are in the basket?",
+    "Equation": "( ( 7.0 + 15.0 ) + 8.0 )",
+    "Answer": 30.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-144",
+    "Body": "Paige was helping her mom plant flowers and they put 10 seeds in each flower bed. If they planted 60 seeds altogther",
+    "Question": "How many flower beds did they have?",
+    "Equation": "( 60.0 / 10.0 )",
+    "Answer": 6.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-145",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food. If 257 students suggested adding mashed potatoes 120 suggested adding bacon to the menu and 97 suggested adding tomatoes",
+    "Question": "How many more students suggested mashed potatoes than those that suggested bacon?",
+    "Equation": "( 257.0 - 120.0 )",
+    "Answer": 137.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-146",
+    "Body": "In a school there are 135 girls and 214 boys. 496 more girls and 910 more boys joined the school.",
+    "Question": "How many boys are there in the school now?",
+    "Equation": "( 214.0 + 910.0 )",
+    "Answer": 1124.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-147",
+    "Body": "After resting they decided to go for a swim. If the depth of the water is 10 times Dean's height and he stands at 9 feet",
+    "Question": "How much deeper is the water than Dean's height?",
+    "Equation": "( ( 10.0 * 9.0 ) - 9.0 )",
+    "Answer": 81.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-148",
+    "Body": "Next on his checklist is wax to stick the feathers together. He needs 159 g of wax more. If the feathers require a total of 628 g of wax",
+    "Question": "How many grams of wax does he already have?",
+    "Equation": "( 628.0 - 159.0 )",
+    "Answer": 469.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-149",
+    "Body": "Frank was reading through his favorite book. He read 8 pages per day. If the book had 576 pages",
+    "Question": "How many days did he take to finish the book?",
+    "Equation": "( 576.0 / 8.0 )",
+    "Answer": 72.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-150",
+    "Body": "There are a total of 16 peaches in a basket. If there are 13 red peaches and some more green peaches in the basket.",
+    "Question": "How many green peaches are in the basket?",
+    "Equation": "( 16.0 - 13.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  }
+]

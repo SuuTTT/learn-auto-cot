@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 281,
+    "lEquations": [
+      "X = 66 - 52"
+    ],
+    "lSolutions": [
+      "14"
+    ],
+    "sQuestion": "Benny found 66 seashells and 49 starfish on the beach . He gave 52 of the seashells to Jason . How many seashells does Benny now have ? "
+  },
+  {
+    "iIndex": 282,
+    "lEquations": [
+      "X = 41 + 12"
+    ],
+    "lSolutions": [
+      "53"
+    ],
+    "sQuestion": "There are 41 crayons and 26 pencils in the drawer . Sam placed 12 crayons in the drawer . How many crayons are now there in total ? "
+  },
+  {
+    "iIndex": 283,
+    "lEquations": [
+      "X = 87 - 75"
+    ],
+    "lSolutions": [
+      "12"
+    ],
+    "sQuestion": "Mike had 33 quarters and 87 nickels in his bank . His dad borrowed 75 nickels from Mike . How many nickels does he have now ? "
+  },
+  {
+    "iIndex": 284,
+    "lEquations": [
+      "X = 86 - 25"
+    ],
+    "lSolutions": [
+      "61"
+    ],
+    "sQuestion": "Sam has 86 yellow and 20 green marbles . Joan took 25 of Sam 's yellow marbles . How many yellow marbles does Sam now have ? "
+  },
+  {
+    "iIndex": 285,
+    "lEquations": [
+      "X = 97 - 15"
+    ],
+    "lSolutions": [
+      "82"
+    ],
+    "sQuestion": "Dan had 97 baseball cards , and 8 were torn . Sam bought 15 of Dan 's baseball cards . How many baseball cards does Dan have now ? "
+  },
+  {
+    "iIndex": 286,
+    "lEquations": [
+      "X = 41 + 57"
+    ],
+    "lSolutions": [
+      "98"
+    ],
+    "sQuestion": "There are 41 short trees and 44 tall trees currently in the park . Park workers will plant 57 short trees today . How many short trees will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 287,
+    "lEquations": [
+      "X = 25 + 32"
+    ],
+    "lSolutions": [
+      "57"
+    ],
+    "sQuestion": "Alyssa picked 25 limes and Mike picked 32 limes . Tom picked 12 plums . How many limes were picked in all ? "
+  },
+  {
+    "iIndex": 288,
+    "lEquations": [
+      "X = 679 - 172"
+    ],
+    "lSolutions": [
+      "507"
+    ],
+    "sQuestion": "Tim found 679 seashells and 110 starfish on the beach . He gave 172 of the seashells to Sara . How many seashells does Tim now have ? "
+  },
+  {
+    "iIndex": 289,
+    "lEquations": [
+      "X = 139 + 131"
+    ],
+    "lSolutions": [
+      "270"
+    ],
+    "sQuestion": "There are 139 erasers and 118 scissors in the drawer . Jason placed 131 erasers in the drawer . How many erasers are now there in total ? "
+  },
+  {
+    "iIndex": 290,
+    "lEquations": [
+      "X = 123 + 104"
+    ],
+    "lSolutions": [
+      "227"
+    ],
+    "sQuestion": "Mike picked 123 oranges and Melanie picked 104 oranges . Fred picked 130 apples . How many oranges were picked in total ? "
+  }
+]

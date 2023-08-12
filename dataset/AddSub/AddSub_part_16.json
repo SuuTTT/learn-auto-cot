@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 151,
+    "lEquations": [
+      "X = 2041.0 + 63093.0"
+    ],
+    "lSolutions": [
+      "65134.0"
+    ],
+    "sQuestion": "A multi-national corporation has 2041 part-time employees and 63093 full-time employees . How many employees work for the corporation ? "
+  },
+  {
+    "iIndex": 152,
+    "lEquations": [
+      "X = 712261.0 + 259378.0"
+    ],
+    "lSolutions": [
+      "971639.0"
+    ],
+    "sQuestion": "Each year , salmon travel upstream , going from the ocean to the rivers where they were born . This year , 712261 male and 259378 female salmon returned to their rivers . How many salmon made the trip ? "
+  },
+  {
+    "iIndex": 153,
+    "lEquations": [
+      "X = 14797.0 + 4969.0"
+    ],
+    "lSolutions": [
+      "19766.0"
+    ],
+    "sQuestion": "A bathing suit manufacturer has a supply of 14797 bathing suits for men . In addition , it has 4969 bathing suits for women . How many bathing suits are available overall ? "
+  },
+  {
+    "iIndex": 154,
+    "lEquations": [
+      "X = 2000.0 - 1426.0"
+    ],
+    "lSolutions": [
+      "574.0"
+    ],
+    "sQuestion": "Before the recent housing boom , there were 1426 houses in Lawrence County . Now , there are 2000 houses . How many houses did developers build during the housing boom ? "
+  },
+  {
+    "iIndex": 155,
+    "lEquations": [
+      "X = 7341.0 - 4221.0"
+    ],
+    "lSolutions": [
+      "3120.0"
+    ],
+    "sQuestion": "A worker at a medical lab is studying blood samples . 2 samples contained a total of 7341 blood cells . The first sample contained 4221 blood cells . How many blood cells were in the second sample ? "
+  },
+  {
+    "iIndex": 156,
+    "lEquations": [
+      "X = 9792.0 - 3513.0"
+    ],
+    "lSolutions": [
+      "6279.0"
+    ],
+    "sQuestion": "So far , an orchard has sold a combined total of 9792 pounds of fresh and frozen fruit this season . If they have sold 3513 pounds of frozen fruit , how many pounds of fresh fruit have been sold so far ? "
+  },
+  {
+    "iIndex": 157,
+    "lEquations": [
+      "X = 1472.0 - 12.0"
+    ],
+    "lSolutions": [
+      "1460.0"
+    ],
+    "sQuestion": "Recently , the value of Kate 's retirement fund decreased by $ 12 . If her fund was worth $ 1472 before , how much is it worth now ? "
+  },
+  {
+    "iIndex": 158,
+    "lEquations": [
+      "X = 9570.0 - 3867.0"
+    ],
+    "lSolutions": [
+      "5703.0"
+    ],
+    "sQuestion": "The Richmond Tigers sold a total of 9570 tickets last season . If they sold 3867 tickets in the first half of the season , how many tickets did they sell in the second half ? "
+  },
+  {
+    "iIndex": 159,
+    "lEquations": [
+      "X = 8917.0 - 600.0"
+    ],
+    "lSolutions": [
+      "8317.0"
+    ],
+    "sQuestion": "A petri dish originally contained 600 bacteria . A scientist let the bacteria grow and now there are 8917 of them . How many more bacteria are there now ? "
+  },
+  {
+    "iIndex": 160,
+    "lEquations": [
+      "X = 1576.0 - 344.0"
+    ],
+    "lSolutions": [
+      "1232.0"
+    ],
+    "sQuestion": "Tori is a school janitor . Last week , she picked up a total of 1576 pieces of trash . If she picked up 344 pieces of trash in the classrooms , how many pieces of trash did Tori pick up outside the classrooms ? "
+  }
+]

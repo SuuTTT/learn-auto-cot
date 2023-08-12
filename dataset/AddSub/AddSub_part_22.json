@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 211,
+    "lEquations": [
+      "X = 0.125 + 0.5"
+    ],
+    "lSolutions": [
+      "0.625"
+    ],
+    "sQuestion": "In Yardley it snowed 0.125 inch in the morning and 0.5 inch in the afternoon . What was the total amount of snowfall ? "
+  },
+  {
+    "iIndex": 212,
+    "lEquations": [
+      "X = 0.2 + 0.1"
+    ],
+    "lSolutions": [
+      "0.3"
+    ],
+    "sQuestion": "While making pastries , a bakery used 0.2 bag of wheat flour and 0.1 bag of white flour . How many bags of flour did the bakery use in all ? "
+  },
+  {
+    "iIndex": 213,
+    "lEquations": [
+      "X = 0.75 - 0.5"
+    ],
+    "lSolutions": [
+      "0.25"
+    ],
+    "sQuestion": "Kaleen filled a bucket with 0.75 gallon of water . A few minutes later , she realized only 0.5 gallon of water remained . How much water had leaked out of the bucket ? "
+  },
+  {
+    "iIndex": 214,
+    "lEquations": [
+      "X = 0.2 + 0.4 + 0.1"
+    ],
+    "lSolutions": [
+      "0.7"
+    ],
+    "sQuestion": "Irwin 's family went on a camping trip in the mountains . On the first day , they hiked from their car to the campsite . First , they hiked 0.2 mile from the car to a stream , and 0.4 mile from the stream to a meadow . Then they hiked 0.1 mile from the meadow to the campsite . How many miles did Irwin 's family hike in all ? "
+  },
+  {
+    "iIndex": 215,
+    "lEquations": [
+      "X = 0.16666666666666666 + 0.16666666666666666 + 0.3333333333333333"
+    ],
+    "lSolutions": [
+      "0.6666666666666666"
+    ],
+    "sQuestion": "During a visit to an orchard , Charlie picked 0.16666666666666666 bag of Golden Delicious apples , 0.16666666666666666 bag of Macintosh apples , and 0.3333333333333333 bag of Cortland apples . How many bags of fruit did Charlie pick in total ? "
+  },
+  {
+    "iIndex": 216,
+    "lEquations": [
+      "X = 0.25 + 0.25 + 0.375"
+    ],
+    "lSolutions": [
+      "0.875"
+    ],
+    "sQuestion": "Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.375 bottle at the third table . Altogether , how many bottles of mustard does the waitress find ? "
+  },
+  {
+    "iIndex": 217,
+    "lEquations": [
+      "X = 0.08333333333333333 + 0.75 + 0.08333333333333333"
+    ],
+    "lSolutions": [
+      "0.9166666666666666"
+    ],
+    "sQuestion": "A waitress put leftover tarts into the fridge on Thursday night . She noticed that the restaurant had 0.08333333333333333 tart filled with cherries , 0.75 tart filled with blueberries , and 0.08333333333333333 tart filled with peaches . How many leftover tarts did the restaurant have in all ? "
+  },
+  {
+    "iIndex": 218,
+    "lEquations": [
+      "X = 0.1111111111111111 + 0.1111111111111111 + 0.6666666666666666"
+    ],
+    "lSolutions": [
+      "0.8888888888888888"
+    ],
+    "sQuestion": "On her vacation last summer , Trisha walked all over New York City to buy souvenirs . First , she walked 0.1111111111111111 mile from her hotel to a postcard shop . Then she walked 0.1111111111111111 mile from the postcard shop to a T-shirt shop and 0.6666666666666666 mile from the T-shirt shop back to the hotel . How many miles did Trisha walk in all ? "
+  },
+  {
+    "iIndex": 219,
+    "lEquations": [
+      "X = 0.16666666666666666 + 0.16666666666666666 + 0.08333333333333333"
+    ],
+    "lSolutions": [
+      "0.4166666666666667"
+    ],
+    "sQuestion": "Brandy made trail mix for a backpacking trip . She used 0.16666666666666666 pound of peanuts , 0.16666666666666666 pound of chocolate chips , and 0.08333333333333333 pound of raisins . How many pounds of trail mix did Brandy make ? "
+  },
+  {
+    "iIndex": 220,
+    "lEquations": [
+      "X = 0.3333333333333333 + 0.3333333333333333 + 0.16666666666666666"
+    ],
+    "lSolutions": [
+      "0.8333333333333334"
+    ],
+    "sQuestion": "Allie counted the leftover ice cream after a sundae party . She had 0.3333333333333333 carton of rocky road ice cream , 0.3333333333333333 carton of cookie dough ice cream , and 0.16666666666666666 carton of strawberry cheesecake ice cream . How many cartons of ice cream did Allie have in all ? "
+  }
+]

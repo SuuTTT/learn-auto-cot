@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-171",
+    "Body": "During summer break 644997 kids from Lawrence county stayed home and the other 893835 kids went to camp. An additional 78 kids from outside the county attended the camp.",
+    "Question": "How many kids are in Lawrence county?",
+    "Equation": "( 893835.0 + 644997.0 )",
+    "Answer": 1538832.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-172",
+    "Body": "Faye was placing 30 pencils into rows with 5 pencils in each row.",
+    "Question": "How many rows could she make?",
+    "Equation": "( 30.0 / 5.0 )",
+    "Answer": 6.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-173",
+    "Body": "Frank had some pieces of candy. If he put them into 26 bags with 33 pieces in each bag",
+    "Question": "How many pieces of candy did he have?",
+    "Equation": "( 26.0 * 33.0 )",
+    "Answer": 858.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-174",
+    "Body": "A grocery store had a total of 17 bottles of which 9 were bottles of regular soda and the rest were bottles of diet soda. They also had 29 apple.",
+    "Question": "How many bottles of diet soda did they have?",
+    "Equation": "( 17.0 - 9.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-175",
+    "Body": "Jake has 3 fewer peaches than Steven who has 8 more peaches than Jill. Steven has 5 peaches.",
+    "Question": "How many more peaches does Jake have than Jill?",
+    "Equation": "( 8.0 - 3.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-176",
+    "Body": "Josh had 20 marbles in his collection. He gave 2 marbles to Jack.",
+    "Question": "How many marbles does Josh have now?",
+    "Equation": "( 20.0 - 2.0 )",
+    "Answer": 18.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-177",
+    "Body": "Steven has 12 peaches. Jake has 4 fewer peaches than Steven who has 67 more peaches than Jill.",
+    "Question": "How many peaches does Jake have?",
+    "Equation": "( 12.0 - 4.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-178",
+    "Body": "The Razorback t-shirt shop makes $ 98 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 163 t-shirts. If they sold 89 t-shirts during the Arkansas game",
+    "Question": "How much money did they make from selling the t-shirts during the arkansas game?",
+    "Equation": "( 98.0 * 89.0 )",
+    "Answer": 8722.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-179",
+    "Body": "Jack received 6 emails in the morning, 3 emails in the afternoon and 5 emails in the evening.",
+    "Question": "How many emails did Jack receive in the day?",
+    "Equation": "( ( 6.0 + 3.0 ) + 5.0 )",
+    "Answer": 14.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-180",
+    "Body": "Jake has 5 fewer peaches than Steven. Steven has 18 more peaches than Jill. If Jill has 87 peaches",
+    "Question": "How many more peaches does Jake have than Jill?",
+    "Equation": "( 18.0 - 5.0 )",
+    "Answer": 13.0,
+    "Type": "Subtraction"
+  }
+]

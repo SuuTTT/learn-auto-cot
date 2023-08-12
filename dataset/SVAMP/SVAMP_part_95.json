@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-941",
+    "Body": "The Ferris wheel in paradise park has some seats. Each seat can hold 9 people. If 18 people can ride the wheel at the same time",
+    "Question": "How many seats does the Ferris wheel have?",
+    "Equation": "( 18.0 / 9.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-942",
+    "Body": "Dave had some apps on his phone. After deleting 18 of them he had 5 left.",
+    "Question": "How many apps did he have on his phone at the start?",
+    "Equation": "( 18.0 + 5.0 )",
+    "Answer": 23.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-943",
+    "Body": "There are 14 different movies and 15 different books in the ' crazy silly school ' series. If you read 11 of the books and watched 40 of the movies",
+    "Question": "How many more books than movies are there in the ' crazy silly school ' series?",
+    "Equation": "( 15.0 - 14.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-944",
+    "Body": "Randy has 86 blocks. He uses 79 blocks to build a tower and 82 blocks to build a house.",
+    "Question": "How many more blocks did he use to build the house than he did to build the tower?",
+    "Equation": "( 82.0 - 79.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-945",
+    "Body": "With 28 dollars 2 packs of dvds can be bought.",
+    "Question": "How much does each pack cost?",
+    "Equation": "( 28.0 / 2.0 )",
+    "Answer": 14.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-946",
+    "Body": "Last week Fred had 78 dollars and Jason had 31 dollars. Jason delivered newspapers and now has 57 dollars. Fred washed cars over the weekend and now has 90 dollars.",
+    "Question": "How much money did Jason earn by delivering newspapers?",
+    "Equation": "( 57.0 - 31.0 )",
+    "Answer": 26.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-947",
+    "Body": "Josh had 15 marbles in his collection. He found 9 marbles while he lost 23 marbles.",
+    "Question": "How many more marbles did he lose than those he found?",
+    "Equation": "( 23.0 - 9.0 )",
+    "Answer": 14.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-948",
+    "Body": "Jack received 4 emails in the morning and some more in the afternoon. If he received a total of 5 emails in the day",
+    "Question": "How many emails did Jack receive in the afternoon?",
+    "Equation": "( 5.0 - 4.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-949",
+    "Body": "Luke gained 146 points in each round of a game. If he played 157 rounds of a trivia game",
+    "Question": "How many points did he score in the game?",
+    "Equation": "( 157.0 * 146.0 )",
+    "Answer": 22922.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-950",
+    "Body": "There were some roses in the vase. Jessica cut 16 more roses from her flower garden and put them in the vase. There are now 23 roses in the vase.",
+    "Question": "How many roses were there in the vase at the beginning?",
+    "Equation": "( 23.0 - 16.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  }
+]

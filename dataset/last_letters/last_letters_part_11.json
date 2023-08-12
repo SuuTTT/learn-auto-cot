@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Letty Aimee Elvia Ted\" and concatenate them.",
+      "answer": "yead"
+    },
+    {
+      "question": "Take the last letters of each words in \"April Molly Maurice Jaclyn\" and concatenate them.",
+      "answer": "lyen"
+    },
+    {
+      "question": "Take the last letters of each words in \"Markus Kathryn Giovanna Kent\" and concatenate them.",
+      "answer": "snat"
+    },
+    {
+      "question": "Take the last letters of each words in \"Desmond Camille Joana Garcia\" and concatenate them.",
+      "answer": "deaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Quinton Sam Soledad Becca\" and concatenate them.",
+      "answer": "nmda"
+    },
+    {
+      "question": "Take the last letters of each words in \"Matilde Jan Marcel Mimi\" and concatenate them.",
+      "answer": "enli"
+    },
+    {
+      "question": "Take the last letters of each words in \"Manolo Bobbie Ash Jaqueline\" and concatenate them.",
+      "answer": "oehe"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jorge Luis Mo Alexia Jerry\" and concatenate them.",
+      "answer": "soay"
+    },
+    {
+      "question": "Take the last letters of each words in \"Kali Jeanette Tess Devin\" and concatenate them.",
+      "answer": "iesn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Nabil Marlene Wendy Jillian\" and concatenate them.",
+      "answer": "leyn"
+    }
+  ]
+}

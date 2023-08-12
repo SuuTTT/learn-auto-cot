@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-811",
+    "Body": "Mary is baking a cake. The recipe calls for 6 cups of flour and 13 cups of sugar. She already put in some cups of flour. If she still needs 8 more cups of flour than sugar",
+    "Question": "How many more cups of flour does she need to add?",
+    "Equation": "( 13.0 + 8.0 )",
+    "Answer": 21.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-812",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. 27 bird families flew away for the winter from near a mountain. If there were 41 bird families living near the mountain initially",
+    "Question": "How many bird families were left near the mountain?",
+    "Equation": "( 41.0 - 27.0 )",
+    "Answer": 14.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-813",
+    "Body": "Jake has 16 fewer peaches than Steven. Steven has 15 more peaches than Jill. If Jill has 12 peaches",
+    "Question": "How many more peaches does Jill have than Jake?",
+    "Equation": "( 16.0 - 15.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-814",
+    "Body": "A book has 2 chapters. The first chapter is 60 pages long. If there are a total of 93 pages in the book",
+    "Question": "How many pages are in the second chapter?",
+    "Equation": "( 93.0 - 60.0 )",
+    "Answer": 33.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-815",
+    "Body": "Paul got a box of some crayons for his birthday. During the school year he gave 563 crayons to his friends while he lost 558 crayons. If he only had 332 crayons left",
+    "Question": "How many crayons did he get for his birthday?",
+    "Equation": "( ( 563.0 + 558.0 ) + 332.0 )",
+    "Answer": 1453.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-816",
+    "Body": "At the stop 13 more people got on the bus. Initially there were 4 people on the bus.",
+    "Question": "How many people are there on the bus now?",
+    "Equation": "( 4.0 + 13.0 )",
+    "Answer": 17.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-817",
+    "Body": "Julia played tag with some kids on monday. She played tag with 14 kids on tuesday. If she played with a total of 16 kids",
+    "Question": "How many kids did she play with on monday?",
+    "Equation": "( 16.0 - 14.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-818",
+    "Body": "Baker's friend bought 137 cakes from him. If he had made 169 cakes initially",
+    "Question": "How many cakes would baker still have?",
+    "Equation": "( 169.0 - 137.0 )",
+    "Answer": 32.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-819",
+    "Body": "Jerry had 5 action figures and 9 books on a shelf in his room. Later he added 7 more action figures to the shelf.",
+    "Question": "How many more action figures than books were on his shelf?",
+    "Equation": "( ( 5.0 + 7.0 ) - 9.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-820",
+    "Body": "For 19 weeks of harvest Lewis earns a total of $ 133.",
+    "Question": "How much money does he earn each week?",
+    "Equation": "( 133.0 / 19.0 )",
+    "Answer": 7.0,
+    "Type": "Common-Division"
+  }
+]

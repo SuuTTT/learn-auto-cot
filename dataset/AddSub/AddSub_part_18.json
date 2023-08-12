@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 171,
+    "lEquations": [
+      "X = 5816.0 - 3103.0"
+    ],
+    "lSolutions": [
+      "2713.0"
+    ],
+    "sQuestion": "While playing a video game , Paul scored 3103 points . He and his cousin together have a total of 5816 points . How many points does Paul 's cousin have ? "
+  },
+  {
+    "iIndex": 172,
+    "lEquations": [
+      "X = 4938.0 - 805.0"
+    ],
+    "lSolutions": [
+      "4133.0"
+    ],
+    "sQuestion": "A construction company is repaving a damaged road . So far , they have repaved a total of 4938 inches of the road . Today , they repaved 805 inches of the road . How many inches of the road had they repaved before today ? "
+  },
+  {
+    "iIndex": 173,
+    "lEquations": [
+      "X = 3263.0 - 809.0"
+    ],
+    "lSolutions": [
+      "2454.0"
+    ],
+    "sQuestion": "Milford Lake was originally blue because it only had 809 algae plants . Now there are 3263 algae plants , and the lake has turned green . How many more algae plants are in Milford Lake now ? "
+  },
+  {
+    "iIndex": 174,
+    "lEquations": [
+      "X = 0.75 - 0.25"
+    ],
+    "lSolutions": [
+      "0.5"
+    ],
+    "sQuestion": "Oscar 's bus ride to school is 0.75 mile and Charlie 's bus ride is 0.25 mile . How much longer is Oscar 's bus ride than Charlie 's ? "
+  },
+  {
+    "iIndex": 175,
+    "lEquations": [
+      "X = 0.25 + 0.25"
+    ],
+    "lSolutions": [
+      "0.5"
+    ],
+    "sQuestion": "Karen added 0.25 cup of walnuts to a batch of trail mix . Later , she added 0.25 cup of almonds . How many cups of nuts did Karen put in the trail mix in all ? "
+  },
+  {
+    "iIndex": 176,
+    "lEquations": [
+      "X = 0.16666666666666666 + 0.5"
+    ],
+    "lSolutions": [
+      "0.6666666666666666"
+    ],
+    "sQuestion": "Kendall is learning to drive , so this weekend she practiced driving 0.16666666666666666 mile with her mother and another 0.5 mile with her father . How far did Kendall drive in all ? "
+  },
+  {
+    "iIndex": 177,
+    "lEquations": [
+      "X = 0.6666666666666666 - 0.3333333333333333"
+    ],
+    "lSolutions": [
+      "0.3333333333333333"
+    ],
+    "sQuestion": "At a pie-eating contest , Erik got through 0.6666666666666666 pie before time was called ; Frank finished just 0.3333333333333333 pie . How much more pie did Erik eat than Frank ? "
+  },
+  {
+    "iIndex": 178,
+    "lEquations": [
+      "X = 0.75 - 0.5"
+    ],
+    "lSolutions": [
+      "0.25"
+    ],
+    "sQuestion": "A tailor cut 0.75 inch off a skirt and 0.5 inch off a pair of pants . How much more did the tailor cut off the skirt than the pants ? "
+  },
+  {
+    "iIndex": 179,
+    "lEquations": [
+      "X = 0.375 + 0.25"
+    ],
+    "lSolutions": [
+      "0.625"
+    ],
+    "sQuestion": "At Lindsey 's Vacation Wear , 0.375 the garments are bikinis and 0.25 are trunks . What fraction of the garments are either bikinis or trunks ? "
+  },
+  {
+    "iIndex": 180,
+    "lEquations": [
+      "X = 0.875 - 0.75"
+    ],
+    "lSolutions": [
+      "0.125"
+    ],
+    "sQuestion": "Darnel sprinted 0.875 lap and then took a break by jogging 0.75 lap . How much farther did Darnel sprint than jog ? "
+  }
+]

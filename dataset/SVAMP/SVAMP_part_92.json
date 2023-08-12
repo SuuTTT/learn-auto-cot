@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-911",
+    "Body": "Robin has 28 packages of gum and 13 packages of candy. There are 4 pieces in each package.",
+    "Question": "How many pieces of gum does Robin have?",
+    "Equation": "( 28.0 * 4.0 )",
+    "Answer": 112.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-912",
+    "Body": "Baker made 157 cakes and 169 pastries. If he sold 158 cakes and 147 pastries",
+    "Question": "How many more cakes than pastries did baker sell?",
+    "Equation": "( 158.0 - 147.0 )",
+    "Answer": 11.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-913",
+    "Body": "In a school there are 868 girls and the rest are boys. If there are 281 more girls than boys",
+    "Question": "How many pupils are there in that school?",
+    "Equation": "( ( 868.0 + 868.0 ) - 281.0 )",
+    "Answer": 1455.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-914",
+    "Body": "David did 51 push-ups in gym class today. David did 49 more push-ups than Zachary.",
+    "Question": "How many push-ups did Zachary and David do altogether?",
+    "Equation": "( ( 51.0 + 51.0 ) - 49.0 )",
+    "Answer": 53.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-915",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. There were 87 bird families living near the mountain. If 7 bird families flew away for winter",
+    "Question": "How many more bird families stayed behind than those that flew away for the winter?",
+    "Equation": "( ( 87.0 - 7.0 ) - 7.0 )",
+    "Answer": 73.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-916",
+    "Body": "A school has 485 pupils. There are 232 girls and the rest are boys.",
+    "Question": "How many boys are there in that school?",
+    "Equation": "( 485.0 - 232.0 )",
+    "Answer": 253.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-917",
+    "Body": "Baker made 134 pastries and 11 cakes. If he sold 140 cakes and 92 pastries",
+    "Question": "How many more pastries than cakes did baker make?",
+    "Equation": "( 134.0 - 11.0 )",
+    "Answer": 123.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-918",
+    "Body": "Nell collects baseball cards. She had 528 cards while Jeff had 11 cards. She gave some of her cards to jeff and now has 252 cards left.",
+    "Question": "How many cards did Nell give to Jeff?",
+    "Equation": "( 528.0 - 252.0 )",
+    "Answer": 276.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-919",
+    "Body": "The school is planning a field trip. The school has 66 classrooms. There are 102 students in the school and 8 seats on each school bus. If 22 students do n't want to go for the trip",
+    "Question": "How many buses are needed to take the trip?",
+    "Equation": "( ( 102.0 - 22.0 ) / 8.0 )",
+    "Answer": 10.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-920",
+    "Body": "4 people can ride the Ferris wheel in paradise park at the same time. If each seat on the Ferris wheel can hold 2 people",
+    "Question": "How many seats does the Ferris wheel have?",
+    "Equation": "( 4.0 / 2.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-791",
+    "Body": "Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary.",
+    "Question": "How many more crunches than push-ups did Zachary do?",
+    "Equation": "( 58.0 - 46.0 )",
+    "Answer": 12.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-792",
+    "Body": "The Ferris wheel in paradise park has 4 seats. If 20 people can ride the wheel at the same time",
+    "Question": "How many people can each seat hold?",
+    "Equation": "( 20.0 / 4.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-793",
+    "Body": "Rachel had to complete 2 pages of math homework, 3 pages of reading homework and 10 more pages of biology homework.",
+    "Question": "How many pages did she have to complete in all?",
+    "Equation": "( ( 2.0 + 3.0 ) + 10.0 )",
+    "Answer": 15.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-794",
+    "Body": "For Gwen's birthday she received 3 dollars from her mom. Her dad gave her 6 more dollars. If she spent 4 dollars.",
+    "Question": "How much more money did she receive from her dad than she did from her mom?",
+    "Equation": "( 6.0 - 3.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-795",
+    "Body": "Baker made 110 cakes. He sold 75 of them. Then he made 76 more cakes.",
+    "Question": "How many cakes would baker still have?",
+    "Equation": "( ( 110.0 - 75.0 ) + 76.0 )",
+    "Answer": 111.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-796",
+    "Body": "Baker made 61 pastries and 167 cakes. If he sold 108 cakes and 44 pastries",
+    "Question": "How many cakes would baker still have?",
+    "Equation": "( 167.0 - 108.0 )",
+    "Answer": 59.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-797",
+    "Body": "There are 11 different books and 17 different movies in the ' crazy silly school ' series. If you read 7 of the books and watched 21 of the movies",
+    "Question": "How many more movies than books have you read?",
+    "Equation": "( 21.0 - 7.0 )",
+    "Answer": 14.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-798",
+    "Body": "A mailman gives 2 junk mails to each house in a block. If the mailman has to give 14 pieces of junk mail to each block.",
+    "Question": "How many houses are there in a block?",
+    "Equation": "( 14.0 / 2.0 )",
+    "Answer": 7.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-799",
+    "Body": "Ed had 6 more marbles than Doug. Doug lost 7 of his marbles at the playground. If Ed had 22 marbles",
+    "Question": "How many marbles does Doug have now?",
+    "Equation": "( ( 22.0 - 6.0 ) - 7.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-800",
+    "Body": "Dan has $ 2. He bought a candy bar for $ 6 and a chocolate for $ 3.",
+    "Question": "How much money did he spend to buy candy bar than he did to buy chocolate?",
+    "Equation": "( 6.0 - 3.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  }
+]

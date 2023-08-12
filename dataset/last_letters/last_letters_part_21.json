@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Diego Val Vincent Stacie\" and concatenate them.",
+      "answer": "olte"
+    },
+    {
+      "question": "Take the last letters of each words in \"Salvatore Gustavo Jill Celeste\" and concatenate them.",
+      "answer": "eole"
+    },
+    {
+      "question": "Take the last letters of each words in \"Marcy Gonzalez Alice Arlene\" and concatenate them.",
+      "answer": "yzee"
+    },
+    {
+      "question": "Take the last letters of each words in \"Dana German Alvin Braden\" and concatenate them.",
+      "answer": "annn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Paula Irina Laurel Maribel\" and concatenate them.",
+      "answer": "aall"
+    },
+    {
+      "question": "Take the last letters of each words in \"Andr\u00e9s Miles Ronaldo Melinda\" and concatenate them.",
+      "answer": "ssoa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Williams Reza Ashton Lillian\" and concatenate them.",
+      "answer": "sann"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lacey Nora Debra Ashleigh\" and concatenate them.",
+      "answer": "yaah"
+    },
+    {
+      "question": "Take the last letters of each words in \"Itzel Anderson Kenia Edy\" and concatenate them.",
+      "answer": "lnay"
+    },
+    {
+      "question": "Take the last letters of each words in \"Forrest Juanito Allan Candice\" and concatenate them.",
+      "answer": "tone"
+    }
+  ]
+}

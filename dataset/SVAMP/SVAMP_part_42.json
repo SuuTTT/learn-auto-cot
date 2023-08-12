@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-411",
+    "Body": "Julia played tag with 15 kids on monday, 18 kids on tuesday and 97 kids on wednesday.",
+    "Question": "How many kids did she play with on monday and tuesday?",
+    "Equation": "( 15.0 + 18.0 )",
+    "Answer": 33.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-412",
+    "Body": "Rachel had to complete 9 pages of math homework, 2 pages of reading homework and 96 more pages of biology homework.",
+    "Question": "How many more pages of math homework than reading homework did she have?",
+    "Equation": "( 9.0 - 2.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-413",
+    "Body": "36 campers went rowing in the morning 13 campers went rowing in the afternoon and 49 campers went rowing in the evening.",
+    "Question": "How many campers went rowing in all?",
+    "Equation": "( ( 36.0 + 13.0 ) + 49.0 )",
+    "Answer": 98.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-414",
+    "Body": "Josh had 4 marbles in his collection. He lost 16 marbles and found 8 new ones.",
+    "Question": "How many more marbles did he lose than those he found?",
+    "Equation": "( 16.0 - 8.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-415",
+    "Body": "Danny collects bottle caps and wrappers. He found 11 bottle caps and 28 wrappers at the park. Now he has 68 bottle caps and 51 wrappers in his collection.",
+    "Question": "How many more wrappers than bottle caps did danny find at the park?",
+    "Equation": "( 28.0 - 11.0 )",
+    "Answer": 17.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-416",
+    "Body": "Dave had 59 files and 15 apps on his phone. After deleting some apps and files he had 12 apps and 30 files left.",
+    "Question": "How many apps did he delete?",
+    "Equation": "( 15.0 - 12.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-417",
+    "Body": "Paul had 71 books. After selling some in a garage sale he bought 38 new ones. If he has 116 books now",
+    "Question": "How many more books did he buy than he sold?",
+    "Equation": "( 116.0 - 71.0 )",
+    "Answer": 45.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-418",
+    "Body": "Allan brought 7 balloons and 5 balls while Jake brought 6 balloons and 4 balls to the park.",
+    "Question": "How many balls did Allan and Jake have in the park?",
+    "Equation": "( 5.0 + 4.0 )",
+    "Answer": 9.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-419",
+    "Body": "You have 104 dollars.",
+    "Question": "How many packs of dvds can you buy if each pack costs 26 dollars?",
+    "Equation": "( 104.0 / 26.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-420",
+    "Body": "Kelly has 20 nintendo games and 70 sony games.",
+    "Question": "How many nintendo games does she need to give away so that she will have 12 nintendo games left?",
+    "Equation": "( 20.0 - 12.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  }
+]

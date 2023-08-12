@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-531",
+    "Body": "The school is planning a field trip. The school has 102 classrooms. There are 11 students in the school and 99 seats on each school bus. If 8 students do n't want to go for the trip",
+    "Question": "How many students are going on the trip?",
+    "Equation": "( 11.0 - 8.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-532",
+    "Body": "Jesse's room is 11 feet long and 15 feet wide. If she already has 16 square feet of carpet",
+    "Question": "How much more carpet does she need to cover the whole floor?",
+    "Equation": "( ( 11.0 * 15.0 ) - 16.0 )",
+    "Answer": 149.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-533",
+    "Body": "Jake has 6 fewer peaches and 8 more apples than Steven. Steven has 17 peaches and 16 apples.",
+    "Question": "How many more peaches than apples does Steven have?",
+    "Equation": "( 17.0 - 16.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-534",
+    "Body": "Danny collects bottle caps. He threw away 60 of the old ones at the park while he found 58 bottle caps new ones. Now he has 67 bottle caps in his collection.",
+    "Question": "How many bottle caps did danny have at first?",
+    "Equation": "( ( 67.0 + 60.0 ) - 58.0 )",
+    "Answer": 69.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-535",
+    "Body": "Nell collects baseball cards. She had 573 cards. She gave 195 cards to John and yet some more to Jeff. Now she has 210 cards left.",
+    "Question": "How many cards did Nell give to Jeff?",
+    "Equation": "( ( 573.0 - 195.0 ) - 210.0 )",
+    "Answer": 168.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-536",
+    "Body": "Next on his checklist is wax to stick the feathers together. If he currently has 11 g of wax and the feathers require a total of 492 g of wax",
+    "Question": "How many more grams of wax does he need?",
+    "Equation": "( 492.0 - 11.0 )",
+    "Answer": 481.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-537",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. There are 49 bird families living near the mountain. 59 bird families flew away for winter and 24 new bird families came to live near the mountain from the arctic.",
+    "Question": "How many bird families were left near the mountain?",
+    "Equation": "( ( 49.0 - 59.0 ) + 24.0 )",
+    "Answer": 14.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-538",
+    "Body": "Steven has 19 peaches. Jake has 12 fewer peaches than Steven and 72 more peaches than Jill.",
+    "Question": "How many peaches does Jake have?",
+    "Equation": "( 19.0 - 12.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-539",
+    "Body": "Josh had some marbles in his collection. He lost 21 marbles. If he has 12 marbles now",
+    "Question": "How many marbles did he have in his collection?",
+    "Equation": "( 21.0 + 12.0 )",
+    "Answer": 33.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-540",
+    "Body": "He had 15 aquariums for saltwater animals and 62 aquariums for freshwater animals. Each aquarium has 19 animals in it.",
+    "Question": "How many animals does he have in total?",
+    "Equation": "( ( 15.0 + 62.0 ) * 19.0 )",
+    "Answer": 1463.0,
+    "Type": "Multiplication"
+  }
+]

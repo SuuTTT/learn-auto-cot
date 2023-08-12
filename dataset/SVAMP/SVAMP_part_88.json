@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-871",
+    "Body": "Steven has 18 peaches. Jake has 12 fewer peaches than Steven who has 8 more peaches than Jill.",
+    "Question": "How many peaches does Jill have?",
+    "Equation": "( 18.0 - 8.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-872",
+    "Body": "In Haley's class 11 are boys who love to play marbles. If Haley gives 9 marbles to each boy",
+    "Question": "How many marbles did she have?",
+    "Equation": "( 11.0 * 9.0 )",
+    "Answer": 99.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-873",
+    "Body": "Ed had 30 more marbles than Doug. Ed lost 21 of his marbles at the playground. If Ed had 91 marbles",
+    "Question": "How many more marbles did Ed have than Doug then?",
+    "Equation": "( 30.0 - 21.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-874",
+    "Body": "A farmer had 105 green tomatoes and 71 red tomatoes in his garden. If he picked 137 tomatoes",
+    "Question": "How many tomatoes are left?",
+    "Equation": "( ( 105.0 + 71.0 ) - 137.0 )",
+    "Answer": 39.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-875",
+    "Body": "Lewis earns $ 21 every week during the 216 weeks of harvest. If he has to pay $ 702 tax",
+    "Question": "How much money will have at the end of the harvest season?",
+    "Equation": "( ( 21.0 * 216.0 ) - 702.0 )",
+    "Answer": 3834.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-876",
+    "Body": "Nell collects baseball cards. She had 566 cards while Jeff had 234 cards. She gave some of her cards to Jeff and now has 535 cards left.",
+    "Question": "How many cards does Jeff have now?",
+    "Equation": "( ( 234.0 + 566.0 ) - 535.0 )",
+    "Answer": 265.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-877",
+    "Body": "Rebecca wants to split a collection of marbles into groups of 4. Rebecca has 10 eggs and 20 marbles.",
+    "Question": "How many groups will be created?",
+    "Equation": "( 20.0 / 4.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-878",
+    "Body": "Matthew had 31 crackers. He has 23 crackers left after he gave equal numbers of crackers to his 5 friends.",
+    "Question": "How many crackers did Matthew give to his friends?",
+    "Equation": "( 31.0 - 23.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-879",
+    "Body": "An industrial machine can make 6 shirts a minute. It worked for 5 minutes yesterday and for 12 minutes today.",
+    "Question": "How many shirts did machine make today?",
+    "Equation": "( 6.0 * 12.0 )",
+    "Answer": 72.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-880",
+    "Body": "Marco and his dad went strawberry picking. Marco's strawberries weighed 10 pounds. If together their strawberries weighed 26 pounds.",
+    "Question": "How much more did his dad's strawberries weigh than his?",
+    "Equation": "( ( 26.0 - 10.0 ) - 10.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  }
+]

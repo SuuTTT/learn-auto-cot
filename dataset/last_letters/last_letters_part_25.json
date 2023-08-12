@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Ivy Romeo Jana Ej\" and concatenate them.",
+      "answer": "yoaj"
+    },
+    {
+      "question": "Take the last letters of each words in \"Yajaira Terrell Adam Lexie\" and concatenate them.",
+      "answer": "alme"
+    },
+    {
+      "question": "Take the last letters of each words in \"Virginia Juanita Zak Wayne\" and concatenate them.",
+      "answer": "aake"
+    },
+    {
+      "question": "Take the last letters of each words in \"Mari Ximena Leo Antonia\" and concatenate them.",
+      "answer": "iaoa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Salvador Sol Tyler Kareem\" and concatenate them.",
+      "answer": "rlrm"
+    },
+    {
+      "question": "Take the last letters of each words in \"Allyson Mara Jo Toni\" and concatenate them.",
+      "answer": "naoi"
+    },
+    {
+      "question": "Take the last letters of each words in \"Rocio Sandy Anahi Latasha\" and concatenate them.",
+      "answer": "oyia"
+    },
+    {
+      "question": "Take the last letters of each words in \"Vicki Dwight Johnson Alexandra\" and concatenate them.",
+      "answer": "itna"
+    },
+    {
+      "question": "Take the last letters of each words in \"Emma Maryann Olga Nataly\" and concatenate them.",
+      "answer": "anay"
+    },
+    {
+      "question": "Take the last letters of each words in \"Belkis Wendell Lissette Patricia\" and concatenate them.",
+      "answer": "slea"
+    }
+  ]
+}

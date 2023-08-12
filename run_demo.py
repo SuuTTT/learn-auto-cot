@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 import argparse
 from utils import fix_seed
 
+from sklearn.metrics import pairwise_distances
 from sklearn.cluster import AgglomerativeClustering, SpectralClustering
 #from community import community_louvain
 import networkx as nx
@@ -131,6 +132,10 @@ def main():
 
     if method == "kmeans":
         dist = clustering_model.transform(corpus_embeddings)
+    # If method is hierarchical, compute centroids and then compute distances to centroids
+    elif method == "hierarchical":
+        centroids = [np.mean(corpus_embeddings[cluster_assignment == i], axis=0) for i in range(num_clusters)]
+        dist = pairwise_distances(corpus_embeddings, centroids)
     else:
         dist = None # Or other logic if needed for other methods
     

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-11",
+    "Body": "3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them.",
+    "Question": "How many more storks than birds are sitting on the fence?",
+    "Equation": "( 6.0 - ( 3.0 + 2.0 ) )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-12",
+    "Body": "They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairs",
+    "Question": "How many chairs do they have in the backyard?",
+    "Equation": "( 11.0 * 13.0 )",
+    "Answer": 143.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-13",
+    "Body": "In a school there are 458 more girls than boys. If there are 692 girls",
+    "Question": "How many pupils are there in that school?",
+    "Equation": "( ( 692.0 + 692.0 ) - 458.0 )",
+    "Answer": 926.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-14",
+    "Body": "After resting they decided to go for a swim. The depth of the water is 15 times Dean's height. Dean is 4 feet taller than Ron. If Ron stands at 13 feet",
+    "Question": "How deep was the water?",
+    "Equation": "( ( 4.0 + 13.0 ) * 15.0 )",
+    "Answer": 255.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-15",
+    "Body": "6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them.",
+    "Question": "How many birds are sitting on the fence?",
+    "Equation": "( 6.0 + 4.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-16",
+    "Body": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 36 pounds. On the way back Marco ' dad lost 8 pounds of strawberries. Marco's strawberries now weighed 12 pounds.",
+    "Question": "How much did his dad's strawberries weigh now?",
+    "Equation": "( ( 36.0 - 12.0 ) - 8.0 )",
+    "Answer": 16.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-17",
+    "Body": "In a school there are 697 girls and the rest are boys. If there are 228 more girls than boys",
+    "Question": "How many boys are there in that school?",
+    "Equation": "( 697.0 - 228.0 )",
+    "Answer": 469.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-18",
+    "Body": "In a school there are 732 girls and 761 boys. 682 more girls and 8 more boys joined the school.",
+    "Question": "How many girls are there in the school now?",
+    "Equation": "( 732.0 + 682.0 )",
+    "Answer": 1414.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-19",
+    "Body": "Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection.",
+    "Question": "How many wrappers did danny have at first?",
+    "Equation": "( 57.0 - 30.0 )",
+    "Answer": 27.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-20",
+    "Body": "Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser.",
+    "Question": "How many more crayons than erasers did he have left?",
+    "Equation": "( 523.0 - 457.0 )",
+    "Answer": 66.0,
+    "Type": "Subtraction"
+  }
+]

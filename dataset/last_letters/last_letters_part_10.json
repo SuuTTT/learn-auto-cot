@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Ron Carl Joann Young\" and concatenate them.",
+      "answer": "nlng"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sally Sadie Christie Ellie\" and concatenate them.",
+      "answer": "yeee"
+    },
+    {
+      "question": "Take the last letters of each words in \"Tomas Nic Zoila Calvin\" and concatenate them.",
+      "answer": "scan"
+    },
+    {
+      "question": "Take the last letters of each words in \"Gabe Dora Aileen Modesto\" and concatenate them.",
+      "answer": "eano"
+    },
+    {
+      "question": "Take the last letters of each words in \"Victoria Aurora Amalia Princess\" and concatenate them.",
+      "answer": "aaas"
+    },
+    {
+      "question": "Take the last letters of each words in \"Alec Arianna Corina Juancarlos\" and concatenate them.",
+      "answer": "caas"
+    },
+    {
+      "question": "Take the last letters of each words in \"Carolyn Sasha Mercy Keri\" and concatenate them.",
+      "answer": "nayi"
+    },
+    {
+      "question": "Take the last letters of each words in \"Selena Keisha Gladys Cedric\" and concatenate them.",
+      "answer": "aasc"
+    },
+    {
+      "question": "Take the last letters of each words in \"Salma Pj Gladis Monica\" and concatenate them.",
+      "answer": "ajsa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ralph Jeanne Kyle Alejandro\" and concatenate them.",
+      "answer": "heeo"
+    }
+  ]
+}

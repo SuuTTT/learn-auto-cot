@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Rosa Lana Curtis Rae\" and concatenate them.",
+      "answer": "aase"
+    },
+    {
+      "question": "Take the last letters of each words in \"Angeles Richard Luciana Darlene\" and concatenate them.",
+      "answer": "sdae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jodi Judi Nia Raj\" and concatenate them.",
+      "answer": "iiaj"
+    },
+    {
+      "question": "Take the last letters of each words in \"Irvin Brittney Vince Lucas\" and concatenate them.",
+      "answer": "nyes"
+    },
+    {
+      "question": "Take the last letters of each words in \"Guille Lisa Harvey Gina\" and concatenate them.",
+      "answer": "eaya"
+    },
+    {
+      "question": "Take the last letters of each words in \"Renata Mariela Mona Kristin\" and concatenate them.",
+      "answer": "aaan"
+    },
+    {
+      "question": "Take the last letters of each words in \"Johan Damien Serena Grace\" and concatenate them.",
+      "answer": "nnae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Aj Jd Maddie Francisca\" and concatenate them.",
+      "answer": "jdea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Daryl Owen Myra Aaron\" and concatenate them.",
+      "answer": "lnan"
+    },
+    {
+      "question": "Take the last letters of each words in \"Nick Ada Stephany Suzie\" and concatenate them.",
+      "answer": "kaye"
+    }
+  ]
+}

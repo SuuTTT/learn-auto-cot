@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-751",
+    "Body": "After Jessie started to go jogging everyday she lost 126 kilograms. She currently weighs 66 kilograms.",
+    "Question": "How much did she weigh before starting to jog?",
+    "Equation": "( 66.0 + 126.0 )",
+    "Answer": 192.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-752",
+    "Body": "Josh had 7 marbles in his collection. He lost 8 marbles and found 10 new ones.",
+    "Question": "How many more marbles did he find than those he lost?",
+    "Equation": "( 10.0 - 8.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-753",
+    "Body": "Nell collects cards. She had 239 baseball cards and 38 Ace cards. She gave some of her cards to Jeff and now has 376 Ace cards and 111 baseball cards left.",
+    "Question": "How many more Ace cards than baseball cards does Nell have?",
+    "Equation": "( 376.0 - 111.0 )",
+    "Answer": 265.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-754",
+    "Body": "In a school there are 362 boys and 257 girls. 403 more girls joined the school.",
+    "Question": "How many more girls than boys does the school have?",
+    "Equation": "( ( 257.0 + 403.0 ) - 362.0 )",
+    "Answer": 298.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-755",
+    "Body": "Paul got a box of some crayons for his birthday. By the end of the school year he had either lost or given away 551 of them and only had 177 left.",
+    "Question": "How many crayons did he get for his birthday?",
+    "Equation": "( 551.0 + 177.0 )",
+    "Answer": 728.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-756",
+    "Body": "Bryan took a look at his books as well. If he has a total of 42 books and each bookshelf contains 2 books",
+    "Question": "How many bookshelves does he have?",
+    "Equation": "( 42.0 / 2.0 )",
+    "Answer": 21.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-757",
+    "Body": "Julia played tag with 16 kids on monday. If she played tag with 12 more kids on monday than on tuesday",
+    "Question": "How many kids did she play with on tuesday?",
+    "Equation": "( 16.0 - 12.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-758",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 41 sacks of unripe oranges and 86 sacks of ripe oranges per day.",
+    "Question": "How many more sacks of ripe oranges than unripe oranges are harvested per day?",
+    "Equation": "( 86.0 - 41.0 )",
+    "Answer": 45.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-759",
+    "Body": "Allan brought 5 balloons. If Allan and Jake brought total of 6 balloons to the park",
+    "Question": "How many balloons did Jake bring to the park?",
+    "Equation": "( 6.0 - 5.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-760",
+    "Body": "The ring toss game at the carnival made 144 dollars per day. They were at the carnival for 22 days.",
+    "Question": "How much money did they make?",
+    "Equation": "( 144.0 * 22.0 )",
+    "Answer": 3168.0,
+    "Type": "Multiplication"
+  }
+]

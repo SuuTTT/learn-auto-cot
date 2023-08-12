@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-761",
+    "Body": "Each basket of peaches has 19 red peaches and 4 green peaches. If there are 15 such baskets",
+    "Question": "How many peaches are in the baskets altogether?",
+    "Equation": "( ( 19.0 + 4.0 ) * 15.0 )",
+    "Answer": 345.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-762",
+    "Body": "Paco had 37 sweet cookies and 11 salty cookies. He ate 5 sweet cookies and 2 salty cookies.",
+    "Question": "How many more sweet cookies than salty cookies did he eat?",
+    "Equation": "( 5.0 - 2.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-763",
+    "Body": "Jake has 11 fewer peaches than Steven. If Jake has 17 peaches.",
+    "Question": "How many peaches does Steven have?",
+    "Equation": "( 11.0 + 17.0 )",
+    "Answer": 28.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-764",
+    "Body": "Paul got a box of 267 crayons for his birthday. During the school year he lost 231 crayons while he gave away 308 crayons to his friends.",
+    "Question": "How many more crayons did he give to his friends than those he lost?",
+    "Equation": "( 308.0 - 231.0 )",
+    "Answer": 77.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-765",
+    "Body": "If the cave is 919 feet deep and they need to travel 1307 feet",
+    "Question": "How far is the end of the cave?",
+    "Equation": "( 919.0 + 1307.0 )",
+    "Answer": 2226.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-766",
+    "Body": "There are 203 bananas and 63 oranges in Philip's collection. If the bananas are organized into 7 groups and oranges are organized into 95 groups",
+    "Question": "How big is each group of bananas?",
+    "Equation": "( 203.0 / 7.0 )",
+    "Answer": 29.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-767",
+    "Body": "Rebecca wants to split a collection of eggs into groups of 5. Rebecca has 20 eggs and 6 marbles.",
+    "Question": "How many more eggs does Rebecca have than marbles?",
+    "Equation": "( 20.0 - 6.0 )",
+    "Answer": 14.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-768",
+    "Body": "Paige raised 15 goldfish in the pond but stray cats loved eating them. 5 were eaten.",
+    "Question": "How many goldfish remained?",
+    "Equation": "( 15.0 - 5.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-769",
+    "Body": "Zachary did 59 push-ups and 44 crunches in gym class today. David did 19 more push-ups but 27 less crunches than zachary.",
+    "Question": "How many push-ups did David do?",
+    "Equation": "( 59.0 + 19.0 )",
+    "Answer": 78.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-770",
+    "Body": "Dave had 19 apps on his phone. He deleted 5 apps.",
+    "Question": "How many apps are left on his phone?",
+    "Equation": "( 19.0 - 5.0 )",
+    "Answer": 14.0,
+    "Type": "Subtraction"
+  }
+]

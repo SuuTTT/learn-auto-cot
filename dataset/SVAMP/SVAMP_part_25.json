@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-241",
+    "Body": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 519 chocolate chip cookies and 300 raisin cookies yesterday. And she baked 280 raisin cookies and 359 chocolate chip cookies this morning.",
+    "Question": "How many more raisin cookies did Helen bake yesterday compared to today?",
+    "Equation": "( 300.0 - 280.0 )",
+    "Answer": 20.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-242",
+    "Body": "A grocery store had 81 bottles of regular soda, 60 bottles of diet soda and 60 bottles of lite soda.",
+    "Question": "How many more bottles of regular soda did they have than diet soda?",
+    "Equation": "( 81.0 - 60.0 )",
+    "Answer": 21.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-243",
+    "Body": "Randy has some blocks. He uses 52 blocks to build a tower. If there are 38 blocks left",
+    "Question": "How many blocks did he have at the start?",
+    "Equation": "( 52.0 + 38.0 )",
+    "Answer": 90.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-244",
+    "Body": "Edward had $ 13. He spent some money. Now he has $ 3.",
+    "Question": "How much money did Edward spend?",
+    "Equation": "( 13.0 - 3.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-245",
+    "Body": "Ed had 19 more marbles than Doug. Ed lost some of his marbles at the playground. Now Ed has 8 more marbles than doug.",
+    "Question": "How many marbles did Ed lose?",
+    "Equation": "( 19.0 - 8.0 )",
+    "Answer": 11.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-246",
+    "Body": "They decided to hold the party in their backyard. They have 12 sets of tables and each set has 14 chairs. There are also 6 chairs extra.",
+    "Question": "How many chairs do they have for the guests?",
+    "Equation": "( ( 12.0 * 14.0 ) + 6.0 )",
+    "Answer": 174.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-247",
+    "Body": "The Ferris wheel in paradise park has 3 small seats and 7 large seats. Each small seat can hold 16 people and large seat can hold 12 people.",
+    "Question": "How many people can ride the Ferris wheel on large seats?",
+    "Equation": "( 7.0 * 12.0 )",
+    "Answer": 84.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-248",
+    "Body": "There are 20 houses in a block. If a mailman has to give 32 pieces of junk mail to each house in each block",
+    "Question": "How many pieces of junk mail should he give each block?",
+    "Equation": "( 32.0 * 20.0 )",
+    "Answer": 640.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-249",
+    "Body": "A grocery store had 72 bottles of regular soda, 32 bottles of diet soda and 78 apples.",
+    "Question": "How many more bottles than apple did they have?",
+    "Equation": "( ( 72.0 + 32.0 ) - 78.0 )",
+    "Answer": 26.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-250",
+    "Body": "There are 7 baskets of peaches. Each basket has 10 red peaches and 2 green peaches.",
+    "Question": "How many green peaches are in the baskets altogether?",
+    "Equation": "( 2.0 * 7.0 )",
+    "Answer": 14.0,
+    "Type": "Multiplication"
+  }
+]

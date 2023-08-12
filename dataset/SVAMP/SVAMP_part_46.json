@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-451",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvested 54 sacks of oranges.",
+    "Question": "How many days did it take to harvest them if they harvested 18 sacks of oranges per day?",
+    "Equation": "( 54.0 / 18.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-452",
+    "Body": "A mailman has to give 25 pieces of junk mail to each block. If he gives 5 mails to each house in a block",
+    "Question": "How many houses are there in a block?",
+    "Equation": "( 25.0 / 5.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-453",
+    "Body": "A waiter had 8 customers. After some left he still had 5 customers. Then he got 99 new customers",
+    "Question": "How many customers left?",
+    "Equation": "( 8.0 - 5.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-454",
+    "Body": "Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches.",
+    "Question": "How many more apples than peaches does Steven have?",
+    "Equation": "( 19.0 - 15.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-455",
+    "Body": "Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese.",
+    "Question": "How many more hours does he spend on learning chinese than he does on learning english?",
+    "Equation": "( 7.0 - 6.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-456",
+    "Body": "4 birds and 46 storks were sitting on the fence. 6 more birds came to join them.",
+    "Question": "How many birds are sitting on the fence?",
+    "Equation": "( 4.0 + 6.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-457",
+    "Body": "Paco had 28 cookies. He ate some of them and had 7 cookies left.",
+    "Question": "How many cookies did Paco eat?",
+    "Equation": "( 28.0 - 7.0 )",
+    "Answer": 21.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-458",
+    "Body": "Matthew had 8 crackers to give to friends. If Matthew gave 2 crackers to each his friends",
+    "Question": "How many friends did he give crackers to?",
+    "Equation": "( 8.0 / 2.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-459",
+    "Body": "41 campers went rowing and 4 campers went hiking in the morning. 26 campers went rowing in the afternoon.",
+    "Question": "How many campers went rowing and hiking in all?",
+    "Equation": "( ( 41.0 + 26.0 ) + 4.0 )",
+    "Answer": 71.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-460",
+    "Body": "Paco had 13 cookies. He ate 2 of them. Then he bought 36 more cookies",
+    "Question": "How many more cookies did he buy than those he ate?",
+    "Equation": "( 36.0 - 2.0 )",
+    "Answer": 34.0,
+    "Type": "Subtraction"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-421",
+    "Body": "Julia played tag with 11 kids on monday. She played tag with 12 kids on tuesday.",
+    "Question": "How many more kids did she play with on tuesday than on monday?",
+    "Equation": "( 12.0 - 11.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-422",
+    "Body": "Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. The next day she found 7 more bags worth of cans.",
+    "Question": "How many more bags did she have on monday than she found on the next day?",
+    "Equation": "( 8.0 - 7.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-423",
+    "Body": "There are 3941 skittles in Steven's skittles collection. Steven also has 4950 erasers. If the erasers are organized into 495 groups",
+    "Question": "How big is each group?",
+    "Equation": "( 4950.0 / 495.0 )",
+    "Answer": 10.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-424",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food. 457 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 63 more students suggested adding mashed potatoes than those that suggested bacon",
+    "Question": "How many students suggested bacon?",
+    "Equation": "( 457.0 - 63.0 )",
+    "Answer": 394.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-425",
+    "Body": "The Razorback t-shirt shop sells each t-shirt for $ 51 dollars. During the Arkansas and Texas tech game they offered a discount of $ 8 per t-shirt and sold 130 t-shirts.",
+    "Question": "How much money did they make from selling the t-shirts?",
+    "Equation": "( ( 51.0 - 8.0 ) * 130.0 )",
+    "Answer": 5590.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-426",
+    "Body": "5 storks and 3 birds were sitting on the fence. 4 more birds came to join them.",
+    "Question": "How many more birds than storks are sitting on the fence?",
+    "Equation": "( ( 3.0 + 4.0 ) - 5.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-427",
+    "Body": "Matthew had 29 crackers and 30 cakes. If Matthew gave equal numbers of crackers and cakes to his 2 friends",
+    "Question": "How many cakes did each person eat?",
+    "Equation": "( 30.0 / 2.0 )",
+    "Answer": 15.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-428",
+    "Body": "There were 10 roses in the vase. Jessica cut 8 more roses from her flower garden and put them in the vase.",
+    "Question": "How many roses are there in the vase now?",
+    "Equation": "( 10.0 + 8.0 )",
+    "Answer": 18.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-429",
+    "Body": "Frank was reading through his favorite book. The book had 555 pages equally distributed over 5 chapters. It took Frank 220 days to finish the book.",
+    "Question": "How many pages are in each chapter?",
+    "Equation": "( 555.0 / 5.0 )",
+    "Answer": 111.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-430",
+    "Body": "Paco had 22 sweet cookies and 75 salty cookies. He ate 15 sweet cookies and 54 salty cookies.",
+    "Question": "How many sweet cookies did Paco have left?",
+    "Equation": "( 22.0 - 15.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  }
+]

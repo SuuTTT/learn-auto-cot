@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-91",
+    "Body": "Josh had 3 marbles in his collection. He found 6 marbles while he lost 5 marbles.",
+    "Question": "How many more marbles did he find than those he lost?",
+    "Equation": "( 6.0 - 5.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-92",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food. If 408 students suggested adding mashed potatoes while 42 suggested adding bacon to the menu",
+    "Question": "How many more students suggested mashed potatoes than those that suggested bacon?",
+    "Equation": "( 408.0 - 42.0 )",
+    "Answer": 366.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-93",
+    "Body": "Paco had 40 cookies. He ate 5 cookies and gave 13 of them to his friend.",
+    "Question": "How many cookies did paco have left?",
+    "Equation": "( ( 40.0 - 5.0 ) - 13.0 )",
+    "Answer": 22.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-94",
+    "Body": "Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend.",
+    "Question": "How many more cookies did he eat than those he gave to his friend?",
+    "Equation": "( 14.0 - 13.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-95",
+    "Body": "Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days.",
+    "Question": "How many more kids did she play with on monday than on tuesday?",
+    "Equation": "( 19.0 - 18.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-96",
+    "Body": "Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3.",
+    "Question": "How much money did he spend to buy chocolate than he did to buy candy bar?",
+    "Equation": "( 3.0 - 2.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-97",
+    "Body": "Ed had 29 more marbles than Doug. Ed lost 17 of his marbles at the playground.",
+    "Question": "How many more marbles did Ed have than Doug then?",
+    "Equation": "( 29.0 - 17.0 )",
+    "Answer": 12.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-98",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 19 inches. The frog jumped 10 inches farther than the grasshopper and the mouse jumped 20 inches farther than the frog.",
+    "Question": "How much farther did the mouse jump than the grasshopper?",
+    "Equation": "( 10.0 + 20.0 )",
+    "Answer": 30.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-99",
+    "Body": "Frank was reading through his favorite book. It took him 16 days to finish the book. If the book had 112 pages",
+    "Question": "How many pages did he read per day?",
+    "Equation": "( 112.0 / 16.0 )",
+    "Answer": 7.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-100",
+    "Body": "There are 20 different books in the ' crazy silly school ' series. If you are yet to read 5 of the books",
+    "Question": "How many books have you already read?",
+    "Equation": "( 20.0 - 5.0 )",
+    "Answer": 15.0,
+    "Type": "Subtraction"
+  }
+]

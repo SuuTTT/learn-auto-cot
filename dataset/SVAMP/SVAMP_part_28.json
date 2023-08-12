@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-271",
+    "Body": "Jerry had 8 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed 5 old ones.",
+    "Question": "How many action figures were on his shelf in all?",
+    "Equation": "( ( 8.0 + 4.0 ) - 5.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-272",
+    "Body": "Paige was helping her mom plant flowers and together they planted 45 seeds in 9 flowerbeds. If they put same number of seeds in each flower bed",
+    "Question": "How many seeds did they plant in each flowerbed?",
+    "Equation": "( 45.0 / 9.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-273",
+    "Body": "A mailman has to give 4 pieces of junk mail to each house in each of the 81 blocks. If there are 12 houses in each block",
+    "Question": "How many pieces of junk mail should he give in each block?",
+    "Equation": "( 4.0 * 12.0 )",
+    "Answer": 48.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-274",
+    "Body": "The ring toss game at the carnival made 325 dollars in the first 154 days and 114 dollars in the remaining 57 days.",
+    "Question": "How much did they make per day in the remaining 57 days at the carnival?",
+    "Equation": "( 114.0 / 57.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-275",
+    "Body": "Brenda's mother made cookies for 10 guests but 9 guests did not come. If she prepared 18 cookies and each guest had the same number of cookies",
+    "Question": "How many did each of them have?",
+    "Equation": "( 18.0 / ( 10.0 - 9.0 ) )",
+    "Answer": 18.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-276",
+    "Body": "Mary is baking a cake. The recipe calls for 9 cups of sugar 7 cups of flour and 4 cups of salt. She already put in 2 cups of flour.",
+    "Question": "How many more cups of flour than cups of salt does she need to add now?",
+    "Equation": "( ( 7.0 - 2.0 ) - 4.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-277",
+    "Body": "Baker made some cakes. He sold 145 of them. If he still has 72 cakes left",
+    "Question": "How many cakes did baker make?",
+    "Equation": "( 145.0 + 72.0 )",
+    "Answer": 217.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-278",
+    "Body": "Jesse needs a carpet of size 10 square feet to cover her room. If her room is 2 feet wide",
+    "Question": "What is the length of her room?",
+    "Equation": "( 10.0 / 2.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-279",
+    "Body": "There are some bananas in Philip's banana collection. If the bananas are organized into 140 groups of size 187",
+    "Question": "How many bananas does he have in his collection?",
+    "Equation": "( 140.0 * 187.0 )",
+    "Answer": 26180.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-280",
+    "Body": "Rebecca wants to split a collection of eggs into groups of 6. Rebecca has 18 eggs 72 bananas and 66 marbles.",
+    "Question": "How many groups will be created?",
+    "Equation": "( 18.0 / 6.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  }
+]

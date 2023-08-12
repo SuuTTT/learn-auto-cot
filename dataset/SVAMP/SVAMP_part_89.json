@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-881",
+    "Body": "Rachel picked 4 apples from her tree. If the tree had 7 apples initially.",
+    "Question": "How many apples are still there on the tree?",
+    "Equation": "( 7.0 - 4.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-882",
+    "Body": "After making some pies, chef had 2 apples left. Initially he had 43 apples",
+    "Question": "How many apples did he use?",
+    "Equation": "( 43.0 - 2.0 )",
+    "Answer": 41.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-883",
+    "Body": "Allan brought 3 balloons and 20 balls while Jake brought 5 balloons and 59 balls to the park.",
+    "Question": "How many balloons did Allan and Jake have in the park?",
+    "Equation": "( 3.0 + 5.0 )",
+    "Answer": 8.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-884",
+    "Body": "There were 53 dollars in Olivia's wallet. She collected 91 more dollars from an atm. After she visited a supermarket there were 14 dollars left.",
+    "Question": "How much more money did she spend at the supermarket than she collected at the atm?",
+    "Equation": "( 53.0 - 14.0 )",
+    "Answer": 39.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-885",
+    "Body": "Faye was placing some pencils equally into 2 rows. If she had 6 pencils",
+    "Question": "How many pencils did she place in each row?",
+    "Equation": "( 6.0 / 2.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-886",
+    "Body": "Julia played tag with 5 kids on monday. She played tag with some more kids on tuesday. If she played with a total of 15 kids",
+    "Question": "How many kids did she play with on tuesday?",
+    "Equation": "( 15.0 - 5.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-887",
+    "Body": "Danny collects bottle caps. He threw away 6 of the old ones at the park while he found 50 bottle caps new ones. Now he has 60 bottle caps in his collection.",
+    "Question": "How many more bottle caps did danny find at the park than those he threw away?",
+    "Equation": "( 50.0 - 6.0 )",
+    "Answer": 44.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-888",
+    "Body": "Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies.",
+    "Question": "How many cookies did Paco have left?",
+    "Equation": "( ( 36.0 - 10.0 ) - 14.0 )",
+    "Answer": 12.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-889",
+    "Body": "They decided to hold the party in their backyard. If they have 5 sets of tables and each set has 10 chairs",
+    "Question": "How many more chairs than tables do they have?",
+    "Equation": "( ( 5.0 * 10.0 ) - 5.0 )",
+    "Answer": 45.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-890",
+    "Body": "After resting they decided to go for a swim. The depth of the water is 16 times Ron's height. Dean is 9 feet taller than Ron. If Ron stands at 13 feet",
+    "Question": "How deep was the water?",
+    "Equation": "( 13.0 * 16.0 )",
+    "Answer": 208.0,
+    "Type": "Multiplication"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-101",
+    "Body": "Allan brought 3 balloons and Jake brought 5 balloons to the park. Allan then bought 2 more balloons at the park.",
+    "Question": "How many balloons did Allan and Jake have in the park?",
+    "Equation": "( ( 3.0 + 5.0 ) + 2.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-102",
+    "Body": "Josh lost 11 marbles. If he had 19 marbles in his collection earlier",
+    "Question": "How many marbles does he have now?",
+    "Equation": "( 19.0 - 11.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-103",
+    "Body": "Allan brought 6 balloons and Jake brought 3 balloons to the park. Jake then bought 4 more balloons at the park.",
+    "Question": "How many more balloons did Jake have than Allan in the park?",
+    "Equation": "( ( 3.0 + 4.0 ) - 6.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-104",
+    "Body": "Faye was placing her pencils into 14 rows with 11 pencils in each row.",
+    "Question": "How many pencils does she have?",
+    "Equation": "( 14.0 * 11.0 )",
+    "Answer": 154.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-105",
+    "Body": "A grocery store had 22 bottles of regular soda and 61 bottles of diet soda.",
+    "Question": "How many more bottles of diet soda than regular soda did they have?",
+    "Equation": "( 61.0 - 22.0 )",
+    "Answer": 39.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-106",
+    "Body": "There are 6 baskets of peaches. Each basket has 16 red peaches and 18 green peaches.",
+    "Question": "How many red peaches are in the baskets altogether?",
+    "Equation": "( 16.0 * 6.0 )",
+    "Answer": 96.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-107",
+    "Body": "During summer break 800059 kids from Lawrence county go to camp and the rest stay home. Lawrence county has 828521 kids in all.",
+    "Question": "About how many kids stayed home?",
+    "Equation": "( 828521.0 - 800059.0 )",
+    "Answer": 28462.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-108",
+    "Body": "There are 141 pots. Each pot has 71 flowers and 91 sticks in it.",
+    "Question": "How many flowers are there in all?",
+    "Equation": "( 141.0 * 71.0 )",
+    "Answer": 10011.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-109",
+    "Body": "Allan brought 2 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park.",
+    "Question": "How many more balloons did Allan have than Jake in the park?",
+    "Equation": "( ( 2.0 + 3.0 ) - 4.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-110",
+    "Body": "A chef had 58 apples. After making some pies, he had used 35.",
+    "Question": "How many apples remained?",
+    "Equation": "( 58.0 - 35.0 )",
+    "Answer": 23.0,
+    "Type": "Subtraction"
+  }
+]

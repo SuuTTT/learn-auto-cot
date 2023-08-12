@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Scotty Edgar Hanna Austin\" and concatenate them.",
+      "answer": "yran"
+    },
+    {
+      "question": "Take the last letters of each words in \"Denis Gigi Heather Ginger\" and concatenate them.",
+      "answer": "sirr"
+    },
+    {
+      "question": "Take the last letters of each words in \"Steph Pablo Ceci Francine\" and concatenate them.",
+      "answer": "hoie"
+    },
+    {
+      "question": "Take the last letters of each words in \"Orlando Colby Julius Ofelia\" and concatenate them.",
+      "answer": "oysa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Rogelio Freddy Ivan Madeleine\" and concatenate them.",
+      "answer": "oyne"
+    },
+    {
+      "question": "Take the last letters of each words in \"Marshall Herman Faye Grant\" and concatenate them.",
+      "answer": "lnet"
+    },
+    {
+      "question": "Take the last letters of each words in \"Bernard Lidia Sebastian Judy\" and concatenate them.",
+      "answer": "dany"
+    },
+    {
+      "question": "Take the last letters of each words in \"Kyra Luciano Ciara Bryan\" and concatenate them.",
+      "answer": "aoan"
+    },
+    {
+      "question": "Take the last letters of each words in \"Myriam Jos\u00e9 Cecy Faisal\" and concatenate them.",
+      "answer": "m\u00e9yl"
+    },
+    {
+      "question": "Take the last letters of each words in \"Memo Joey Phil Samuel\" and concatenate them.",
+      "answer": "oyll"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-441",
+    "Body": "Katie had 91 ds games and her new friends had 88 games and old friends had 53 games.",
+    "Question": "How many games do her friends have in all?",
+    "Equation": "( 88.0 + 53.0 )",
+    "Answer": 141.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-442",
+    "Body": "Paul got a box of some crayons for his birthday. During the school year he gave 52 crayons to his friends while he lost 535 crayons. If he only had 492 crayons left",
+    "Question": "How many crayons had been lost or given away?",
+    "Equation": "( 52.0 + 535.0 )",
+    "Answer": 587.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-443",
+    "Body": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 294 of the pickers that they fill 244 drums of grapes per day and 47 drums of raspberries per day.",
+    "Question": "How many drums of grapes would be filled in 146 days?",
+    "Equation": "( 244.0 * 146.0 )",
+    "Answer": 35624.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-444",
+    "Body": "Jake has 7 fewer peaches than Steven and 8 more peaches than Jill. Steven has 17 peaches.",
+    "Question": "How many peaches does Jill have?",
+    "Equation": "( ( 17.0 - 7.0 ) - 8.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-445",
+    "Body": "2 red peaches, 6 yellow peaches and 14 green peaches are in the basket.",
+    "Question": "How many more green peaches than yellow peaches are in the basket?",
+    "Equation": "( 14.0 - 6.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-446",
+    "Body": "A book has 31 chapters. Each chapter is 61 pages long.",
+    "Question": "How many pages does the book have altogether?",
+    "Equation": "( 31.0 * 61.0 )",
+    "Answer": 1891.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-447",
+    "Body": "Brenda's mother made cookies for guests. Each guest had 2 cookies. If she prepared a total of 10 cookies",
+    "Question": "How many guests did she prepare cookies for?",
+    "Equation": "( 10.0 / 2.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-448",
+    "Body": "Every day Ryan spends a total of 3 hours on learning english and chinese. If he spends 2 hours on learning english everyday",
+    "Question": "How many hours does he spend on learning chinese?",
+    "Equation": "( 3.0 - 2.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-449",
+    "Body": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 235 of the pickers that they fill 100 drums of raspberries per day and 221 drums of grapes per day.",
+    "Question": "How many drums of grapes would be filled in 77 days?",
+    "Equation": "( 221.0 * 77.0 )",
+    "Answer": 17017.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-450",
+    "Body": "Bobby ate 38 pieces of candy. Then he ate 36 more. He also ate 16 pieces of chocolate.",
+    "Question": "How many more pieces of candy than chocolate did Bobby eat?",
+    "Equation": "( ( 38.0 + 36.0 ) - 16.0 )",
+    "Answer": 58.0,
+    "Type": "Subtraction"
+  }
+]

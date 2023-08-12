@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 291,
+    "lEquations": [
+      "X = 695 - 133"
+    ],
+    "lSolutions": [
+      "562"
+    ],
+    "sQuestion": "Joan had 695 Pokemon cards , and 6 were torn . Sara bought 133 of Joan 's Pokemon cards . How many Pokemon cards does Joan have now ? "
+  },
+  {
+    "iIndex": 292,
+    "lEquations": [
+      "X = 113 + 129"
+    ],
+    "lSolutions": [
+      "242"
+    ],
+    "sQuestion": "Sally grew 113 turnips and 118 pumpkins . Mary grew 129 turnips . How many turnips did they grow in total ? "
+  },
+  {
+    "iIndex": 293,
+    "lEquations": [
+      "X = 792 - 233"
+    ],
+    "lSolutions": [
+      "559"
+    ],
+    "sQuestion": "Sara has 792 black and 122 red marbles . Fred took 233 of Sara 's black marbles . How many black marbles does Sara now have ? "
+  },
+  {
+    "iIndex": 294,
+    "lEquations": [
+      "X = 864 - 395"
+    ],
+    "lSolutions": [
+      "469"
+    ],
+    "sQuestion": "Joan 's high school played 864 baseball games this year , 128 of the games were played at night . She attended 395 games . How many baseball games did Joan miss ? "
+  },
+  {
+    "iIndex": 295,
+    "lEquations": [
+      "X = 112 + 105"
+    ],
+    "lSolutions": [
+      "217"
+    ],
+    "sQuestion": "There are 112 short trees and 119 tall trees currently in the park . Park workers will plant 105 short trees today . How many short trees will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 296,
+    "lEquations": [
+      "X = 783 - 271"
+    ],
+    "lSolutions": [
+      "512"
+    ],
+    "sQuestion": "Sara had 100 pennies and 783 quarters in her bank . Her dad borrowed 271 quarters from Sara . How many quarters does she have now ? "
+  },
+  {
+    "iIndex": 297,
+    "lEquations": [
+      "X = 9 - 3"
+    ],
+    "lSolutions": [
+      "6"
+    ],
+    "sQuestion": "A restaurant made 9 hamburgers and 4 hot dogs to serve during lunch . Only 3 hamburgers were actually served . How many hamburgers were over ? "
+  },
+  {
+    "iIndex": 298,
+    "lEquations": [
+      "X = 7 - 3"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "Melanie picked 7 plums and 4 oranges from the orchard . She gave 3 plums to Sam . How many plums does she have now ? "
+  },
+  {
+    "iIndex": 299,
+    "lEquations": [
+      "X = 6 - 2"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "There are 6 short bushes and 4 tall trees currently in the park . Park workers had to cut down 2 short bushes that were damaged . How many short bushes will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 300,
+    "lEquations": [
+      "X = 8 - 4"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "There were a total of 8 football games this year , 4 are played at night . Keith missed 4 of the games . How many football games did Keith go to in total ? "
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-731",
+    "Body": "Paul had 21 books. After selling some in a garage sale he bought 42 new ones. If he has 15 books now",
+    "Question": "How many more books did he sell than he bought?",
+    "Equation": "( 21.0 - 15.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-732",
+    "Body": "Allan and Jake brought 3 balloons to the park. If Allan brought 2 balloons",
+    "Question": "How many balloons did Jake bring to the park?",
+    "Equation": "( 3.0 - 2.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-733",
+    "Body": "There are 270 students in a school. If the school has 5 students in each grades and each grade has the same number of students",
+    "Question": "How many grades are there in total?",
+    "Equation": "( 270.0 / 5.0 )",
+    "Answer": 54.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-734",
+    "Body": "After finding some bottle caps at the park danny has 32 bottle caps in his collection. If he had 25 bottle caps in his collection earlier",
+    "Question": "How many bottle caps did he find at the park?",
+    "Equation": "( 32.0 - 25.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-735",
+    "Body": "A mailman has to give 32 pieces of junk mail to each of the 55 blocks. If he gives 8 mails to each house in a block",
+    "Question": "How many houses are there in a block?",
+    "Equation": "( 32.0 / 8.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-736",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. If 35 bird families flew away to asia and 62 bird families flew away to africa",
+    "Question": "How many more bird families flew away to africa than those that flew away to asia?",
+    "Equation": "( 62.0 - 35.0 )",
+    "Answer": 27.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-737",
+    "Body": "Paul got a box of 65 crayons for his birthday. During the school year he gave 213 crayons to his friends while he lost 16 crayons.",
+    "Question": "How many crayons had been lost or given away?",
+    "Equation": "( 213.0 + 16.0 )",
+    "Answer": 229.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-738",
+    "Body": "Rachel had to complete 5 pages of math homework and yet more pages of reading homework. If she had to complete a total of 7 pages of homework",
+    "Question": "How many pages of reading homework did she have to complete?",
+    "Equation": "( 7.0 - 5.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-739",
+    "Body": "Brenda's mother made cookies for 5. She prepared 22 cookies but had to throw away 17 cookies. If each of them had the same number of cookies",
+    "Question": "How many did each of them have?",
+    "Equation": "( ( 22.0 - 17.0 ) / 5.0 )",
+    "Answer": 1.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-740",
+    "Body": "There were 6 roses and 20 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 21 orchids and 22 roses in the vase.",
+    "Question": "How many more roses than orchids are there in the vase now?",
+    "Equation": "( 22.0 - 21.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 371,
+    "lEquations": [
+      "X = 47 + 37 + 25"
+    ],
+    "lSolutions": [
+      "109"
+    ],
+    "sQuestion": "There are 47 orchid bushes currently in the park . Park workers will plant 37 orchid bushes today and 25 orchid bushes tomorrow . It took 35 workers to finish the work . How many orchid bushes will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 372,
+    "lEquations": [
+      "X = 10 + 46 + 16"
+    ],
+    "lSolutions": [
+      "72"
+    ],
+    "sQuestion": "Fred has 10 red balloons , Sam has 46 red balloons , and Dan has 16 red balloons . The balloons cost 10 dollars . How many red balloons do they have in all ? "
+  },
+  {
+    "iIndex": 373,
+    "lEquations": [
+      "X = 45 + 23 + 32"
+    ],
+    "lSolutions": [
+      "100"
+    ],
+    "sQuestion": "Mary found 45 seashells , Melanie found 23 seashells , and Jason found 32 seashells on the beach . When they cleaned them , they discovered that 31 were cracked . How many seashells did they find together ? "
+  },
+  {
+    "iIndex": 374,
+    "lEquations": [
+      "X = 36 + 32 + 35"
+    ],
+    "lSolutions": [
+      "103"
+    ],
+    "sQuestion": "Fred picked 36 limes , Alyssa picked 32 limes , and Nancy picked 35 limes and 18 pears , at the farm . How many limes were picked in total ? "
+  },
+  {
+    "iIndex": 375,
+    "lEquations": [
+      "X = 79 - 32"
+    ],
+    "lSolutions": [
+      "47"
+    ],
+    "sQuestion": "Benny received 79 dollars and 9 movie tickets for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 32 dollars over , how much did he spent on the baseball gear ? "
+  },
+  {
+    "iIndex": 376,
+    "lEquations": [
+      "43 + X = 54"
+    ],
+    "lSolutions": [
+      "11"
+    ],
+    "sQuestion": "There are 43 maple trees and 22 orange trees currently in the park . Park workers will plant maple trees today . When the workers are finished there will be 54 maple trees in the park . How many maple trees did the workers plant today ? "
+  },
+  {
+    "iIndex": 377,
+    "lEquations": [
+      "14 + X = 85"
+    ],
+    "lSolutions": [
+      "71"
+    ],
+    "sQuestion": "Dan had 14 peaches and 10 pears at his roadside fruit dish . He went to the orchard and picked peaches to stock up . There are now 85 peaches . how many did he pick ? "
+  },
+  {
+    "iIndex": 378,
+    "lEquations": [
+      "41 + X = 87"
+    ],
+    "lSolutions": [
+      "46"
+    ],
+    "sQuestion": "Melanie has 41 books and 31 magazines in her library . She bought several books at a yard sale over the weekend . She now has 87 books in her library . How many books did she buy at the yard sale ? "
+  },
+  {
+    "iIndex": 379,
+    "lEquations": [
+      "2 + X = 18"
+    ],
+    "lSolutions": [
+      "16"
+    ],
+    "sQuestion": "There were 2 red orchids and 4 white orchids in the vase . Jessica cut some red orchids from her flower garden . There are now 18 red orchids in the vase . How many red orchids did she cut ? "
+  },
+  {
+    "iIndex": 380,
+    "lEquations": [
+      "12 + X = 75"
+    ],
+    "lSolutions": [
+      "63"
+    ],
+    "sQuestion": "Last week Tim had 12 dollars and Keith had 36 dollars . Tim washed cars over the weekend and now has 75 dollars . How much money did Tim make washing cars ? "
+  }
+]

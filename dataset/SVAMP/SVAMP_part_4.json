@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-31",
+    "Body": "Tiffany was collecting cans for recycling. On monday she had 7 bags of cans. The next day she found 12 more bags worth of cans.",
+    "Question": "How many more bags did she find on the next day than she had on monday?",
+    "Equation": "( 12.0 - 7.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-32",
+    "Body": "There were 15 roses and 62 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 17 roses and 96 orchids in the vase.",
+    "Question": "How many roses did she cut?",
+    "Equation": "( 17.0 - 15.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-33",
+    "Body": "There are some baskets of peaches. Each basket has 4 red peaches and 3 green peaches. If there are a total of 7 peaches in all baskets",
+    "Question": "How many baskets of peaches are there?",
+    "Equation": "( 7.0 / ( 4.0 + 3.0 ) )",
+    "Answer": 1.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-34",
+    "Body": "There were 78 dollars in Olivia's wallet. She spent 15 dollars at a supermarket.",
+    "Question": "How much money does she have left?",
+    "Equation": "( 78.0 - 15.0 )",
+    "Answer": 63.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-35",
+    "Body": "Jack received 6 emails in the morning, 3 emails in the afternoon and some more in the evening. If he received a total of 10 emails in the day",
+    "Question": "How many emails did Jack receive in the afternoon?",
+    "Equation": "( 10.0 - ( 6.0 + 3.0 ) )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-36",
+    "Body": "Dan has $ 4. He bought a candy bar for $ 8. Then his friend have him $ 5",
+    "Question": "How much money is left?",
+    "Equation": "( ( 4.0 - 8.0 ) + 5.0 )",
+    "Answer": 1.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-37",
+    "Body": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 703 visitors came to the Buckingham palace on the previous day. If there were 246 visitors on that day",
+    "Question": "How many visited the Buckingham palace within 25 days?",
+    "Equation": "( 246.0 + 703.0 )",
+    "Answer": 949.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-38",
+    "Body": "For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 7 more dollars. If she spent 4 dollars.",
+    "Question": "How much more money did she receive from her mom than she did from her dad?",
+    "Equation": "( 7.0 - 5.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-39",
+    "Body": "There are 142 bananas and 356 oranges in Philip's collection. If the bananas are organized into 47 groups and oranges are organized into 178 groups",
+    "Question": "How big is each group of oranges?",
+    "Equation": "( 356.0 / 178.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-40",
+    "Body": "There are 8 different books and 5 different movies in the ' crazy silly school ' series. If you read 19 of the movies and watched 16 of the books",
+    "Question": "How many more movies than books have you read?",
+    "Equation": "( 19.0 - 16.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  }
+]

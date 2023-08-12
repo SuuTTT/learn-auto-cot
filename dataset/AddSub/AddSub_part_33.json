@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 321,
+    "lEquations": [
+      "X = 118.54 + 106.33"
+    ],
+    "lSolutions": [
+      "224.87"
+    ],
+    "sQuestion": "For his car , Mike spent $ 118.54 on speakers and $ 106.33 on new tires . Mike wanted 3 CD 's for $ 4.58 but decided not to . In total , how much did Mike spend on car parts ? "
+  },
+  {
+    "iIndex": 322,
+    "lEquations": [
+      "X = 13.60 + 5.06"
+    ],
+    "lSolutions": [
+      "18.66"
+    ],
+    "sQuestion": "Tom purchased a Batman game for $ 13.60 , and a Superman game for $ 5.06 . Tom already owns 2 games . How much did Tom spend on video games ? "
+  },
+  {
+    "iIndex": 323,
+    "lEquations": [
+      "X = 15 + 14.82 + 12.51"
+    ],
+    "lSolutions": [
+      "42.33"
+    ],
+    "sQuestion": "Joan spent $ 15 on shorts and $ 14.82 on a jacket , and $ 12.51 on a shirt . She went to 3 shops . In total , how much money did Joan spend on clothing ? "
+  },
+  {
+    "iIndex": 324,
+    "lEquations": [
+      "X = 149.16 + 9.98 + 4.14"
+    ],
+    "lSolutions": [
+      "163.28"
+    ],
+    "sQuestion": "Joan joined her school 's band . She bought a trumpet for $ 149.16 , a music tool for $ 9.98 , and a song book which was $ 4.14 . Joan found $ 8.65 in her pocket . How much did Joan spend at the music store ? "
+  },
+  {
+    "iIndex": 325,
+    "lEquations": [
+      "X = 6.95 + 7.90 + 7.73"
+    ],
+    "lSolutions": [
+      "22.58"
+    ],
+    "sQuestion": "Melanie bought a Batman game for $ 6.95 , a strategy game for $ 7.90 , and a Superman game for $ 7.73 . Melanie already owns 4 games . How much did Melanie spend on video games ? "
+  },
+  {
+    "iIndex": 326,
+    "lEquations": [
+      "X = 6.51 + 5.79 + 12.51"
+    ],
+    "lSolutions": [
+      "24.81"
+    ],
+    "sQuestion": "Keith spent $ 6.51 on a rabbit toy , $ 5.79 on pet food , and a cage cost him $ 12.51 . He found a dollar bill on the ground . What was the total cost of Keith 's purchases ? "
+  },
+  {
+    "iIndex": 327,
+    "lEquations": [
+      "X = 136.01 + 139.38 + 112.46"
+    ],
+    "lSolutions": [
+      "387.85"
+    ],
+    "sQuestion": "Keith spent $ 136.01 on speakers , $ 139.38 on a CD player , and $ 112.46 on new tires . He wanted 3 CD 's for $ 6.16 , but did n't buy them . In total , how much did he spend ? "
+  },
+  {
+    "iIndex": 328,
+    "lEquations": [
+      "X = 14.88 + 4.88 + 5.86"
+    ],
+    "lSolutions": [
+      "25.62"
+    ],
+    "sQuestion": "Joan bought toy cars for $ 14.88 , a skateboard for $ 4.88 , and got toy trucks for $ 5.86 . She spent $ 14.55 on pants . In total , how much did Joan spend on toys ? "
+  },
+  {
+    "iIndex": 329,
+    "lEquations": [
+      "X - 6 = 52"
+    ],
+    "lSolutions": [
+      "58"
+    ],
+    "sQuestion": "After paying 6 dollars for the pie , Mary has 52 dollars , her friend has 43 dollars . How much money did she have before buying the pie ? "
+  },
+  {
+    "iIndex": 330,
+    "lEquations": [
+      "46 + X = 60"
+    ],
+    "lSolutions": [
+      "14"
+    ],
+    "sQuestion": "There were 46 bales of hay in the barn and 32 bales in the shed . Tom stacked bales in the barn today . There are now 60 bales of hay in the barn . How many bales did he store in the barn ? "
+  }
+]

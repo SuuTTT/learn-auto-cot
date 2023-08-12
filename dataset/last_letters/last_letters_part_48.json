@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Pauline Kerry Jeannette Hope\" and concatenate them.",
+      "answer": "eyee"
+    },
+    {
+      "question": "Take the last letters of each words in \"Brooklyn Dawn Tay Gene\" and concatenate them.",
+      "answer": "nnye"
+    },
+    {
+      "question": "Take the last letters of each words in \"Chloe Flaco Theodore Nathalie\" and concatenate them.",
+      "answer": "eoee"
+    },
+    {
+      "question": "Take the last letters of each words in \"Nichole Heriberto Darian Peter\" and concatenate them.",
+      "answer": "eonr"
+    },
+    {
+      "question": "Take the last letters of each words in \"Janette Stacey Ronny Kim\" and concatenate them.",
+      "answer": "eyym"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jazmine Carmen Kitty Nina\" and concatenate them.",
+      "answer": "enya"
+    },
+    {
+      "question": "Take the last letters of each words in \"Donovan Lonnie Jairo Mariah\" and concatenate them.",
+      "answer": "neoh"
+    },
+    {
+      "question": "Take the last letters of each words in \"Nidia Rachelle Lauren Shelia\" and concatenate them.",
+      "answer": "aena"
+    },
+    {
+      "question": "Take the last letters of each words in \"Angela Krista Cora Denisse\" and concatenate them.",
+      "answer": "aaae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Chandler Martina Leonardo Gregg\" and concatenate them.",
+      "answer": "raog"
+    }
+  ]
+}

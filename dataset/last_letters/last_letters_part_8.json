@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Lorena Shana Priscilla Summer\" and concatenate them.",
+      "answer": "aaar"
+    },
+    {
+      "question": "Take the last letters of each words in \"Noelle Byron Jane Darin\" and concatenate them.",
+      "answer": "enen"
+    },
+    {
+      "question": "Take the last letters of each words in \"Chava Rosalia Kurt Linda\" and concatenate them.",
+      "answer": "aata"
+    },
+    {
+      "question": "Take the last letters of each words in \"Meagan Naomi Israel Marie\" and concatenate them.",
+      "answer": "nile"
+    },
+    {
+      "question": "Take the last letters of each words in \"Michele Karan Abraham Ellen\" and concatenate them.",
+      "answer": "enmn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Laila Audrey Glenn Rhonda\" and concatenate them.",
+      "answer": "ayna"
+    },
+    {
+      "question": "Take the last letters of each words in \"Regina Joel Justice Eli\" and concatenate them.",
+      "answer": "alei"
+    },
+    {
+      "question": "Take the last letters of each words in \"Janet Ant Vickie Elias\" and concatenate them.",
+      "answer": "ttes"
+    },
+    {
+      "question": "Take the last letters of each words in \"Russ Berta Mandy Lydia\" and concatenate them.",
+      "answer": "saya"
+    },
+    {
+      "question": "Take the last letters of each words in \"Tristan Marleny Santiago Viviana\" and concatenate them.",
+      "answer": "nyoa"
+    }
+  ]
+}

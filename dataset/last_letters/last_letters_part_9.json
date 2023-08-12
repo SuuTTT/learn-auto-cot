@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Carole William Tiffany Hilary\" and concatenate them.",
+      "answer": "emyy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Amparo Gianna Dion Tessa\" and concatenate them.",
+      "answer": "oana"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lewis Azucena Kai Ravi\" and concatenate them.",
+      "answer": "saii"
+    },
+    {
+      "question": "Take the last letters of each words in \"Issa Kendra Ignacio Henry\" and concatenate them.",
+      "answer": "aaoy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Faustino Lamar Fransisco Rina\" and concatenate them.",
+      "answer": "oroa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Angelique Marissa Phyllis Bonnie\" and concatenate them.",
+      "answer": "ease"
+    },
+    {
+      "question": "Take the last letters of each words in \"Loren Wes Dean Hayley\" and concatenate them.",
+      "answer": "nsny"
+    },
+    {
+      "question": "Take the last letters of each words in \"Maxwell Jose Beto Joe\" and concatenate them.",
+      "answer": "leoe"
+    },
+    {
+      "question": "Take the last letters of each words in \"Liz Andrea Suresh Vera\" and concatenate them.",
+      "answer": "zaha"
+    },
+    {
+      "question": "Take the last letters of each words in \"Chantal Ines Valeria Francesca\" and concatenate them.",
+      "answer": "lsaa"
+    }
+  ]
+}

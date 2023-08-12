@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-71",
+    "Body": "If Lewis earns $ 1357 every week during the 223 weeks of a harvest season.",
+    "Question": "How much money will he earn if he works for 73 harvest seasons?",
+    "Equation": "( ( 1357.0 * 223.0 ) * 73.0 )",
+    "Answer": 22090603.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-72",
+    "Body": "Because of the decision Sofia asked 310 students to suggest specific types of food. 185 students suggested adding mashed potatoes while others suggested adding bacon to the menu.",
+    "Question": "How many students suggested bacon?",
+    "Equation": "( 310.0 - 185.0 )",
+    "Answer": 125.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-73",
+    "Body": "Jack received 3 emails and 64 letters in the morning. He then received 5 emails and 54 letters in the afternoon.",
+    "Question": "How many emails did jack receive in the day?",
+    "Equation": "( 3.0 + 5.0 )",
+    "Answer": 8.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-74",
+    "Body": "Paco had 40 cookies. He ate 2 of them. Then he bought 37 more cookies",
+    "Question": "How many cookies did Paco have left?",
+    "Equation": "( ( 40.0 - 2.0 ) + 37.0 )",
+    "Answer": 75.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-75",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food. If 218 students suggested adding mashed potatoes as well as bacon while 351 suggested adding only bacon to the menu",
+    "Question": "How many students suggested adding bacon?",
+    "Equation": "( 218.0 + 351.0 )",
+    "Answer": 569.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-76",
+    "Body": "If each bag has 41 cookies and you had 53 bags of cookies",
+    "Question": "How many cookies would you have?",
+    "Equation": "( 53.0 * 41.0 )",
+    "Answer": 2173.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-77",
+    "Body": "Rachel had to complete 2 pages of reading homework and 4 pages of math homework.",
+    "Question": "How many more pages of math homework than reading homework did she have?",
+    "Equation": "( 4.0 - 2.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-78",
+    "Body": "Allan brought 5 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park.",
+    "Question": "How many balloons did Allan bring to the park?",
+    "Equation": "( 5.0 + 3.0 )",
+    "Answer": 8.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-79",
+    "Body": "Julia played tag with 8 kids on monday, 11 kids on tuesday and 9 kids on wednesday.",
+    "Question": "How many more kids did she play with on tuesday than on wednesday?",
+    "Equation": "( 11.0 - 9.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-80",
+    "Body": "The Razorback shop makes $ 5 dollars off each jersey and $ 215 off each t-shirt. During the Arkansas and Texas tech game they sold 20 t-shirts and 64 jerseys.",
+    "Question": "How much money did they make from selling the t-shirts?",
+    "Equation": "( 215.0 * 20.0 )",
+    "Answer": 4300.0,
+    "Type": "Multiplication"
+  }
+]

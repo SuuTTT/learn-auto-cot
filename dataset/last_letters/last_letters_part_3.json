@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Jessy Libby Danielle Red\" and concatenate them.",
+      "answer": "yyed"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jorge Natalia Bryant Kiran\" and concatenate them.",
+      "answer": "eatn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Yan Eunice Joseph Hugh\" and concatenate them.",
+      "answer": "nehh"
+    },
+    {
+      "question": "Take the last letters of each words in \"Melody Ramiro Humberto Jacob\" and concatenate them.",
+      "answer": "yoob"
+    },
+    {
+      "question": "Take the last letters of each words in \"Domingo Briana Michael Joan\" and concatenate them.",
+      "answer": "oaln"
+    },
+    {
+      "question": "Take the last letters of each words in \"Kristopher Deb Jake Tammy\" and concatenate them.",
+      "answer": "rbey"
+    },
+    {
+      "question": "Take the last letters of each words in \"Morgan Perla Joao Marta\" and concatenate them.",
+      "answer": "naoa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Penny Harry Jessica Horacio\" and concatenate them.",
+      "answer": "yyao"
+    },
+    {
+      "question": "Take the last letters of each words in \"Billie Paloma Tanner Raul\" and concatenate them.",
+      "answer": "earl"
+    },
+    {
+      "question": "Take the last letters of each words in \"Rena Devon Rosalinda Paulina\" and concatenate them.",
+      "answer": "anaa"
+    }
+  ]
+}

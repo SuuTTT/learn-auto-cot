@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 241,
+    "lEquations": [
+      "X = 1.125 + 2.125"
+    ],
+    "lSolutions": [
+      "3.25"
+    ],
+    "sQuestion": "Kyle jogged 1.125 laps in P.E. class and 2.125 laps during track practice . How many laps did Kyle jog in all ? "
+  },
+  {
+    "iIndex": 242,
+    "lEquations": [
+      "X = 3.0 + 6.8"
+    ],
+    "lSolutions": [
+      "9.8"
+    ],
+    "sQuestion": "A bucket contains 3 gallons of water . If Derek adds 6.8 gallons more , how many gallons will there be in all ? "
+  },
+  {
+    "iIndex": 243,
+    "lEquations": [
+      "X = 2.6666666666666665 + 2.6666666666666665"
+    ],
+    "lSolutions": [
+      "5.333333333333333"
+    ],
+    "sQuestion": "At a pizza party , Mason and his friends drank 2.6666666666666665 bottles of lemon-lime soda and 2.6666666666666665 bottles of cola . How much soda did they drink in all ? "
+  },
+  {
+    "iIndex": 244,
+    "lEquations": [
+      "X = 11.166666666666666 - 0.8333333333333334"
+    ],
+    "lSolutions": [
+      "10.333333333333334"
+    ],
+    "sQuestion": "Professor Ellison weighed 2 pieces of metal for an experiment . The piece of iron weighed 11.166666666666666 pounds and the piece of aluminum weighed 0.8333333333333334 pound . How much more did the piece of iron weigh than the piece of aluminum ? "
+  },
+  {
+    "iIndex": 245,
+    "lEquations": [
+      "X = 1.25 + 5.25"
+    ],
+    "lSolutions": [
+      "6.5"
+    ],
+    "sQuestion": "As part of a lesson on earthquakes , a science class is researching the movement of a nearby fault line . The fault line moved 1.25 inches during the past year and 5.25 inches the year before . How far did the fault line move in all ? "
+  },
+  {
+    "iIndex": 246,
+    "lEquations": [
+      "X = 10.2 + 8.6"
+    ],
+    "lSolutions": [
+      "18.8"
+    ],
+    "sQuestion": "Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book . How many pages worth of people did Rosa call in all ? "
+  },
+  {
+    "iIndex": 247,
+    "lEquations": [
+      "X = 3.6666666666666665 - 2.3333333333333335"
+    ],
+    "lSolutions": [
+      "1.3333333333333333"
+    ],
+    "sQuestion": "At the beach , Janet and her sister both built sandcastles and then measured their heights . Janet 's sandcastle was 3.6666666666666665 feet tall and her sister 's was 2.3333333333333335 feet tall . How much taller was Janet 's sandcastle than her sister 's ? "
+  },
+  {
+    "iIndex": 248,
+    "lEquations": [
+      "X = 3.0 - 1.1666666666666667"
+    ],
+    "lSolutions": [
+      "1.8333333333333335"
+    ],
+    "sQuestion": "Nicole found an orange caterpillar and a green caterpillar in her backyard . The green caterpillar was 3 inches long and the orange caterpillar was 1.1666666666666667 inches long . How much longer was the green caterpillar than the orange caterpillar ? "
+  },
+  {
+    "iIndex": 249,
+    "lEquations": [
+      "X = 3.25 + 0.25"
+    ],
+    "lSolutions": [
+      "3.5"
+    ],
+    "sQuestion": "Alec and his roommates ate 3.25 pints of ice cream on Friday night and 0.25 pint of ice cream on Saturday night . How many pints did they eat in all ? "
+  },
+  {
+    "iIndex": 250,
+    "lEquations": [
+      "X = 8.75 - 6.0"
+    ],
+    "lSolutions": [
+      "2.75"
+    ],
+    "sQuestion": "A farmer started the day with 8.75 buckets of seeds . After spending the morning sowing seeds , she now has 6 buckets . How many buckets of seeds did the farmer sow ? "
+  }
+]

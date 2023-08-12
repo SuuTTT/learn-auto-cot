@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Maritza Nana Loretta Eric\" and concatenate them.",
+      "answer": "aaac"
+    },
+    {
+      "question": "Take the last letters of each words in \"Thomas Cara Nita Frances\" and concatenate them.",
+      "answer": "saas"
+    },
+    {
+      "question": "Take the last letters of each words in \"Chuy Shane Jaden Maynor\" and concatenate them.",
+      "answer": "yenr"
+    },
+    {
+      "question": "Take the last letters of each words in \"Violeta Clay Janelle Mac\" and concatenate them.",
+      "answer": "ayec"
+    },
+    {
+      "question": "Take the last letters of each words in \"Guadalupe Ebony Wil Luke\" and concatenate them.",
+      "answer": "eyle"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jenni Leonel Micheal Kat\" and concatenate them.",
+      "answer": "illt"
+    },
+    {
+      "question": "Take the last letters of each words in \"Yazmin Lea Rodrigo Sammy\" and concatenate them.",
+      "answer": "naoy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Emely Chelsea Vladimir Tyrone\" and concatenate them.",
+      "answer": "yare"
+    },
+    {
+      "question": "Take the last letters of each words in \"Bill Santos Roxy Randi\" and concatenate them.",
+      "answer": "lsyi"
+    },
+    {
+      "question": "Take the last letters of each words in \"Daphne Lola Joanna Sheena\" and concatenate them.",
+      "answer": "eaaa"
+    }
+  ]
+}

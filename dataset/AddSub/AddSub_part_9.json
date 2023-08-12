@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 81,
+    "lEquations": [
+      "X = 64 - 14"
+    ],
+    "lSolutions": [
+      "50"
+    ],
+    "sQuestion": "Dan has 64 violet marbles , he gave Mary 14 of the marbles . How many violet marbles does he now have ? "
+  },
+  {
+    "iIndex": 82,
+    "lEquations": [
+      "X = 25 + 73"
+    ],
+    "lSolutions": [
+      "98"
+    ],
+    "sQuestion": "There are 25 popular trees currently in the park . Park workers will plant 73 popular trees today . How many popular trees will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 83,
+    "lEquations": [
+      "X = 54 + 22"
+    ],
+    "lSolutions": [
+      "76"
+    ],
+    "sQuestion": "There are 54 scissors in the drawer . Keith placed 22 scissors in the drawer . How many scissors are now there in all ? "
+  },
+  {
+    "iIndex": 84,
+    "lEquations": [
+      "X = 42 + 17"
+    ],
+    "lSolutions": [
+      "59"
+    ],
+    "sQuestion": "Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree . How many pears were picked in all ? "
+  },
+  {
+    "iIndex": 85,
+    "lEquations": [
+      "X = 98 - 93"
+    ],
+    "lSolutions": [
+      "5"
+    ],
+    "sQuestion": "Sam had 98 pennies in his bank . He spent 93 of his pennies . How many pennies does he have now ? "
+  },
+  {
+    "iIndex": 86,
+    "lEquations": [
+      "X = 79 - 63"
+    ],
+    "lSolutions": [
+      "16"
+    ],
+    "sQuestion": "Joan found 79 seashells on the beach , she gave Mike 63 of the seashells . How many seashells does she now have ? "
+  },
+  {
+    "iIndex": 87,
+    "lEquations": [
+      "X = 110 + 102"
+    ],
+    "lSolutions": [
+      "212"
+    ],
+    "sQuestion": "Sam has 110 books . Joan has 102 books . How many books do they have together ? "
+  },
+  {
+    "iIndex": 88,
+    "lEquations": [
+      "X = 122 + 105"
+    ],
+    "lSolutions": [
+      "227"
+    ],
+    "sQuestion": "Mary picked 122 oranges and Jason picked 105 oranges from the orange tree . How many oranges were picked in total ? "
+  },
+  {
+    "iIndex": 89,
+    "lEquations": [
+      "X = 760 - 418"
+    ],
+    "lSolutions": [
+      "342"
+    ],
+    "sQuestion": "Sally had 760 quarters in her bank . She spent 418 of her quarters . How many quarters does she have now ? "
+  },
+  {
+    "iIndex": 90,
+    "lEquations": [
+      "X = 139 + 113"
+    ],
+    "lSolutions": [
+      "252"
+    ],
+    "sQuestion": "Melanie grew 139 turnips . Benny grew 113 turnips . How many turnips did they grow in all ? "
+  }
+]

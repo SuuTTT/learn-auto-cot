@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-431",
+    "Body": "Mary is baking a cake. The recipe calls for 9 cups of flour and 5 cups of sugar. She already put in 3 cups of flour and 62 cups of sugar.",
+    "Question": "How many more cups of flour does she need to add?",
+    "Equation": "( 9.0 - 3.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-432",
+    "Body": "Each pack of dvds costs 107 dollars. If there is a discount of 106 dollars on each pack",
+    "Question": "How many packs of dvds can you buy with 93 dollars?",
+    "Equation": "( 93.0 / ( 107.0 - 106.0 ) )",
+    "Answer": 93.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-433",
+    "Body": "There are 8 different books and 10 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 61 of the movies",
+    "Question": "How many more movies than books are there in the ' crazy silly school ' series?",
+    "Equation": "( 10.0 - 8.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-434",
+    "Body": "Bobby ate 33 pieces of candy. Then he ate 4 more. He also ate 14 pieces of chocolate.",
+    "Question": "How many pieces of candy and chocolate did Bobby eat altogether?",
+    "Equation": "( ( 33.0 + 4.0 ) + 14.0 )",
+    "Answer": 51.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-435",
+    "Body": "Bryan took a look at his books as well. He has 7 bookshelves with each having the same number of books. If he has a total of 28 books",
+    "Question": "How many books are there in each bookshelf?",
+    "Equation": "( 28.0 / 7.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-436",
+    "Body": "Melissa scored 12 points in each game. If she scored a total of 36 points",
+    "Question": "How many games did she play?",
+    "Equation": "( 36.0 / 12.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-437",
+    "Body": "Rachel had to complete 8 pages of math homework. If she had to complete 6 more pages of reading homework than math homework",
+    "Question": "How many pages of reading homework did she have to complete?",
+    "Equation": "( 8.0 + 6.0 )",
+    "Answer": 14.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-438",
+    "Body": "Jack received 6 emails and sent 91 letters in the morning. He then received 2 emails and sent 74 letters in the afternoon.",
+    "Question": "How many emails did Jack receive in the day?",
+    "Equation": "( 6.0 + 2.0 )",
+    "Answer": 8.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-439",
+    "Body": "At the arcade Dave had won 7 tickets. He used some tickets to buy toys. If he still has 2 tickets left",
+    "Question": "How many tickets did Dave use to buy toys?",
+    "Equation": "( 7.0 - 2.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-440",
+    "Body": "Every day Ryan spends 7 hours on learning english and some more hours on learning chinese. If he spends 2 hours more on learning english than on learning chinese",
+    "Question": "How many hours does he spend on learning chinese?",
+    "Equation": "( 7.0 - 2.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  }
+]

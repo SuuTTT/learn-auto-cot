@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-361",
+    "Body": "Zachary did 51 push-ups and David did 44 push-ups in gym class today.",
+    "Question": "How many more push-ups did Zachary do than David?",
+    "Equation": "( 51.0 - 44.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-362",
+    "Body": "16 people can ride the Ferris wheel in paradise park at the same time. If the Ferris wheel has 4 seats",
+    "Question": "How many people can each seat hold?",
+    "Equation": "( 16.0 / 4.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-363",
+    "Body": "Mary is baking a cake. The recipe calls for 6 cups of flour 8 cups of sugar and 7 cups of salt. She already put in 5 cups of flour.",
+    "Question": "How many more cups of sugar than cups of salt does she need to add now?",
+    "Equation": "( 8.0 - 7.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-364",
+    "Body": "Paige raised 16 goldfish and 71 catfish in the pond but stray cats loved eating them. Now she has 2 left.",
+    "Question": "How many goldfish disappeared?",
+    "Equation": "( 16.0 - 2.0 )",
+    "Answer": 14.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-365",
+    "Body": "Rachel picked 7 ripe apples from her tree. Now the tree has 5 apples still on it. If 3 of those are ripe and the rest are unripe",
+    "Question": "How many unripe apples does the tree have now?",
+    "Equation": "( 5.0 - 3.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-366",
+    "Body": "Zachary did 44 push-ups in gym class today. David did 58 more push-ups than zachary.",
+    "Question": "How many push-ups did Zachary and David do altogether?",
+    "Equation": "( ( 44.0 + 44.0 ) + 58.0 )",
+    "Answer": 146.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-367",
+    "Body": "If Lewis earns a total of $ 460 during 5 weeks of harvest",
+    "Question": "How much money does he earn each week?",
+    "Equation": "( 460.0 / 5.0 )",
+    "Answer": 92.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-368",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food. If 228 students suggested adding mashed potatoes 337 suggested adding bacon to the menu and 23 suggested adding tomatoes",
+    "Question": "How many more students suggested bacon than those that suggested tomatoes?",
+    "Equation": "( 337.0 - 23.0 )",
+    "Answer": 314.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-369",
+    "Body": "Edward spent $ 4 to buy books and $ 3 to buy pens. Now he has $ 12.",
+    "Question": "How much did Edward spend on books and pens?",
+    "Equation": "( 4.0 + 3.0 )",
+    "Answer": 7.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-370",
+    "Body": "Edward spent $ 17. Then he received $ 10 from his friend. Now he has $ 7.",
+    "Question": "How much did Edward have before he spent his money?",
+    "Equation": "( ( 17.0 - 10.0 ) + 7.0 )",
+    "Answer": 14.0,
+    "Type": "Addition"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-611",
+    "Body": "There are 11 baskets of peaches. Each basket has 10 red peaches and 18 green peaches.",
+    "Question": "How many peaches are in the baskets altogether?",
+    "Equation": "( ( 10.0 + 18.0 ) * 11.0 )",
+    "Answer": 308.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-612",
+    "Body": "Paul got a box of 440 crayons for his birthday. During the school year he gave 111 crayons to his friends while he lost 106 crayons.",
+    "Question": "How many crayons did he have left?",
+    "Equation": "( 440.0 - ( 111.0 + 106.0 ) )",
+    "Answer": 223.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-613",
+    "Body": "Some campers went rowing in the morning while 7 campers went rowing in the afternoon. If a total of 60 campers went rowing that day",
+    "Question": "How many campers went rowing in the morning?",
+    "Equation": "( 60.0 - 7.0 )",
+    "Answer": 53.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-614",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 74 sacks per day and discard 71 of them.",
+    "Question": "How many sacks of oranges will they have after 51 days of harvest?",
+    "Equation": "( ( 74.0 - 71.0 ) * 51.0 )",
+    "Answer": 153.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-615",
+    "Body": "Next on his checklist is wax to stick the feathers together. If he has 557 g of wax and right now he just needs 17 g",
+    "Question": "Total how many grams of wax do the feathers require?",
+    "Equation": "( 557.0 + 17.0 )",
+    "Answer": 574.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-616",
+    "Body": "Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.",
+    "Question": "How many more books than action figures were on his shelf?",
+    "Equation": "( 7.0 - ( 3.0 + 2.0 ) )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-617",
+    "Body": "Matthew gave 6 crackers to each his friends. If he had 36 crackers",
+    "Question": "How many friends did he give crackers to?",
+    "Equation": "( 36.0 / 6.0 )",
+    "Answer": 6.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-618",
+    "Body": "Katie had 57 new games and 39 old games. Her friends had 34 new games.",
+    "Question": "How many more games does Katie have than her friends?",
+    "Equation": "( ( 57.0 + 39.0 ) - 34.0 )",
+    "Answer": 62.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-619",
+    "Body": "26 children were riding on the bus. At the bus stop 38 more children got on the bus.",
+    "Question": "How many children are on the bus now?",
+    "Equation": "( 26.0 + 38.0 )",
+    "Answer": 64.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-620",
+    "Body": "Josh had 21 marbles in his collection. He found 7 marbles.",
+    "Question": "How many marbles does he have now?",
+    "Equation": "( 21.0 + 7.0 )",
+    "Answer": 28.0,
+    "Type": "Addition"
+  }
+]

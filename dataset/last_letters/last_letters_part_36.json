@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Paris Jimmie Andrew Ram\u00f3n\" and concatenate them.",
+      "answer": "sewn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Angelica Tariq Ursula Nena\" and concatenate them.",
+      "answer": "aqaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Luz Terence Elder Jazmin\" and concatenate them.",
+      "answer": "zern"
+    },
+    {
+      "question": "Take the last letters of each words in \"Roberta Mauro Clint Marcela\" and concatenate them.",
+      "answer": "aota"
+    },
+    {
+      "question": "Take the last letters of each words in \"Adrian Marlon Karla Florence\" and concatenate them.",
+      "answer": "nnae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Skyler Oliver Cristy Sierra\" and concatenate them.",
+      "answer": "rrya"
+    },
+    {
+      "question": "Take the last letters of each words in \"Barbie Desiree Yaneth Dre\" and concatenate them.",
+      "answer": "eehe"
+    },
+    {
+      "question": "Take the last letters of each words in \"Dan Ruth Xavier Isidro\" and concatenate them.",
+      "answer": "nhro"
+    },
+    {
+      "question": "Take the last letters of each words in \"Philip Antony Iris Alicia\" and concatenate them.",
+      "answer": "pysa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Corey Elvin Tino Melvin\" and concatenate them.",
+      "answer": "ynon"
+    }
+  ]
+}

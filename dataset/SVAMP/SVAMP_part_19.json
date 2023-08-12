@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-181",
+    "Body": "For the walls of the house he would use 13 large planks of wood. If each plank of wood needs 17 pieces of nails to be secured and in addition 8 nails are needed for some smaller planks.",
+    "Question": "How many nails does John need for the house wall?",
+    "Equation": "( ( 13.0 * 17.0 ) + 8.0 )",
+    "Answer": 229.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-182",
+    "Body": "A grocery store had 54 bottles of diet soda, 83 bottles of regular soda and 12 apples.",
+    "Question": "How many more bottles of regular soda than diet soda did they have?",
+    "Equation": "( 83.0 - 54.0 )",
+    "Answer": 29.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-183",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food. If 269 students suggested adding bacon 330 suggested adding mashed potatoes to the menu and 76 suggested adding tomatoes",
+    "Question": "How many more students suggested mashed potatoes than those that suggested bacon?",
+    "Equation": "( 330.0 - 269.0 )",
+    "Answer": 61.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-184",
+    "Body": "Brenda's mother made cookies for 14. If each of them had 30 cookies",
+    "Question": "How many cookies did she prepare?",
+    "Equation": "( 14.0 * 30.0 )",
+    "Answer": 420.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-185",
+    "Body": "Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left.",
+    "Question": "How many more apps did he delete than he added?",
+    "Equation": "( 15.0 - 14.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-186",
+    "Body": "Kelly has 106 nintendo games.",
+    "Question": "How many will she have left if she gives away 64 games?",
+    "Equation": "( 106.0 - 64.0 )",
+    "Answer": 42.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-187",
+    "Body": "Matthew had 15 crackers. If Matthew gave equal numbers of crackers to his 5 friends and still had 10 crackers left",
+    "Question": "How many crackers did each friend eat?",
+    "Equation": "( ( 15.0 - 10.0 ) / 5.0 )",
+    "Answer": 1.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-188",
+    "Body": "Last week Fred had 114 dollars and Jason had 22 dollars. They washed cars over the weekend and now Fred has 21 dollars and Jason has 78 dollars.",
+    "Question": "How much money did Jason make over the weekend?",
+    "Equation": "( 78.0 - 22.0 )",
+    "Answer": 56.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-189",
+    "Body": "Frank had 42 pieces of candy. If he put them equally into 2 bags",
+    "Question": "How many pieces of candy are in each bag?",
+    "Equation": "( 42.0 / 2.0 )",
+    "Answer": 21.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-190",
+    "Body": "Jack received 6 emails in the morning and 2 emails in the afternoon.",
+    "Question": "How many more emails did Jack receive in the morning than in the afternoon?",
+    "Equation": "( 6.0 - 2.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  }
+]

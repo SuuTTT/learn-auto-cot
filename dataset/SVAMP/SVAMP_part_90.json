@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-891",
+    "Body": "A farmer had 177 tomatoes and 12 potatoes in his garden. If he picked 53 tomatoes",
+    "Question": "How many tomatoes and potatoes does he have left?",
+    "Equation": "( ( 177.0 + 12.0 ) - 53.0 )",
+    "Answer": 136.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-892",
+    "Body": "7 red peaches, 71 yellow peaches and 8 green peaches are in the basket.",
+    "Question": "How many more green peaches than red peaches are in the basket?",
+    "Equation": "( 8.0 - 7.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-893",
+    "Body": "52 campers went rowing in the morning. 61 campers went rowing in the afternoon.",
+    "Question": "How many more campers went rowing in the afternoon than in the morning?",
+    "Equation": "( 61.0 - 52.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-894",
+    "Body": "There were 13 roses and 84 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 91 orchids and 14 roses in the vase.",
+    "Question": "How many roses did she cut?",
+    "Equation": "( 14.0 - 13.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-895",
+    "Body": "Debby bought some water bottles when they were on sale. She drank 109 bottles a day. If the bottles lasted for 74 days",
+    "Question": "How many bottles had she bought?",
+    "Equation": "( 109.0 * 74.0 )",
+    "Answer": 8066.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-896",
+    "Body": "Edward spent $ 6 to buy 2 books each book costing him the same amount of money. Now he has $ 12.",
+    "Question": "How much did each book cost?",
+    "Equation": "( 6.0 / 2.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-897",
+    "Body": "Robin has 28 packages of gum and 14 packages of candy. There are 6 pieces in each package.",
+    "Question": "How many pieces does Robin have?",
+    "Equation": "( ( 28.0 + 14.0 ) / 6.0 )",
+    "Answer": 7.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-898",
+    "Body": "There are 17 different movies and 11 different books in the ' crazy silly school ' series. If you read 13 of the books and watched 63 of the movies",
+    "Question": "How many more movies than books are there in the ' crazy silly school ' series?",
+    "Equation": "( 17.0 - 11.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-899",
+    "Body": "Jack received 5 emails in the morning, 8 emails in the afternoon and 72 emails in the evening.",
+    "Question": "How many emails did Jack receive in the morning and afternoon?",
+    "Equation": "( 5.0 + 8.0 )",
+    "Answer": 13.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-900",
+    "Body": "Randy uses 36 blocks to build a tower. If he had 59 blocks",
+    "Question": "How many blocks are left?",
+    "Equation": "( 59.0 - 36.0 )",
+    "Answer": 23.0,
+    "Type": "Subtraction"
+  }
+]

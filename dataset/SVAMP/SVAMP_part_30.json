@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-291",
+    "Body": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 197 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 66 chocolate chip cookies this morning.",
+    "Question": "How many more chocolate chip cookies did Helen bake yesterday compared to today?",
+    "Equation": "( 197.0 - 66.0 )",
+    "Answer": 131.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-292",
+    "Body": "Jake has 18 fewer peaches than Steven who has 13 more peaches than Jill. Steven has 19 peaches.",
+    "Question": "How many peaches does Jill have?",
+    "Equation": "( 19.0 - 13.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-293",
+    "Body": "Lucy went to the grocery store. She bought 23 packs of cookie and some packs of cake. In total she had 27 packs of grocery",
+    "Question": "How many packs of cake did she buy in all?",
+    "Equation": "( 27.0 - 23.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-294",
+    "Body": "Every day Ryan spends 6 hours on learning english 3 hours on learning chinese and 58 hours on learning spanish.",
+    "Question": "How many more hours does he spend on learning english than he does on learning chinese?",
+    "Equation": "( 6.0 - 3.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-295",
+    "Body": "A book has 2 chapters. The first chapter is 48 pages long. The second chapter is 11 pages long.",
+    "Question": "How many more pages does the first chapter have than the second chapter?",
+    "Equation": "( 48.0 - 11.0 )",
+    "Answer": 37.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-296",
+    "Body": "6 green peaches, 60 yellow peaches and 2 red peaches are in the basket.",
+    "Question": "How many more green peaches than red peaches are in the basket?",
+    "Equation": "( 6.0 - 2.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-297",
+    "Body": "Debby drinks 6 bottles a day. If she bought a total of 12 water bottles",
+    "Question": "How many days would they last her?",
+    "Equation": "( 12.0 / 6.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-298",
+    "Body": "There were 22 parents in the program and 676 people in total.",
+    "Question": "How many pupils were present in the program?",
+    "Equation": "( 676.0 - 22.0 )",
+    "Answer": 654.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-299",
+    "Body": "Julia played tag with 17 kids on monday, 15 kids on tuesday and 2 kids on wednesday.",
+    "Question": "How many kids did she play with altogether?",
+    "Equation": "( ( 17.0 + 15.0 ) + 2.0 )",
+    "Answer": 34.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-300",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 25 inches. The frog jumped 18 inches farther than the grasshopper and the mouse jumped 2 inches farther than the frog.",
+    "Question": "How far did the mouse jump?",
+    "Equation": "( ( 25.0 + 18.0 ) + 2.0 )",
+    "Answer": 45.0,
+    "Type": "Addition"
+  }
+]

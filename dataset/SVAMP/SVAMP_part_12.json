@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-111",
+    "Body": "You had 26 bags with equal number of cookies. If you had 15 candies and 52 cookies in total",
+    "Question": "How many cookies does each bag have?",
+    "Equation": "( 52.0 / 26.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-112",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 38 sacks per day and that each sack containes 42 oranges.",
+    "Question": "How many sacks of oranges will they have after 49 days of harvest?",
+    "Equation": "( 38.0 * 49.0 )",
+    "Answer": 1862.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-113",
+    "Body": "There were 16 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 7 orchids and 13 roses in the vase.",
+    "Question": "How many orchids did she cut?",
+    "Equation": "( 7.0 - 3.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-114",
+    "Body": "Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening.",
+    "Question": "How many more emails did Jack receive in the afternoon than in the evening?",
+    "Equation": "( 5.0 - 4.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-115",
+    "Body": "Faye was placing her pencils into rows with 22 pencils in each row. She had 6 packs of pencils each one having 14 pencils.",
+    "Question": "How many pencils does she have?",
+    "Equation": "( 6.0 * 14.0 )",
+    "Answer": 84.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-116",
+    "Body": "A farmer had 160 tomatoes in his garden. If he picked 56 of them yesterday and 41 today.",
+    "Question": "How many did he have left after yesterday's picking?",
+    "Equation": "( 160.0 - 56.0 )",
+    "Answer": 104.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-117",
+    "Body": "Each pot has 40 flowers in it. There are 400 flowers in total.",
+    "Question": "How many pots are there in all?",
+    "Equation": "( 400.0 / 40.0 )",
+    "Answer": 10.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-118",
+    "Body": "15 campers went rowing in the morning. Some more campers went rowing in the afternoon. If a total of 32 campers went rowing that day",
+    "Question": "How many campers went rowing in the afternoon?",
+    "Equation": "( 32.0 - 15.0 )",
+    "Answer": 17.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-119",
+    "Body": "Because of the decision Sofia asked the students to suggest specific types of food. If 479 students suggested adding mashed potatoes while 489 suggested adding bacon to the menu",
+    "Question": "How many more students suggested bacon than those that suggested mashed potatoes?",
+    "Equation": "( 489.0 - 479.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-120",
+    "Body": "Ed had 5 more marbles than Doug. Doug lost 3 of his marbles at the playground. If Ed had 27 marbles",
+    "Question": "How many marbles did Doug have initially?",
+    "Equation": "( 27.0 - 5.0 )",
+    "Answer": 22.0,
+    "Type": "Subtraction"
+  }
+]

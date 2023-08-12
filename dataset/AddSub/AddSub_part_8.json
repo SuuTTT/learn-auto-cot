@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 71,
+    "lEquations": [
+      "X = 8 - 2"
+    ],
+    "lSolutions": [
+      "6"
+    ],
+    "sQuestion": "Joan has 8 orange balloons but lost 2 of them . How many orange balloons does Joan have now ? "
+  },
+  {
+    "iIndex": 72,
+    "lEquations": [
+      "X = 7 - 3"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "Fred had 7 dimes in his bank . His sister borrowed 3 of his dimes . How many dimes does Fred have now ? "
+  },
+  {
+    "iIndex": 73,
+    "lEquations": [
+      "X = 8 - 2"
+    ],
+    "lSolutions": [
+      "6"
+    ],
+    "sQuestion": "Joan 's cat had 8 kittens . She gave 2 to her friends . How many kittens does she have now ? "
+  },
+  {
+    "iIndex": 74,
+    "lEquations": [
+      "X = 34 + 49"
+    ],
+    "lSolutions": [
+      "83"
+    ],
+    "sQuestion": "There are 34 dogwood trees currently in the park . Park workers will plant 49 dogwood trees today . How many dogwood trees will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 75,
+    "lEquations": [
+      "X = 27 + 45"
+    ],
+    "lSolutions": [
+      "72"
+    ],
+    "sQuestion": "There are 27 pencils in the drawer . Nancy placed 45 pencils in the drawer . How many pencils are now there in total ? "
+  },
+  {
+    "iIndex": 76,
+    "lEquations": [
+      "X = 35 - 18"
+    ],
+    "lSolutions": [
+      "17"
+    ],
+    "sQuestion": "Sam found 35 seashells on the beach , he gave Joan 18 of the seashells . How many seashells does he now have ? "
+  },
+  {
+    "iIndex": 77,
+    "lEquations": [
+      "X = 22 + 20"
+    ],
+    "lSolutions": [
+      "42"
+    ],
+    "sQuestion": "Tim has 22 books . Mike has 20 books . How many books do they have together ? "
+  },
+  {
+    "iIndex": 78,
+    "lEquations": [
+      "X = 87 - 13"
+    ],
+    "lSolutions": [
+      "74"
+    ],
+    "sQuestion": "Mike has 87 baseball cards . Sam bought 13 of Mike 's baseball cards . How many baseball cards does Mike have now ? "
+  },
+  {
+    "iIndex": 79,
+    "lEquations": [
+      "X = 51 + 23"
+    ],
+    "lSolutions": [
+      "74"
+    ],
+    "sQuestion": "Sandy grew 51 pumpkins . Mike grew 23 pumpkins . How many pumpkins did they grow in total ? "
+  },
+  {
+    "iIndex": 80,
+    "lEquations": [
+      "X = 44 + 52"
+    ],
+    "lSolutions": [
+      "96"
+    ],
+    "sQuestion": "Tim has 44 books . Sam has 52 books . How many books do they have together ? "
+  }
+]

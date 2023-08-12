@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 251,
+    "lEquations": [
+      "X = 2.3333333333333335 - 1.0"
+    ],
+    "lSolutions": [
+      "1.3333333333333333"
+    ],
+    "sQuestion": "Irene just bought a new lamp for her bedside table . The old lamp was 1 foot tall and the new lamp is 2.3333333333333335 feet tall . How much taller is the new lamp than the old lamp ? "
+  },
+  {
+    "iIndex": 252,
+    "lEquations": [
+      "X = 7.666666666666667 - 3.3333333333333335"
+    ],
+    "lSolutions": [
+      "4.333333333333333"
+    ],
+    "sQuestion": "Ezra drew a white line that was 7.666666666666667 inches long . Then he drew a blue line that was 3.3333333333333335 inches long . How much longer was the white line than the blue line ? "
+  },
+  {
+    "iIndex": 253,
+    "lEquations": [
+      "X = 7.75 + 7.0"
+    ],
+    "lSolutions": [
+      "14.75"
+    ],
+    "sQuestion": "There are 7.75 gallons of water in Becky 's fish tank . If Becky adds 7 gallons more , how many gallons will there be in all ? "
+  },
+  {
+    "iIndex": 254,
+    "lEquations": [
+      "X = 19.833333333333332 - 9.166666666666666"
+    ],
+    "lSolutions": [
+      "10.666666666666666"
+    ],
+    "sQuestion": "Wendy ran 19.833333333333332 miles and walked 9.166666666666666 miles . How much farther did Wendy run than walk ? "
+  },
+  {
+    "iIndex": 255,
+    "lEquations": [
+      "X = 0.6 - 0.4"
+    ],
+    "lSolutions": [
+      "0.2"
+    ],
+    "sQuestion": "Kenji and his classmates placed colored blocks on a scale during a science lab . The yellow block weighed 0.6 pounds and the green block weighed 0.4 pounds . How much more did the yellow block weigh than the green block ? "
+  },
+  {
+    "iIndex": 256,
+    "lEquations": [
+      "X = 8.2 + 1.6"
+    ],
+    "lSolutions": [
+      "9.8"
+    ],
+    "sQuestion": "Terrell hiked 8.2 miles on Saturday . Then , on Sunday , he hiked another 1.6 miles . How far did Terrell hike all together ? "
+  },
+  {
+    "iIndex": 257,
+    "lEquations": [
+      "X = 0.41 - 0.33"
+    ],
+    "lSolutions": [
+      "0.08"
+    ],
+    "sQuestion": "A carpenter bought a piece of wood that was 0.41 meters long . Then she sawed 0.33 meters off the end . How long is the piece of wood now ? "
+  },
+  {
+    "iIndex": 258,
+    "lEquations": [
+      "X = 0.1 + 0.4"
+    ],
+    "lSolutions": [
+      "0.5"
+    ],
+    "sQuestion": "Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins . How many pounds of snacks did she buy in all ? "
+  },
+  {
+    "iIndex": 259,
+    "lEquations": [
+      "X = 9.91 + 4.11"
+    ],
+    "lSolutions": [
+      "14.02"
+    ],
+    "sQuestion": "Kevin bought 2 watermelons . The first watermelon was 9.91 pounds , and the second watermelon was 4.11 pounds . How many pounds of watermelon did Kevin buy ? "
+  },
+  {
+    "iIndex": 260,
+    "lEquations": [
+      "X = 0.81 - 0.35"
+    ],
+    "lSolutions": [
+      "0.46"
+    ],
+    "sQuestion": "In March it rained 0.81 inches . It rained 0.35 inches less in April than in March . How much did it rain in April ? "
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-851",
+    "Body": "The Razorback shop makes $ 62 dollars off each t-shirt and $ 99 off each jersey. During the Arkansas and Texas tech game they sold 183 t-shirts and 31 jerseys.",
+    "Question": "How much money did they make from selling the t-shirts?",
+    "Equation": "( 62.0 * 183.0 )",
+    "Answer": 11346.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-852",
+    "Body": "David did 30 more push-ups than Zachary in gym class today. If David did 37 push-ups",
+    "Question": "How many push-ups did Zachary do?",
+    "Equation": "( 37.0 - 30.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-853",
+    "Body": "Marco and his dad went strawberry picking. Marco's strawberries weighed 30 pounds. If together their strawberries weighed 47 pounds.",
+    "Question": "How much more did his strawberries weigh than his dad's?",
+    "Equation": "( 30.0 - ( 47.0 - 30.0 ) )",
+    "Answer": 13.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-854",
+    "Body": "Faye was placing her pencils and crayons into 16 rows with 6 crayons and 21 pencils in each row.",
+    "Question": "How many crayons does she have?",
+    "Equation": "( 16.0 * 6.0 )",
+    "Answer": 96.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-855",
+    "Body": "Jack received 3 emails in the morning, 4 emails in the afternoon and 8 emails in the evening.",
+    "Question": "How many emails did Jack receive in the morning and evening?",
+    "Equation": "( 3.0 + 8.0 )",
+    "Answer": 11.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-856",
+    "Body": "Jesse's room is 7 feet long. If she needs a carpet of size 14 square feet",
+    "Question": "What is the width of her room?",
+    "Equation": "( 14.0 / 7.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-857",
+    "Body": "Debby bought 264 water bottles when they were on sale. If she drank 15 bottles a day for 11 days.",
+    "Question": "How many bottles does she have left?",
+    "Equation": "( 264.0 - ( 15.0 * 11.0 ) )",
+    "Answer": 99.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-858",
+    "Body": "33 campers went rowing in the morning 34 campers went rowing in the afternoon and 10 campers went rowing in the evening.",
+    "Question": "How many more campers went rowing in the afternoon than in the evening?",
+    "Equation": "( 34.0 - 10.0 )",
+    "Answer": 24.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-859",
+    "Body": "Bryan took a look at his books and magazines. If he has 23 books and 61 magazines in each of his 29 bookshelves",
+    "Question": "How many books and magazines does he have in total?",
+    "Equation": "( ( 23.0 + 61.0 ) * 29.0 )",
+    "Answer": 2436.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-860",
+    "Body": "Faye was placing her pencils and crayons into 7 rows with 36 pencils and 30 crayons in each row.",
+    "Question": "How many crayons does she have?",
+    "Equation": "( 7.0 * 30.0 )",
+    "Answer": 210.0,
+    "Type": "Multiplication"
+  }
+]

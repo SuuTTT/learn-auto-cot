@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-151",
+    "Body": "After resting they decided to go for a swim. The depth of the water is 2 times Dean's height. Dean is 8 feet shorter than Ron. If Ron stands at 14 feet",
+    "Question": "How deep was the water?",
+    "Equation": "( ( 14.0 - 8.0 ) * 2.0 )",
+    "Answer": 12.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-152",
+    "Body": "There are 544 pots in each of the 10 gardens. Each pot has 32 flowers in it.",
+    "Question": "How many flowers are there in all?",
+    "Equation": "( ( 544.0 * 10 ) * 32.0 )",
+    "Answer": 174080.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-153",
+    "Body": "Paige was helping her mom plant flowers and together they planted some seeds. They put 10 seeds in each flower bed. If there are 45 flowerbeds",
+    "Question": "How many seeds did they plant?",
+    "Equation": "( 10.0 * 45.0 )",
+    "Answer": 450.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-154",
+    "Body": "Marco and his dad went strawberry picking. Together their strawberries weighed 4 pounds. Marco's strawberries weighed 19 pounds.",
+    "Question": "How much more did his strawberries weigh than his dad's?",
+    "Equation": "( 19.0 - ( 4.0 - 19.0 ) )",
+    "Answer": 34.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-155",
+    "Body": "Julia played tag with 4 kids on wednesday. She had played with 6 kids on monday and 17 kids on tuesday.",
+    "Question": "How many more kids did she play with on monday than on wednesday?",
+    "Equation": "( 6.0 - 4.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-156",
+    "Body": "Carol was sending out birthday invitations to 10 friends. If each package of invitations she bought had 2 invitations in it",
+    "Question": "How many packs does she need so that no friend gets left out?",
+    "Equation": "( 10.0 / 2.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-157",
+    "Body": "A grocery store had 36 apples, 80 bottles of regular soda and 54 bottles of diet soda.",
+    "Question": "How many more bottles than apple did they have?",
+    "Equation": "( ( 80.0 + 54.0 ) - 36.0 )",
+    "Answer": 98.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-158",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 14 inches. The mouse jumped 16 inches lesser than the frog who jumped 37 inches farther than the grasshopper.",
+    "Question": "How much farther did the mouse jump than the grasshopper?",
+    "Equation": "( 37.0 - 16.0 )",
+    "Answer": 21.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-159",
+    "Body": "Faye was placing her pencils and crayons into 11 rows with 31 pencils and 27 crayons in each row.",
+    "Question": "How many pencils and crayons does she have altogether?",
+    "Equation": "( ( 31.0 + 27.0 ) * 11.0 )",
+    "Answer": 638.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-160",
+    "Body": "The school is planning a field trip. The school has 87 classrooms. There are 58 students in the school with each classroom having the same number of students. If there are 2 seats on each school bus.",
+    "Question": "How many buses are needed to take the trip?",
+    "Equation": "( 58.0 / 2.0 )",
+    "Answer": 29.0,
+    "Type": "Common-Division"
+  }
+]

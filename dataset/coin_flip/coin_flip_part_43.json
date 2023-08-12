@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "A coin is heads up. Leon does not flip the coin. Payton flips the coin. Stefan flips the coin. Javi flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".",
+      "answer": "no"
+    },
+    {
+      "question": "A coin is heads up. Marcos does not flip the coin. Kerri flips the coin. Fabio flips the coin. Stephen flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".",
+      "answer": "no"
+    },
+    {
+      "question": "A coin is heads up. Earl flips the coin. Rudy does not flip the coin. Harrison flips the coin. Nadine does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".",
+      "answer": "yes"
+    },
+    {
+      "question": "A coin is heads up. Andres does not flip the coin. Mary Ann does not flip the coin. Sydney flips the coin. Dina does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".",
+      "answer": "no"
+    },
+    {
+      "question": "A coin is heads up. Rohan flips the coin. Antoinette does not flip the coin. Nikki flips the coin. Aida does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".",
+      "answer": "yes"
+    },
+    {
+      "question": "A coin is heads up. Braulio flips the coin. Staci does not flip the coin. Jocelyn does not flip the coin. Brittany flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".",
+      "answer": "yes"
+    },
+    {
+      "question": "A coin is heads up. Clayton does not flip the coin. Edison flips the coin. Debbie flips the coin. Elvira does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".",
+      "answer": "yes"
+    },
+    {
+      "question": "A coin is heads up. Britt does not flip the coin. Tamara does not flip the coin. Elvis flips the coin. Nayeli does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".",
+      "answer": "no"
+    },
+    {
+      "question": "A coin is heads up. Cristina flips the coin. Saad does not flip the coin. Bridget does not flip the coin. Katie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".",
+      "answer": "yes"
+    },
+    {
+      "question": "A coin is heads up. Stella does not flip the coin. Janis flips the coin. Darren flips the coin. Lena does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".",
+      "answer": "yes"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 201,
+    "lEquations": [
+      "X = 0.8333333333333334 - 0.5"
+    ],
+    "lSolutions": [
+      "0.3333333333333333"
+    ],
+    "sQuestion": "At the beach , Miki and her sister both built sandcastles and then measured their heights . Miki 's sandcastle was 0.8333333333333334 foot tall and her sister 's was 0.5 foot tall . How much taller was Miki 's sandcastle than her sister 's ? "
+  },
+  {
+    "iIndex": 202,
+    "lEquations": [
+      "X = 0.5 - 0.16666666666666666"
+    ],
+    "lSolutions": [
+      "0.3333333333333333"
+    ],
+    "sQuestion": "Michelle began her pizza delivery route with 0.5 tank of gas in her car . When she made it back to the pizzeria , 0.16666666666666666 tank of gas was . How much gas did Michelle use ? "
+  },
+  {
+    "iIndex": 203,
+    "lEquations": [
+      "X = 0.4 - 0.3"
+    ],
+    "lSolutions": [
+      "0.1"
+    ],
+    "sQuestion": "While taking inventory at her pastry shop , Kelly realizes that she had 0.4 box of baking powder yesterday , but the supply is now down to 0.3 box . How much more baking powder did Kelly have yesterday ? "
+  },
+  {
+    "iIndex": 204,
+    "lEquations": [
+      "X = 0.2 + 0.7"
+    ],
+    "lSolutions": [
+      "0.9"
+    ],
+    "sQuestion": "Craig walked 0.2 mile from school to David 's house and 0.7 mile from David 's house to his own house . How many miles did Craig walk in all ? "
+  },
+  {
+    "iIndex": 205,
+    "lEquations": [
+      "X = 0.4 - 0.1"
+    ],
+    "lSolutions": [
+      "0.3"
+    ],
+    "sQuestion": "Greg and Sharon own neighboring cornfields . Greg harvested 0.4 acre of corn on Monday and Sharon harvested 0.1 acre . How many more acres did Greg harvest than Sharon ? "
+  },
+  {
+    "iIndex": 206,
+    "lEquations": [
+      "X = 0.25 + 0.5"
+    ],
+    "lSolutions": [
+      "0.75"
+    ],
+    "sQuestion": "At the hardware store , 0.25 the nails are size 2d and 0.5 the nails are size 4d . What fraction of the nails are either size 2d or 4d ? "
+  },
+  {
+    "iIndex": 207,
+    "lEquations": [
+      "X = 0.625 - 0.25"
+    ],
+    "lSolutions": [
+      "0.375"
+    ],
+    "sQuestion": "While making desserts for a bake sale , Victor used 0.625 scoop of brown sugar as well as 0.25 scoop of white sugar . How much more brown sugar did Victor use ? "
+  },
+  {
+    "iIndex": 208,
+    "lEquations": [
+      "X = 0.7 - 0.6"
+    ],
+    "lSolutions": [
+      "0.1"
+    ],
+    "sQuestion": "Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ? "
+  },
+  {
+    "iIndex": 209,
+    "lEquations": [
+      "X = 0.3 + 0.4"
+    ],
+    "lSolutions": [
+      "0.7"
+    ],
+    "sQuestion": "Jonah added 0.3 cup of yellow raisins and 0.4 cup of black raisins to a batch of trail mix . How many cups of raisins did Jonah add in all ? "
+  },
+  {
+    "iIndex": 210,
+    "lEquations": [
+      "X = 0.9 - 0.5"
+    ],
+    "lSolutions": [
+      "0.4"
+    ],
+    "sQuestion": "When Jake had 1 cat , he needed to serve 0.5 can of cat food each day . Now that Jake has adopted a second cat , he needs to serve a total of 0.9 can each day . How much extra food is needed to feed the second cat ? "
+  }
+]

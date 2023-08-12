@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-161",
+    "Body": "Emily is making bead necklaces for her friends. She had 2 beads and she was able to make 32 necklaces.",
+    "Question": "How many beads did each necklace need?",
+    "Equation": "( 32.0 / 2.0 )",
+    "Answer": 16.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-162",
+    "Body": "Paige raised 7 goldfish and 12 catfish in the pond but stray cats loved eating them. Now she has 15 left.",
+    "Question": "How many fishes disappeared?",
+    "Equation": "( ( 7.0 + 12.0 ) - 15.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-163",
+    "Body": "Paco had 40 sweet cookies and 25 salty cookies. He ate 28 salty cookies and 15 sweet cookies.",
+    "Question": "How many more salty cookies than sweet cookies did he eat?",
+    "Equation": "( 28.0 - 15.0 )",
+    "Answer": 13.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-164",
+    "Body": "Steven has 14 peaches. Jake has 6 fewer peaches than Steven and 3 more peaches than Jill.",
+    "Question": "How many peaches does Jill have?",
+    "Equation": "( ( 14.0 - 6.0 ) - 3.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-165",
+    "Body": "Paul had 115 books. He sold 78 books in a garage sale.",
+    "Question": "How many books does he have left with him?",
+    "Equation": "( 115.0 - 78.0 )",
+    "Answer": 37.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-166",
+    "Body": "An industrial machine made 13 shirts yesterday and 3 shirts today. It can make 8 shirts a minute.",
+    "Question": "How many minutes did the machine work in all?",
+    "Equation": "( ( 13.0 + 3.0 ) / 8.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-167",
+    "Body": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 14 invitations in it and she bought 6 packs. Then she bought 11 extra invitations.",
+    "Question": "How many friends can she invite?",
+    "Equation": "( ( 14.0 * 6.0 ) + 11.0 )",
+    "Answer": 95.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-168",
+    "Body": "An industrial machine can make 3 shirts per minute. It made 6 shirts in all.",
+    "Question": "How many minutes was the machine working?",
+    "Equation": "( 6.0 / 3.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-169",
+    "Body": "Danny collects bottle caps. He found 63 bottle caps at the park while he threw away 51 old ones. Now he has 33 bottle caps in his collection.",
+    "Question": "How many bottle caps did danny have at first?",
+    "Equation": "( ( 33.0 + 51.0 ) - 63.0 )",
+    "Answer": 21.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-170",
+    "Body": "A grocery store had 67 bottles of regular soda and 9 bottles of diet soda.",
+    "Question": "How many more bottles of regular soda than diet soda did they have?",
+    "Equation": "( 67.0 - 9.0 )",
+    "Answer": 58.0,
+    "Type": "Subtraction"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-231",
+    "Body": "Danny collects bottle caps and wrappers. He found 30 bottle caps and 14 wrappers at the park. Now he has 7 bottle caps and 86 wrappers in his collection.",
+    "Question": "How many more bottle caps than wrappers did danny find at the park?",
+    "Equation": "( 30.0 - 14.0 )",
+    "Answer": 16.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-232",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 8 sacks per day and that each sack containes 35 oranges.",
+    "Question": "How many oranges do they harvest per day?",
+    "Equation": "( 8.0 * 35.0 )",
+    "Answer": 280.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-233",
+    "Body": "Edward spent $ 16 to buy books and $ 8 to buy pens. Now he has $ 19.",
+    "Question": "How much more did Edward spend on books than pens?",
+    "Equation": "( 16.0 - 8.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-234",
+    "Body": "Emily is making bead necklaces for her friends. Each necklace takes 8 beads and she has 16 beads.",
+    "Question": "How many necklaces can Emily make?",
+    "Equation": "( 16.0 / 8.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-235",
+    "Body": "Dan has $ 4. He had $ 3 left with him after he bought a candy bar.",
+    "Question": "How much did the candy bar cost?",
+    "Equation": "( 4.0 - 3.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-236",
+    "Body": "Paul got a box of 253 crayons for his birthday. By the end of the school year he had either lost or given away 70 of them.",
+    "Question": "How many crayons did he have left by the end of the school year?",
+    "Equation": "( 253.0 - 70.0 )",
+    "Answer": 183.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-237",
+    "Body": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 144 chocolate chip cookies and 397 raisin cookies yesterday. And she baked 85 raisin cookies and 403 chocolate chip cookies this morning.",
+    "Question": "How many raisin cookies did Helen bake?",
+    "Equation": "( 397.0 + 85.0 )",
+    "Answer": 482.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-238",
+    "Body": "Rachel picked 2 ripe apples from her tree. Now the tree has 7 apples still on it. If 6 of those are ripe and the rest are unripe",
+    "Question": "How many ripe apples did the tree have to begin with?",
+    "Equation": "( 2.0 + 6.0 )",
+    "Answer": 8.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-239",
+    "Body": "An industrial machine made 9 shirts yesterday and 44 shirts today. It can make 3 shirts a minute.",
+    "Question": "How many minutes did the machine work yesterday?",
+    "Equation": "( 9.0 / 3.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-240",
+    "Body": "Zachary did 51 push-ups in gym class today. David did 22 more push-ups than Zachary. John did 4 push-ups less than David.",
+    "Question": "How many push-ups did John do?",
+    "Equation": "( ( 51.0 + 22.0 ) - 4.0 )",
+    "Answer": 69.0,
+    "Type": "Subtraction"
+  }
+]

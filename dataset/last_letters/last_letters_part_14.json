@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Leticia Jacinto Natasha Raphael\" and concatenate them.",
+      "answer": "aoal"
+    },
+    {
+      "question": "Take the last letters of each words in \"Mickey Dom Lilly Eloy\" and concatenate them.",
+      "answer": "ymyy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Timmy Katherine Gabriel Nate\" and concatenate them.",
+      "answer": "yele"
+    },
+    {
+      "question": "Take the last letters of each words in \"Raymundo Jonathon Lexi Rony\" and concatenate them.",
+      "answer": "oniy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Amy Ella Amilcar Roman\" and concatenate them.",
+      "answer": "yarn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Bailey Lourdes Brianna Mart\u00edn\" and concatenate them.",
+      "answer": "ysan"
+    },
+    {
+      "question": "Take the last letters of each words in \"Daniella Dianne Ram Mirian\" and concatenate them.",
+      "answer": "aemn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Rosie Charlie Mick Jacquelyn\" and concatenate them.",
+      "answer": "eekn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ericka Aly Darius Reed\" and concatenate them.",
+      "answer": "aysd"
+    },
+    {
+      "question": "Take the last letters of each words in \"Glenda Beverly Agustin Igor\" and concatenate them.",
+      "answer": "aynr"
+    }
+  ]
+}

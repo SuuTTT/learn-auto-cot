@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-741",
+    "Body": "He had a total of 40 saltwater animals in different aquariums. Each aquarium has 2 animals in it.",
+    "Question": "How many aquariums did he have?",
+    "Equation": "( 40.0 / 2.0 )",
+    "Answer": 20.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-742",
+    "Body": "Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese. If he learns for 5 days",
+    "Question": "How many hours does he spend on learning english and chinese in all?",
+    "Equation": "( ( 6.0 + 7.0 ) * 5.0 )",
+    "Answer": 65.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-743",
+    "Body": "Rachel picked 7 apples from her tree. Thereafter 2 new apples grew on the tree. Now the tree has 6 apples still on it.",
+    "Question": "How many apples did the tree have to begin with?",
+    "Equation": "( ( 6.0 - 2.0 ) + 7.0 )",
+    "Answer": 11.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-744",
+    "Body": "There were 8 people on the bus. At the next stop 12 more people got on the bus and 3 people got off.",
+    "Question": "How many people are there on the bus now?",
+    "Equation": "( ( 8.0 + 12.0 ) - 3.0 )",
+    "Answer": 17.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-745",
+    "Body": "Dave had 15 apps and 24 files on his phone. After deleting some apps and files he had 21 apps and 4 files left.",
+    "Question": "How many more apps than files does he have left on the phone?",
+    "Equation": "( 21.0 - 4.0 )",
+    "Answer": 17.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-746",
+    "Body": "Baker made 173 cakes. He bought 103 new cakes and sold 86 cakes.",
+    "Question": "How many cakes does baker still have?",
+    "Equation": "( ( 173.0 - 86.0 ) + 103.0 )",
+    "Answer": 190.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-747",
+    "Body": "Mary is baking a cake. The recipe calls for 11 cups of sugar 6 cups of flour and 9 cups of salt. She already put in 12 cups of flour.",
+    "Question": "How many more cups of sugar than cups of salt does she need to add now?",
+    "Equation": "( 11.0 - 9.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-748",
+    "Body": "Ryan learns english and chinese for 7 days. Every day he spends 4 hours on learning english and 5 hours on learning chinese.",
+    "Question": "How many hours does he spend on learning english and chinese in all?",
+    "Equation": "( ( 4.0 + 5.0 ) * 7.0 )",
+    "Answer": 63.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-749",
+    "Body": "Dan has $ 7. He bought a candy bar for $ 2 and a chocolate for $ 3.",
+    "Question": "How much money is left?",
+    "Equation": "( 7.0 - ( 2.0 + 3.0 ) )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-750",
+    "Body": "During summer break 61619 kids from Lawrence county stayed home and the rest went to camp. The total number of kids in Lawrence county is 91676.",
+    "Question": "About how many kids in Lawrence county went to camp?",
+    "Equation": "( 91676.0 - 61619.0 )",
+    "Answer": 30057.0,
+    "Type": "Subtraction"
+  }
+]

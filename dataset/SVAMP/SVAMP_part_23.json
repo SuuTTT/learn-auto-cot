@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-221",
+    "Body": "Mary is baking a cake. The recipe calls for 12 cups of flour 5 cups of sugar and 49 cups of salt. She already put in 11 cups of flour.",
+    "Question": "How many more cups of flour does she need to add?",
+    "Equation": "( 12.0 - 11.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-222",
+    "Body": "The Razorback t-shirt shop makes $ 78 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 186 t-shirts. If they sold 172 t-shirts during the Arkansas game",
+    "Question": "How much money did they make from selling the t-shirts during the Texas tech game?",
+    "Equation": "( 78.0 * ( 186.0 - 172.0 ) )",
+    "Answer": 1092.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-223",
+    "Body": "There are 62 different movies and 19 different books in the ' crazy silly school ' series. If you read 4 of the books and watched 34 of the movies",
+    "Question": "How many more books do you still have to read?",
+    "Equation": "( 19.0 - 4.0 )",
+    "Answer": 15.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-224",
+    "Body": "We ordered some pizzas. Each pizza has 2 slices. If there were a total of 28 slices",
+    "Question": "How many pizzas did we order?",
+    "Equation": "( 28.0 / 2.0 )",
+    "Answer": 14.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-225",
+    "Body": "Rebecca wants to split a collection of eggs into groups of 3. Rebecca has 99 bananas 9 eggs and 27 marbles.",
+    "Question": "How many groups will be created?",
+    "Equation": "( 9.0 / 3.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-226",
+    "Body": "41 children were riding on the bus. At the bus stop some children got off the bus. Then there were 18 children left on the bus.",
+    "Question": "How many more children were on the bus before the bus stop than there are now?",
+    "Equation": "( 41.0 - 18.0 )",
+    "Answer": 23.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-227",
+    "Body": "In Haley's class some boys love to play marbles. Haley gives 2 marbles to each boy. If she had 28 marbles",
+    "Question": "How many boys did she give the marbles to?",
+    "Equation": "( 28.0 / 2.0 )",
+    "Answer": 14.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-228",
+    "Body": "Matthew had 14 crackers and 21 cakes. If Matthew gave equal numbers of crackers and cakes to his 7 friends",
+    "Question": "How many crackers and cakes did each person eat?",
+    "Equation": "( ( 14.0 + 21.0 ) / 7.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-229",
+    "Body": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 31 cookies yesterday 270 cookies this morning and 419 cookies the day before yesterday.",
+    "Question": "How many cookies did Helen bake till last night?",
+    "Equation": "( 31.0 + 419.0 )",
+    "Answer": 450.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-230",
+    "Body": "For the walls of the house he would use 4 nails in all to secure large planks of wood. If each plank of wood needs 2 pieces of nails to be secured",
+    "Question": "How many planks does John need for the house wall?",
+    "Equation": "( 4.0 / 2.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  }
+]

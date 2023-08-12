@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 331,
+    "lEquations": [
+      "X = 7 - 2"
+    ],
+    "lSolutions": [
+      "5"
+    ],
+    "sQuestion": "Mary is baking a cake . The recipe calls for 7 cups of flour and 3 cups of sugar . She already put in 2 cups of flour . How many cups of flour does she need to add ? "
+  },
+  {
+    "iIndex": 332,
+    "lEquations": [
+      "23 + X = 86"
+    ],
+    "lSolutions": [
+      "63"
+    ],
+    "sQuestion": "Last week Fred had 23 dollars and Jason had 46 dollars . Fred washed cars over the weekend and now has 86 dollars . How much money did Fred make washing cars ? "
+  },
+  {
+    "iIndex": 333,
+    "lEquations": [
+      "31 + X = 95"
+    ],
+    "lSolutions": [
+      "64"
+    ],
+    "sQuestion": "There are 31 short trees and 32 tall trees currently in the park . Park workers will plant short trees today . When the workers are finished there will be 95 short trees in the park . How many short trees did the workers plant today ? "
+  },
+  {
+    "iIndex": 334,
+    "lEquations": [
+      "9 + X = 15"
+    ],
+    "lSolutions": [
+      "6"
+    ],
+    "sQuestion": "There were 9 red orchids and 3 white orchids in the vase . Sally cut some red orchids from her flower garden . There are now 15 red orchids in the vase . How many red orchids did she cut ? "
+  },
+  {
+    "iIndex": 335,
+    "lEquations": [
+      "24 + X = 61"
+    ],
+    "lSolutions": [
+      "37"
+    ],
+    "sQuestion": "Sara had 24 peaches and 37 pears at her fruit dish . She went to the orchard and picked peaches . There are now 61 peaches . how many did she pick ? "
+  },
+  {
+    "iIndex": 336,
+    "lEquations": [
+      "72 - X = 28"
+    ],
+    "lSolutions": [
+      "44"
+    ],
+    "sQuestion": "Joan found 72 seashells and 12 starfishes on the beach . She gave Alyssa some of her seashells . She has 28 seashell . How many seashells did she give to Alyssa ? "
+  },
+  {
+    "iIndex": 337,
+    "lEquations": [
+      "X = 6 + 3"
+    ],
+    "lSolutions": [
+      "9"
+    ],
+    "sQuestion": "There are 6 pencils and 7 rulers in the drawer . Benny placed 3 pencils in the drawer . How many pencils are now there in total ? "
+  },
+  {
+    "iIndex": 338,
+    "lEquations": [
+      "X = 3 + 4"
+    ],
+    "lSolutions": [
+      "7"
+    ],
+    "sQuestion": "Sara has 3 green and 5 red marbles . Tom has 4 green marbles . How many green marbles do they have in total ? "
+  },
+  {
+    "iIndex": 339,
+    "lEquations": [
+      "X = 8 + 9"
+    ],
+    "lSolutions": [
+      "17"
+    ],
+    "sQuestion": "Joan grew 8 watermelons and 4 turnips . Tom grew 9 watermelons . How many watermelons did they grow in total ? "
+  },
+  {
+    "iIndex": 340,
+    "lEquations": [
+      "X = 2 + 9"
+    ],
+    "lSolutions": [
+      "11"
+    ],
+    "sQuestion": "There are 2 maple trees and 5 popular trees currently in the park . Park workers will plant 9 maple trees today . How many maple trees will the park have when the workers are finished ? "
+  }
+]

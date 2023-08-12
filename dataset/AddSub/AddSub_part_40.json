@@ -1,0 +1,52 @@
+[
+  {
+    "iIndex": 391,
+    "lEquations": [
+      "X = 3 + 9"
+    ],
+    "lSolutions": [
+      "12"
+    ],
+    "sQuestion": "There are 3 short trees and 6 tall trees currently in the park . Park workers will plant 9 short trees today . How many short trees will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 392,
+    "lEquations": [
+      "X = 38 - 18"
+    ],
+    "lSolutions": [
+      "20"
+    ],
+    "sQuestion": "Mary had 21 dimes and 38 pennies in her bank . Her dad borrowed 18 pennies from Mary . How many pennies does she have now ? "
+  },
+  {
+    "iIndex": 393,
+    "lEquations": [
+      "X = 17 + 10"
+    ],
+    "lSolutions": [
+      "27"
+    ],
+    "sQuestion": "Alyssa picked 17 plums and Jason picked 10 plums . Melanie picked 35 pears . How many plums were picked in all ? "
+  },
+  {
+    "iIndex": 394,
+    "lEquations": [
+      "X = 48 + 29"
+    ],
+    "lSolutions": [
+      "77"
+    ],
+    "sQuestion": "There are 48 pencils and 40 scissors in the drawer . Joan placed 29 pencils in the drawer . How many pencils are now there in all ? "
+  },
+  {
+    "iIndex": 395,
+    "lEquations": [
+      "X = 37 + 20"
+    ],
+    "lSolutions": [
+      "57"
+    ],
+    "sQuestion": "There are 37 short bushes and 30 tall trees currently in the park . Park workers will plant 20 short bushes today . How many short bushes will the park have when the workers are finished ? "
+  }
+]

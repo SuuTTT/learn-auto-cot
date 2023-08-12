@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-541",
+    "Body": "Jessie currently weighs 27 kilograms. After she started to go jogging everyday she lost 101 kilograms.",
+    "Question": "How much did she weigh before starting to jog?",
+    "Equation": "( 27.0 + 101.0 )",
+    "Answer": 128.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-542",
+    "Body": "Dan has $ 3 left with him after he bought a candy bar for $ 2.",
+    "Question": "How much money did he have initially?",
+    "Equation": "( 3.0 + 2.0 )",
+    "Answer": 5.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-543",
+    "Body": "Zachary did 53 push-ups and 14 crunches in gym class today. David did 17 more push-ups but 10 less crunches than zachary.",
+    "Question": "How many push-ups and crunches did Zachary do?",
+    "Equation": "( 53.0 + 14.0 )",
+    "Answer": 67.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-544",
+    "Body": "A book has 3 chapters. The first chapter is 91 pages long the second chapter is 23 pages long and the third chapter is 25 pages long.",
+    "Question": "How many more pages does the first chapter have than the second chapter?",
+    "Equation": "( 91.0 - 23.0 )",
+    "Answer": 68.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-545",
+    "Body": "Danny collects bottle caps. He found 36 bottle caps at the park while he threw away 35 old ones. Now he has 22 bottle caps in his collection.",
+    "Question": "How many more bottle caps did danny find at the park than those he threw away?",
+    "Equation": "( 36.0 - 35.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-546",
+    "Body": "Dan has $ 4. For a total of $ 3 he bought 10 candy bar each one costing the same amount of money.",
+    "Question": "How much money is left?",
+    "Equation": "( 4.0 - 3.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-547",
+    "Body": "Mary is baking a cake. The recipe calls for 6 cups of sugar and 9 cups of flour. She already put in 2 cups of flour.",
+    "Question": "How many more cups of flour than cups of sugar does she need to add now?",
+    "Equation": "( ( 9.0 - 2.0 ) - 6.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-548",
+    "Body": "At the zoo, a cage had 95 snakes and 61 alligators. If 64 snakes were hiding",
+    "Question": "How many snakes were not hiding?",
+    "Equation": "( 95.0 - 64.0 )",
+    "Answer": 31.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-549",
+    "Body": "Emily is making bead necklaces for her friends. She was able to make 6 necklaces and she had 18 beads.",
+    "Question": "How many beads did each necklace need?",
+    "Equation": "( 18.0 / 6.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-550",
+    "Body": "Tiffany was collecting cans for recycling. On monday she had 3 bags of cans. The next day she found 7 more bags of cans and 44 bags of bottles.",
+    "Question": "How many bags of cans did she have altogether?",
+    "Equation": "( 3.0 + 7.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  }
+]

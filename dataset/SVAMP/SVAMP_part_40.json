@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-391",
+    "Body": "Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf.",
+    "Question": "How many more books than action figures were on his shelf?",
+    "Equation": "( ( 2.0 + 9.0 ) - 5.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-392",
+    "Body": "Robin's hair was 19 inches long. If he grew 18 more inches",
+    "Question": "How long is his hair now?",
+    "Equation": "( 19.0 + 18.0 )",
+    "Answer": 37.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-393",
+    "Body": "Danny collects bottle caps and wrappers. He found 82 wrappers and 29 bottle caps at the park. Now he has 42 bottle caps and 61 wrappers in his collection.",
+    "Question": "How many bottle caps did danny have at first?",
+    "Equation": "( 42.0 - 29.0 )",
+    "Answer": 13.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-394",
+    "Body": "If you had 4 bags with equal number of cookies and 36 cookies in total",
+    "Question": "How many cookies does each bag have?",
+    "Equation": "( 36.0 / 4.0 )",
+    "Answer": 9.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-395",
+    "Body": "White t - shirts can be purchased in packages of 13. If mom buys 39 white t - shirts",
+    "Question": "How many packages will she have?",
+    "Equation": "( 39.0 / 13.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-396",
+    "Body": "In a school there are 706 girls and 222 boys. 418 more girls joined the school.",
+    "Question": "How many pupils are there in the school now?",
+    "Equation": "( ( 706.0 + 222.0 ) + 418.0 )",
+    "Answer": 1346.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-397",
+    "Body": "For the walls of the house John would use large planks of wood. Each plank needs 2 pieces of nails to be secured and he would use 16 planks.",
+    "Question": "How many nails does John need for the house wall?",
+    "Equation": "( 16.0 * 2.0 )",
+    "Answer": 32.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-398",
+    "Body": "At the arcade Dave had won 13 tickets. If he used 8 to buy some toys and 18 more to buy some clothes",
+    "Question": "How many more tickets did Dave use to buy clothes than he did to buy toys?",
+    "Equation": "( 18.0 - 8.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-399",
+    "Body": "Marco and his dad went strawberry picking. Together their strawberries weighed 35 pounds. Marco's strawberries weighed 13 pounds.",
+    "Question": "How much more did his dad's strawberries weigh than his?",
+    "Equation": "( ( 35.0 - 13.0 ) - 13.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-400",
+    "Body": "An industrial machine can make 3 shirts a minute. It made 4 shirts yesterday and 8 shirts today.",
+    "Question": "How many minutes did the machine work in all?",
+    "Equation": "( ( 4.0 + 8.0 ) / 3.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  }
+]

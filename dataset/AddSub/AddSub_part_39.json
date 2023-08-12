@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 381,
+    "lEquations": [
+      "75 - X = 62"
+    ],
+    "lSolutions": [
+      "13"
+    ],
+    "sQuestion": "Joan found 75 seashells and 14 starfishes on the beach . She gave Tim some of her seashells . She has 62 seashell . How many seashells did she give to Tim ? "
+  },
+  {
+    "iIndex": 382,
+    "lEquations": [
+      "32 + X = 98"
+    ],
+    "lSolutions": [
+      "66"
+    ],
+    "sQuestion": "There were 32 bales of hay in the barn and 26 bales in the shed . Jason stacked bales in the barn today . There are now 98 bales of hay in the barn . How many bales did he store in the barn ? "
+  },
+  {
+    "iIndex": 383,
+    "lEquations": [
+      "X = 8 - 4"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "Jessica is baking a cake . The recipe calls for 8 cups of flour and 2 cups of sugar . She already put in 4 cups of flour . How many cups of flour does she need to add ? "
+  },
+  {
+    "iIndex": 384,
+    "lEquations": [
+      "X = 3 + 2"
+    ],
+    "lSolutions": [
+      "5"
+    ],
+    "sQuestion": "Keith picked 3 pears and Jason picked 2 pears from the pear tree . Joan picked 5 apples from the apple tree . How many pears were picked in total ? "
+  },
+  {
+    "iIndex": 385,
+    "lEquations": [
+      "X = 9 - 2"
+    ],
+    "lSolutions": [
+      "7"
+    ],
+    "sQuestion": "Sally has 9 orange balloons and 4 blue balloons . She lost 2 of the orange balloons . How many orange balloons does Sally have now ? "
+  },
+  {
+    "iIndex": 386,
+    "lEquations": [
+      "X = 8 + 6"
+    ],
+    "lSolutions": [
+      "14"
+    ],
+    "sQuestion": "Sandy grew 8 carrots and 7 turnips . Mary grew 6 carrots . How many carrots did they grow in all ? "
+  },
+  {
+    "iIndex": 387,
+    "lEquations": [
+      "X = 5 + 4"
+    ],
+    "lSolutions": [
+      "9"
+    ],
+    "sQuestion": "There are 5 scissors and 3 pencils in the drawer . Jason placed 4 scissors in the drawer . How many scissors are now there in total ? "
+  },
+  {
+    "iIndex": 388,
+    "lEquations": [
+      "X = 8 - 4"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "Alyssa 's cat had 8 kittens and 8 had spots . She gave 4 to her friends . How many kittens does she now have ? "
+  },
+  {
+    "iIndex": 389,
+    "lEquations": [
+      "X = 8 - 4"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "Sam had 7 pennies and 8 dimes in his bank . His sister borrowed 4 dimes . How many dimes does Sam have now ? "
+  },
+  {
+    "iIndex": 390,
+    "lEquations": [
+      "X = 9 + 2"
+    ],
+    "lSolutions": [
+      "11"
+    ],
+    "sQuestion": "A restaurant served 9 hot dogs during lunch and 2 during dinner today . It served 5 of them yesterday . How many hot dogs were served today ? "
+  }
+]

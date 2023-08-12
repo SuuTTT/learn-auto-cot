@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Debora Jayson Donna Sai\" and concatenate them.",
+      "answer": "anai"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jermaine Pat Tammie Olivia\" and concatenate them.",
+      "answer": "etea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sunny Trisha Paul Guy\" and concatenate them.",
+      "answer": "yaly"
+    },
+    {
+      "question": "Take the last letters of each words in \"Martha Elijah Dominic Tonya\" and concatenate them.",
+      "answer": "ahca"
+    },
+    {
+      "question": "Take the last letters of each words in \"Theo Sheila Mariana Esmeralda\" and concatenate them.",
+      "answer": "oaaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Cristal Roxana Rajesh Danny\" and concatenate them.",
+      "answer": "lahy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Geovanny Tom Katelyn Jennifer\" and concatenate them.",
+      "answer": "ymnr"
+    },
+    {
+      "question": "Take the last letters of each words in \"Buddy Violet Johana Tina\" and concatenate them.",
+      "answer": "ytaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jeremiah Kelley Josue Veronica\" and concatenate them.",
+      "answer": "hyea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Cassie Clifton Erik Everardo\" and concatenate them.",
+      "answer": "enko"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Niki Graham Vernon Beau\" and concatenate them.",
+      "answer": "imnu"
+    },
+    {
+      "question": "Take the last letters of each words in \"Bernie Melina Kelsey Rusty\" and concatenate them.",
+      "answer": "eayy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Latoya Eliseo Trina Melisa\" and concatenate them.",
+      "answer": "aoaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Wesley Marcelo Rodolfo Erick\" and concatenate them.",
+      "answer": "yook"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sean Rebeca Marco Sami\" and concatenate them.",
+      "answer": "naoi"
+    },
+    {
+      "question": "Take the last letters of each words in \"Blanca Monika Ervin Lori\" and concatenate them.",
+      "answer": "aani"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lorraine Corinne Kate Floyd\" and concatenate them.",
+      "answer": "eeed"
+    },
+    {
+      "question": "Take the last letters of each words in \"Bruce Dena Kyla Robbie\" and concatenate them.",
+      "answer": "eaae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Gee Joseluis Cory Stefanie\" and concatenate them.",
+      "answer": "esye"
+    },
+    {
+      "question": "Take the last letters of each words in \"Kristen Herbert Benny El\" and concatenate them.",
+      "answer": "ntyl"
+    }
+  ]
+}

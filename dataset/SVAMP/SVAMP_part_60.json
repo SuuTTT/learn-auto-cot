@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-591",
+    "Body": "Lewis earns $ 403 every week during the 233 weeks of harvest. If he has to pay $ 49 rent every week",
+    "Question": "How much money does he earn during harvest season?",
+    "Equation": "( 403.0 * 233.0 )",
+    "Answer": 93899.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-592",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 16 sacks per day and that each sack containes 57 oranges.",
+    "Question": "How many days will it take to harvest 80 sacks of oranges?",
+    "Equation": "( 80.0 / 16.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-593",
+    "Body": "Robin has some packages of gum. There are 3 pieces in each package and a total of 42 pieces of gum.",
+    "Question": "How many packages does Robin have?",
+    "Equation": "( 42.0 / 3.0 )",
+    "Answer": 14.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-594",
+    "Body": "During the Arkansas and Texas tech game the Razorback t-shirt shop made $ 215 by selling 5 t-shirts.",
+    "Question": "What is the cost of each t-shirt?",
+    "Equation": "( 215.0 / 5.0 )",
+    "Answer": 43.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-595",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 25 inches. The frog jumped 32 inches farther than the grasshopper and the mouse jumped 26 inches lesser than the frog.",
+    "Question": "How far did the mouse jump?",
+    "Equation": "( ( 25.0 + 32.0 ) - 26.0 )",
+    "Answer": 31.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-596",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 76 sacks per day and discard 64 of them.",
+    "Question": "How many oranges do they harvest per day if each sack contains 50 oranges?",
+    "Equation": "( ( 76.0 - 64.0 ) * 50.0 )",
+    "Answer": 600.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-597",
+    "Body": "Jesse's room is 7 feet wide. If she needs a carpet of size 14 square feet",
+    "Question": "What is the length of her room?",
+    "Equation": "( 14.0 / 7.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-598",
+    "Body": "Every day Ryan spends 6 hours on learning english and 5 hours on learning chinese. If he learns for 2 days",
+    "Question": "How many hours does he spend on learning english in all?",
+    "Equation": "( 6.0 * 2.0 )",
+    "Answer": 12.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-599",
+    "Body": "Ed had 10 more marbles than Doug. Doug lost 11 of his marbles at the playground. If Ed had 45 marbles",
+    "Question": "How many more marbles did Ed have than Doug then?",
+    "Equation": "( 10.0 + 11.0 )",
+    "Answer": 21.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-600",
+    "Body": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 10 invitations in it and she bought 7 packs. If she sends invitations to only 2 friends",
+    "Question": "How many invitations will be left?",
+    "Equation": "( ( 10.0 * 7.0 ) - 2.0 )",
+    "Answer": 68.0,
+    "Type": "Subtraction"
+  }
+]

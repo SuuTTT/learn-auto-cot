@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Russell Mitchell Bee Faith\" and concatenate them.",
+      "answer": "lleh"
+    },
+    {
+      "question": "Take the last letters of each words in \"Bri Roger Eve Diana\" and concatenate them.",
+      "answer": "irea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Gisela Gerald Mackenzie Ashley\" and concatenate them.",
+      "answer": "adey"
+    },
+    {
+      "question": "Take the last letters of each words in \"Vinny Landon Miguel Caitlyn\" and concatenate them.",
+      "answer": "ynln"
+    },
+    {
+      "question": "Take the last letters of each words in \"Constance Nicholas Will Love\" and concatenate them.",
+      "answer": "esle"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jeannie Kenneth Porfirio Ezequiel\" and concatenate them.",
+      "answer": "ehol"
+    },
+    {
+      "question": "Take the last letters of each words in \"Mario Pierre Amit Nelson\" and concatenate them.",
+      "answer": "oetn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Mercedes Adela Susana Rose\" and concatenate them.",
+      "answer": "saae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Fred Nolan Johnathan Carson\" and concatenate them.",
+      "answer": "dnnn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Caroline Demetrius Fidel Solomon\" and concatenate them.",
+      "answer": "esln"
+    }
+  ]
+}

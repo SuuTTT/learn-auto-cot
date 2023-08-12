@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-621",
+    "Body": "Jake brought 6 balloons to the park. If Jake brought 4 more balloons than the number of balloons that Allan brought",
+    "Question": "How many balloons did Allan bring to the park?",
+    "Equation": "( 6.0 - 4.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-622",
+    "Body": "At the arcade Dave had won 14 tickets and lost 2 tickets. If he used 10 to buy some toys",
+    "Question": "How many tickets did Dave have left?",
+    "Equation": "( ( 14.0 - 2.0 ) - 10.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-623",
+    "Body": "During summer break 610769 kids from Lawrence county go to camp and the other 590796 kids stay home. An additional 22 kids from outside the county attended the camp.",
+    "Question": "About how many kids are in Lawrence county?",
+    "Equation": "( 610769.0 + 590796.0 )",
+    "Answer": 1201565.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-624",
+    "Body": "Edward had $ 18. He spent $ 16.",
+    "Question": "How much money does Edward have now?",
+    "Equation": "( 18.0 - 16.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-625",
+    "Body": "For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 2 more dollars. If she spent 6 dollars.",
+    "Question": "How much more money did she receive from her dad than she did from her mom?",
+    "Equation": "( 5.0 - 2.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-626",
+    "Body": "Robin's hair was 14 inches long. It grew by 8 inches. Then he cut off 20 inches.",
+    "Question": "How long is his hair now?",
+    "Equation": "( ( 14.0 - 20.0 ) + 8.0 )",
+    "Answer": 2.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-627",
+    "Body": "Edward spent $ 16 to buy 92 books each book costing him the same amount of money. Now he has $ 6.",
+    "Question": "How much did Edward have before he spent his money?",
+    "Equation": "( 16.0 + 6.0 )",
+    "Answer": 22.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-628",
+    "Body": "During summer break 34044 kids from Lawrence county go to camp and the other 134867 kids stay home. An additional 424944 kids from outside the county attended the camp.",
+    "Question": "How many kids in total attended the camp?",
+    "Equation": "( 34044.0 + 424944.0 )",
+    "Answer": 458988.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-629",
+    "Body": "Baker made 14 cakes and 153 pastries. If he sold 8 pastries and 97 cakes",
+    "Question": "How many more cakes than pastries did baker sell?",
+    "Equation": "( 97.0 - 8.0 )",
+    "Answer": 89.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-630",
+    "Body": "After a typhoon, 2 trees in Haley's backyard died. If she had grown 12 trees initially",
+    "Question": "How many trees does she have left?",
+    "Equation": "( 12.0 - 2.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Angel Sheryl Dulce Kenny\" and concatenate them.",
+      "answer": "lley"
+    },
+    {
+      "question": "Take the last letters of each words in \"Selina Tasha Jarrod Maddy\" and concatenate them.",
+      "answer": "aady"
+    },
+    {
+      "question": "Take the last letters of each words in \"Talia Nicki Tia Divya\" and concatenate them.",
+      "answer": "aiaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Franklin Rochelle Brent Sarai\" and concatenate them.",
+      "answer": "neti"
+    },
+    {
+      "question": "Take the last letters of each words in \"Clinton Yanira Barbara Betsy\" and concatenate them.",
+      "answer": "naay"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ronnie Kiki Alan Remy\" and concatenate them.",
+      "answer": "einy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Erwin Chad Margarito Shanna\" and concatenate them.",
+      "answer": "ndoa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Connie Elena Tami Stuart\" and concatenate them.",
+      "answer": "eait"
+    },
+    {
+      "question": "Take the last letters of each words in \"Blaine Syed Priya Ruby\" and concatenate them.",
+      "answer": "eday"
+    },
+    {
+      "question": "Take the last letters of each words in \"Fernanda Magda Elmer Alvaro\" and concatenate them.",
+      "answer": "aaro"
+    }
+  ]
+}

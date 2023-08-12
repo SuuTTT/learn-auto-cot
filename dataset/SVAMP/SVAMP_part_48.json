@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-471",
+    "Body": "Ed had 2 more marbles than Doug. Doug lost some of his marbles at the playground. Now Ed has 19 more marbles than doug.",
+    "Question": "How many marbles did Doug lose?",
+    "Equation": "( 19.0 - 2.0 )",
+    "Answer": 17.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-472",
+    "Body": "There are 896 skittles in Steven's skittles collection. Steven also has 517 erasers and 90 scales. If the skittles are organized into 8 groups",
+    "Question": "How big is each group?",
+    "Equation": "( 896.0 / 8.0 )",
+    "Answer": 112.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-473",
+    "Body": "Rebecca wants to split a collection of eggs into groups of 5. Rebecca has 10 marbles and 15 eggs.",
+    "Question": "How many groups will be created?",
+    "Equation": "( 15.0 / 5.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-474",
+    "Body": "Paul had 95 pens and 153 books. After selling some books and pens in a garage sale he had 13 books and 23 pens left.",
+    "Question": "How many books did he sell in the garage sale?",
+    "Equation": "( 153.0 - 13.0 )",
+    "Answer": 140.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-475",
+    "Body": "Frank was reading through his favorite book. The book had 612 pages equally distributed over 24 chapters. It took Frank 6 days to finish the book.",
+    "Question": "How many pages did he read per day?",
+    "Equation": "( 612.0 / 6.0 )",
+    "Answer": 102.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-476",
+    "Body": "There are 10 peaches distributed equally in some baskets. If each basket has 4 red peaches and 6 green peaches",
+    "Question": "How many baskets of peaches are there?",
+    "Equation": "( 10.0 / ( 4.0 + 6.0 ) )",
+    "Answer": 1.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-477",
+    "Body": "Lewis earns $ 2 every week during the harvest. If he earns a total of $ 178",
+    "Question": "How many weeks did the harvest last?",
+    "Equation": "( 178.0 / 2.0 )",
+    "Answer": 89.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-478",
+    "Body": "Danny collects bottle caps. He threw away 54 of the old ones at the park while he found 48 bottle caps new ones. Now he has 52 bottle caps in his collection.",
+    "Question": "How many more bottle caps did danny throw away than those he found at the park?",
+    "Equation": "( 54.0 - 48.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-479",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 31 sacks of ripe oranges and 24 sacks of unripe oranges per day.",
+    "Question": "How many sacks of unripe oranges will they have after 45 days of harvest?",
+    "Equation": "( 24.0 * 45.0 )",
+    "Answer": 1080.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-480",
+    "Body": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 35 inches. The grasshopper jumped 4 inches farther than the frog.",
+    "Question": "How much did they jump altogether?",
+    "Equation": "( 35.0 + ( 35.0 - 4.0 ) )",
+    "Answer": 66.0,
+    "Type": "Subtraction"
+  }
+]

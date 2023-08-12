@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 191,
+    "lEquations": [
+      "X = 0.625 - 0.25"
+    ],
+    "lSolutions": [
+      "0.375"
+    ],
+    "sQuestion": "Dina made cookies . She used 0.625 cup of flour and 0.25 cup of sugar . How much more flour than sugar did Dina use ? "
+  },
+  {
+    "iIndex": 192,
+    "lEquations": [
+      "X = 0.2 + 0.4"
+    ],
+    "lSolutions": [
+      "0.6"
+    ],
+    "sQuestion": "Each day , the polar bear at Richmond 's zoo eats 0.2 bucket of trout and 0.4 bucket of salmon . How many buckets of fish does the polar bear eat daily ? "
+  },
+  {
+    "iIndex": 193,
+    "lEquations": [
+      "X = 0.6 - 0.4"
+    ],
+    "lSolutions": [
+      "0.2"
+    ],
+    "sQuestion": "Jenny ran 0.6 mile and walked 0.4 mile . How much farther did Jenny run than walk ? "
+  },
+  {
+    "iIndex": 194,
+    "lEquations": [
+      "X = 0.5 + 0.125"
+    ],
+    "lSolutions": [
+      "0.625"
+    ],
+    "sQuestion": "0.5 the students in the band are in the trumpet section . 0.125 the students in the band are in the trombone section . What fraction of the students in the band are in either the trumpet section or the trombone section ? "
+  },
+  {
+    "iIndex": 195,
+    "lEquations": [
+      "X = 0.8 - 0.1"
+    ],
+    "lSolutions": [
+      "0.7"
+    ],
+    "sQuestion": "Suzie found 2 worms in the yard and measured them with a ruler . 1 worm was 0.8 inch long . The other worm was 0.1 inch long . How much longer was the longer worm ? "
+  },
+  {
+    "iIndex": 196,
+    "lEquations": [
+      "X = 0.25 + 0.375"
+    ],
+    "lSolutions": [
+      "0.625"
+    ],
+    "sQuestion": "Scarlett made a fruit salad with 0.25 pound of melon and 0.375 pound of berries . How many pounds of fruit did Scarlett use in all ? "
+  },
+  {
+    "iIndex": 197,
+    "lEquations": [
+      "X = 0.625 - 0.5"
+    ],
+    "lSolutions": [
+      "0.125"
+    ],
+    "sQuestion": "Vince 's bus ride to school is 0.625 mile and Zachary 's bus ride is 0.5 mile . How much longer is Vince 's bus ride than Zachary 's ? "
+  },
+  {
+    "iIndex": 198,
+    "lEquations": [
+      "X = 0.5 + 0.1"
+    ],
+    "lSolutions": [
+      "0.6"
+    ],
+    "sQuestion": "In 1 week , Mitch 's family drank 0.5 carton of regular milk and 0.1 carton of soy milk . How much milk did they drink in all ? "
+  },
+  {
+    "iIndex": 199,
+    "lEquations": [
+      "X = 0.375 + 0.5"
+    ],
+    "lSolutions": [
+      "0.875"
+    ],
+    "sQuestion": "Elizabeth went to the salon and had 0.375 inch of hair cut off . The next day she went back and asked for another 0.5 inch to be cut off . How much hair did she have cut off in all ? "
+  },
+  {
+    "iIndex": 200,
+    "lEquations": [
+      "X = 0.16666666666666666 + 0.3333333333333333"
+    ],
+    "lSolutions": [
+      "0.5"
+    ],
+    "sQuestion": "In Shannon 's apartment complex , 0.16666666666666666 the apartments are one-bedroom apartments and 0.3333333333333333 are two-bedroom apartments . What fraction of the apartments are either 1 - or two-bedroom apartments ? "
+  }
+]

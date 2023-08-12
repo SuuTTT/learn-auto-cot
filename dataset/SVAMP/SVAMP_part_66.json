@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-651",
+    "Body": "Rachel has 3 apple trees. She picked 8 apples from each of her trees. Now the trees have a total 9 apples still on them.",
+    "Question": "How many apples were there on all trees initially?",
+    "Equation": "( ( 3.0 * 8.0 ) + 9.0 )",
+    "Answer": 33.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-652",
+    "Body": "Mary is baking a cake. The recipe calls for 9 cups of flour and 11 cups of sugar. She already put in 4 cups of flour.",
+    "Question": "How many more cups of sugar than cups of flour does she need to add now?",
+    "Equation": "( 11.0 - ( 9.0 - 4.0 ) )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-653",
+    "Body": "The school is planning a field trip. The school has 17 classrooms. There are 46 school buses and a total of 92 students in the school. If all buses are full",
+    "Question": "How many seats are in each bus?",
+    "Equation": "( 92.0 / 46.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-654",
+    "Body": "For Gwen's birthday she received some dollars. She spent 8 dollars and has 6 dollars left with her.",
+    "Question": "How much money did Gwen receive for her birthday?",
+    "Equation": "( 8.0 + 6.0 )",
+    "Answer": 14.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-655",
+    "Body": "Danny collects bottle caps. He lost 66 bottle caps at the park. Now he has 25 bottle caps in his collection.",
+    "Question": "How many bottle caps did danny have at first?",
+    "Equation": "( 66.0 + 25.0 )",
+    "Answer": 91.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-656",
+    "Body": "Jake has 6 fewer peaches than Steven. Steven has 18 more peaches than Jill. If jill has 5 peaches",
+    "Question": "How many peaches does Jake have?",
+    "Equation": "( ( 18.0 + 5.0 ) - 6.0 )",
+    "Answer": 17.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-657",
+    "Body": "During summer break 907611 kids from Lawrence county stay home and the other 455682 kids go to camp.",
+    "Question": "About how many kids are in Lawrence county?",
+    "Equation": "( 455682.0 + 907611.0 )",
+    "Answer": 1363293.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-658",
+    "Body": "Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf.",
+    "Question": "How many books were on his shelf in all?",
+    "Equation": "( 9.0 + 10.0 )",
+    "Answer": 19.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-659",
+    "Body": "4 birds and 6 storks were sitting on the fence. 2 more storks came to join them.",
+    "Question": "How many storks are sitting on the fence?",
+    "Equation": "( 6.0 + 2.0 )",
+    "Answer": 8.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-660",
+    "Body": "Allan brought 6 balloons and Jake brought 2 balloons to the park. Jake then bought 3 more balloons at the park.",
+    "Question": "How many more balloons did Allan have than Jake in the park?",
+    "Equation": "( 6.0 - ( 2.0 + 3.0 ) )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  }
+]

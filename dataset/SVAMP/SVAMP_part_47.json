@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-461",
+    "Body": "Zachary did 19 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 13 push-ups less than david.",
+    "Question": "How many push-ups did David do?",
+    "Equation": "( 19.0 + 39.0 )",
+    "Answer": 58.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-462",
+    "Body": "Mary is baking a cake. The recipe calls for 12 cups of flour 14 cups of sugar and 7 cups of salt. She already put in 2 cups of flour.",
+    "Question": "How many more cups of flour than cups of salt does she need to add now?",
+    "Equation": "( ( 12.0 - 2.0 ) - 7.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-463",
+    "Body": "There were 15 roses in the vase. Jessica threw away 33 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 17 roses in the vase.",
+    "Question": "How many more roses did she cut than those she threw away?",
+    "Equation": "( 17.0 - 15.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-464",
+    "Body": "Last week Fred had 49 dollars and Jason had 3 dollars. Fred washed cars over the weekend and now has 112 dollars. Jason delivered newspapers and now has 63 dollars.",
+    "Question": "How much money did Jason earn by delivering newspapers?",
+    "Equation": "( 63.0 - 3.0 )",
+    "Answer": 60.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-465",
+    "Body": "Jake has 7 fewer peaches than Steven and 9 more peaches than Jill. Steven has 16 peaches.",
+    "Question": "How many peaches does Jake have?",
+    "Equation": "( 16.0 - 7.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-466",
+    "Body": "46 campers went rowing on a day. 43 campers went rowing in the morning and some more campers went rowing in the afternoon.",
+    "Question": "How many campers went rowing in the afternoon?",
+    "Equation": "( 46.0 - 43.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-467",
+    "Body": "The ring toss game at the carnival made 382 dollars in the first 44 days and 374 dollars in the remaining 10 days.",
+    "Question": "How much did they make in all?",
+    "Equation": "( 382.0 + 374.0 )",
+    "Answer": 756.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-468",
+    "Body": "A book has 2 chapters. The second chapter is 36 pages long. If there are a total of 67 pages in the book",
+    "Question": "How many pages are in the first chapter?",
+    "Equation": "( 67.0 - 36.0 )",
+    "Answer": 31.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-469",
+    "Body": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 3 invitations in it and she bought 2 packs. If she wants to invite 9 friends",
+    "Question": "How many extra invitations will she need to buy?",
+    "Equation": "( 9.0 - ( 3.0 * 2.0 ) )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-470",
+    "Body": "Zachary did 15 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 9 push-ups less than David.",
+    "Question": "How many more push-ups did Zachary do than John?",
+    "Equation": "( 39.0 - 9.0 )",
+    "Answer": 30.0,
+    "Type": "Subtraction"
+  }
+]

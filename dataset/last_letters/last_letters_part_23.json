@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Sue Cassandra Cody Cali\" and concatenate them.",
+      "answer": "eayi"
+    },
+    {
+      "question": "Take the last letters of each words in \"Efrain Rickey Jonathan Kelli\" and concatenate them.",
+      "answer": "nyni"
+    },
+    {
+      "question": "Take the last letters of each words in \"Efren Rex Marilyn Emerson\" and concatenate them.",
+      "answer": "nxnn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Bobbi Tamika Zac Lala\" and concatenate them.",
+      "answer": "iaca"
+    },
+    {
+      "question": "Take the last letters of each words in \"Kendall Matias Kaleb Randy\" and concatenate them.",
+      "answer": "lsby"
+    },
+    {
+      "question": "Take the last letters of each words in \"Armando Astrid Anibal Dakota\" and concatenate them.",
+      "answer": "odla"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lamont Frederick Lance Esperanza\" and concatenate them.",
+      "answer": "tkea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lynda Danilo Jonny Judith\" and concatenate them.",
+      "answer": "aoyh"
+    },
+    {
+      "question": "Take the last letters of each words in \"Deandre Moe Jack Vanessa\" and concatenate them.",
+      "answer": "eeka"
+    },
+    {
+      "question": "Take the last letters of each words in \"Tere Niko Keith Conner\" and concatenate them.",
+      "answer": "eohr"
+    }
+  ]
+}

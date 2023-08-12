@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-331",
+    "Body": "At the zoo, a cage had snakes and alligators. The total number of animals in the cage was 79. If 24 snakes and 51 alligators were hiding",
+    "Question": "How many animals were not hiding in all?",
+    "Equation": "( ( 79.0 - 24.0 ) - 51.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-332",
+    "Body": "Danny has 21 bottle caps in his collection. He found some more bottle caps at the park. If he has 53 bottle caps now",
+    "Question": "How many bottle caps did he find at the park?",
+    "Equation": "( 53.0 - 21.0 )",
+    "Answer": 32.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-333",
+    "Body": "Frank was reading through his favorite book. The book had 2 chapters each with 405 pages. It took frank 664 days to finish the book.",
+    "Question": "How many chapters did he read per day?",
+    "Equation": "( 664.0 / 2.0 )",
+    "Answer": 332.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-334",
+    "Body": "There were 2 roses in the vase. Jessica threw away 4 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 23 roses in the vase.",
+    "Question": "How many roses did she cut?",
+    "Equation": "( ( 23.0 + 4.0 ) - 2.0 )",
+    "Answer": 25.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-335",
+    "Body": "Rachel had to complete 5 pages of math homework, 10 pages of reading homework and 6 more pages of biology homework.",
+    "Question": "How many pages of reading and biology homework did she have to complete?",
+    "Equation": "( 10.0 + 6.0 )",
+    "Answer": 16.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-336",
+    "Body": "Jerry had 7 action figures and 2 books on a shelf in his room. Later he added 4 more books to the shelf.",
+    "Question": "How many more action figures than books were on his shelf?",
+    "Equation": "( 7.0 - ( 2.0 + 4.0 ) )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-337",
+    "Body": "In a school there are 34 girls and 841 boys.",
+    "Question": "How many more boys than girls does the school have?",
+    "Equation": "( 841.0 - 34.0 )",
+    "Answer": 807.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-338",
+    "Body": "Bobby ate some pieces of candy. Then he ate 25 more. If he ate a total of 43 pieces of candy",
+    "Question": "How many pieces of candy had he eaten at the start?",
+    "Equation": "( 43.0 - 25.0 )",
+    "Answer": 18.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-339",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 8 sacks per day.",
+    "Question": "How many days will it take to harvest 24 sacks of oranges?",
+    "Equation": "( 24.0 / 8.0 )",
+    "Answer": 3.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-340",
+    "Body": "53 campers went rowing in the morning 48 campers went rowing in the afternoon and 49 campers went rowing in the evening.",
+    "Question": "How many more campers went rowing in the morning than in the evening?",
+    "Equation": "( 53.0 - 49.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  }
+]

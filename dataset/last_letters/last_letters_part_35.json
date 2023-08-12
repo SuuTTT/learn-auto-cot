@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Conor Randall Oleg Stephanie\" and concatenate them.",
+      "answer": "rlge"
+    },
+    {
+      "question": "Take the last letters of each words in \"Chance Valentin Micah Clara\" and concatenate them.",
+      "answer": "enha"
+    },
+    {
+      "question": "Take the last letters of each words in \"Dusty Yanet Hortencia Lili\" and concatenate them.",
+      "answer": "ytai"
+    },
+    {
+      "question": "Take the last letters of each words in \"Natalie Gilbert Brian Sanchez\" and concatenate them.",
+      "answer": "etnz"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ulises Derek Adrianna Eugene\" and concatenate them.",
+      "answer": "skae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Carlitos Damaris Nikhil Jennie\" and concatenate them.",
+      "answer": "ssle"
+    },
+    {
+      "question": "Take the last letters of each words in \"Yessenia Geraldine Minerva Tanya\" and concatenate them.",
+      "answer": "aeaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Nicolas Aaliyah Pascual Rob\" and concatenate them.",
+      "answer": "shlb"
+    },
+    {
+      "question": "Take the last letters of each words in \"Brandon Ivonne Jefferson Isabella\" and concatenate them.",
+      "answer": "nena"
+    },
+    {
+      "question": "Take the last letters of each words in \"Pedro Leopoldo Tee Mar\" and concatenate them.",
+      "answer": "ooer"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-281",
+    "Body": "Jessie currently weighs 9 kilograms. After she started to go jogging everyday she lost 62 kilograms in the first week and 140 kilograms in the second week.",
+    "Question": "How much did she weigh before starting to jog?",
+    "Equation": "( ( 9.0 + 62.0 ) + 140.0 )",
+    "Answer": 211.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-282",
+    "Body": "The school is planning a field trip. The school has 72 classrooms. There are 3 seats on each school bus. If there are a total of 111 students in the school",
+    "Question": "How many buses are needed to take the trip?",
+    "Equation": "( 111.0 / 3.0 )",
+    "Answer": 37.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-283",
+    "Body": "13 campers went rowing and 59 campers went hiking in the morning. 21 campers went rowing in the afternoon.",
+    "Question": "How many campers went rowing in all?",
+    "Equation": "( 13.0 + 21.0 )",
+    "Answer": 34.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-284",
+    "Body": "Jerry had 9 action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If he also has 10 books on the shelf",
+    "Question": "How many more action figures than books were on his shelf?",
+    "Equation": "( ( 9.0 + 7.0 ) - 10.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-285",
+    "Body": "Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles.",
+    "Question": "How many marbles does he have now?",
+    "Equation": "( ( 22.0 - 5.0 ) + 13.0 )",
+    "Answer": 30.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-286",
+    "Body": "For the walls of the house he would use 12 large planks of wood and 10 small planks. If large planks together need 15 pieces of nails to be secured and small planks together need 5 nails.",
+    "Question": "How many nails does John need for the house wall?",
+    "Equation": "( 15.0 + 5.0 )",
+    "Answer": 20.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-287",
+    "Body": "Paul got a box of 589 crayons for his birthday. During the school year he gave 571 crayons to his friends while he lost 161 crayons.",
+    "Question": "How many more crayons did he give to his friends than those he lost?",
+    "Equation": "( 571.0 - 161.0 )",
+    "Answer": 410.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-288",
+    "Body": "Jack received 9 emails in the morning, 10 emails in the afternoon and 7 emails in the evening.",
+    "Question": "How many more emails did Jack receive in the morning than in the evening?",
+    "Equation": "( 9.0 - 7.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-289",
+    "Body": "Jack received 6 emails in the morning and 8 emails in the afternoon.",
+    "Question": "How many more emails did Jack receive in the afternoon than in the morning?",
+    "Equation": "( 8.0 - 6.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-290",
+    "Body": "After eating a hearty meal they went to see the Buckingham palace. There were 71 paintings in the Buckingham palace. There, Rachel learned that 557 visitors came to the Buckingham palace that day. If there were 188 visitors the previous day",
+    "Question": "How many visited the Buckingham palace within 57 days?",
+    "Equation": "( 557.0 + 188.0 )",
+    "Answer": 745.0,
+    "Type": "Addition"
+  }
+]

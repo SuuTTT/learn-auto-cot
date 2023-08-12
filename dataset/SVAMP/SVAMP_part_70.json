@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-691",
+    "Body": "Every day Ryan spends 5 hours on learning english and 4 hours on learning chinese. If he learns for 6 days",
+    "Question": "How many hours does he spend on learning chinese in all?",
+    "Equation": "( 4.0 * 6.0 )",
+    "Answer": 24.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-692",
+    "Body": "The Razorback shop makes $ 86 dollars off each t-shirt and $ 232 off each jersey. During the Arkansas and Texas tech game they sold 254 t-shirts and 43 jerseys.",
+    "Question": "How much more does a jersey cost than a t-shirt?",
+    "Equation": "( 232.0 - 86.0 )",
+    "Answer": 146.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-693",
+    "Body": "Danny collects bottle caps and wrappers. He found 66 wrappers and 39 bottle caps at the park. Now he has 16 bottle caps and 68 wrappers in his collection.",
+    "Question": "How many wrappers did danny have at first?",
+    "Equation": "( 68.0 - 66.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-694",
+    "Body": "Haley grew 14 trees in her backyard. After a typhoon 9 died.",
+    "Question": "How many more trees died in the typhoon than those that survived?",
+    "Equation": "( 9.0 - ( 14.0 - 9.0 ) )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-695",
+    "Body": "He has 9 apples more than Adam and Jackie together do. Adam and Jackie have 7 apples between them.",
+    "Question": "How many apples does He have?",
+    "Equation": "( 7.0 + 9.0 )",
+    "Answer": 16.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-696",
+    "Body": "Dave had 11 apps and 3 files on his phone. After deleting some apps and files he had 24 files and 2 apps left.",
+    "Question": "How many more files than apps does he have left on the phone?",
+    "Equation": "( 24.0 - 2.0 )",
+    "Answer": 22.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-697",
+    "Body": "Rebecca wants to split a collection of eggs into groups of 11. If each group has 2 eggs",
+    "Question": "How many eggs does Rebecca have?",
+    "Equation": "( 11.0 * 2.0 )",
+    "Answer": 22.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-698",
+    "Body": "Jack received 10 emails in the morning, 7 emails in the afternoon and 17 emails in the evening.",
+    "Question": "How many more emails did Jack receive in the morning than in the afternoon?",
+    "Equation": "( 10.0 - 7.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-699",
+    "Body": "Adam could fit 11 action figures on each shelf in his room. His room has 4 shelves and 40 cabinets.",
+    "Question": "How many total action figures could his shelves hold?",
+    "Equation": "( 11.0 * 4.0 )",
+    "Answer": 44.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-700",
+    "Body": "Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake.",
+    "Question": "How many more packs of cookie did she buy over cake?",
+    "Equation": "( 10.0 - 4.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  }
+]

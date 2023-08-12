@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-601",
+    "Body": "Rachel's tree had 4 apples initially. She picked some apples and now there are 2 apples left on the tree.",
+    "Question": "How many apples did rachel pick?",
+    "Equation": "( 4.0 - 2.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-602",
+    "Body": "Bobby ate 28 pieces of candy. Then he ate 42 more. He also ate 63 pieces of chocolate.",
+    "Question": "How many pieces of candy did Bobby eat?",
+    "Equation": "( 28.0 + 42.0 )",
+    "Answer": 70.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-603",
+    "Body": "The Razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt. During the Arkansas and Texas tech game they sold 113 t-shirts and 78 jerseys.",
+    "Question": "How much more does a jersey cost than a t-shirt?",
+    "Equation": "( 115.0 - 25.0 )",
+    "Answer": 90.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-604",
+    "Body": "Bobby had 22 pieces of candy. He ate some pieces of candy. Then he ate 5 more. If he still has 8 pieces of candy left",
+    "Question": "How many pieces of candy had he eaten at the start?",
+    "Equation": "( ( 22.0 - 5.0 ) - 8.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-605",
+    "Body": "If each pack costs 81 dollars",
+    "Question": "How much will it cost to buy 33 packs of dvds?",
+    "Equation": "( 81.0 * 33.0 )",
+    "Answer": 2673.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-606",
+    "Body": "There were 61 parents in the program and 177 pupils too. The program could seat 44 people",
+    "Question": "How many people were present in the program?",
+    "Equation": "( 61.0 + 177.0 )",
+    "Answer": 238.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-607",
+    "Body": "Every day Ryan spends 4 hours on learning english and 6 hours on learning chinese. If he learns for 86 days",
+    "Question": "How many hours does he spend on learning english and chinese each day?",
+    "Equation": "( 4.0 + 6.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-608",
+    "Body": "Baker made 126 cakes and 48 pastries. If he sold 115 cakes and 81 pastries",
+    "Question": "How many more cakes than pastries did baker make?",
+    "Equation": "( 126.0 - 48.0 )",
+    "Answer": 78.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-609",
+    "Body": "At the arcade Dave had won 19 tickets. If he used 12 to buy some toys and 7 more to buy some clothes",
+    "Question": "How many more tickets did Dave use to buy toys than he did to buy clothes?",
+    "Equation": "( 12.0 - 7.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-610",
+    "Body": "A grocery store had 30 bottles of regular soda, 8 bottles of diet soda and 41 apples.",
+    "Question": "How many bottles did they have total?",
+    "Equation": "( 30.0 + 8.0 )",
+    "Answer": 38.0,
+    "Type": "Addition"
+  }
+]

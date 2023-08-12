@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 101,
+    "lEquations": [
+      "X - 9 = 4"
+    ],
+    "lSolutions": [
+      "13"
+    ],
+    "sQuestion": "Jason had Pokemon cards . He gave 9 to his friends . He now has 4 Pokemon cards . How many Pokemon cards did he have to start with ? "
+  },
+  {
+    "iIndex": 102,
+    "lEquations": [
+      "X = 7 + 5"
+    ],
+    "lSolutions": [
+      "12"
+    ],
+    "sQuestion": "Mary had 7 nickels in her bank . Her dad gave her 5 nickels . How many nickels does Mary have now ? "
+  },
+  {
+    "iIndex": 103,
+    "lEquations": [
+      "X = 6 + 9"
+    ],
+    "lSolutions": [
+      "15"
+    ],
+    "sQuestion": "Keith grew 6 turnips . Alyssa grew 9 turnips . How many turnips did they grow in all ? "
+  },
+  {
+    "iIndex": 104,
+    "lEquations": [
+      "X = 9 + 3"
+    ],
+    "lSolutions": [
+      "12"
+    ],
+    "sQuestion": "Mary has 9 yellow marbles Joan has 3 yellow marbles . How many yellow marbles do they have in all ? "
+  },
+  {
+    "iIndex": 105,
+    "lEquations": [
+      "X = 6 + 4"
+    ],
+    "lSolutions": [
+      "10"
+    ],
+    "sQuestion": "Sally grew 6 carrots . Fred grew 4 carrots . How many carrots did they grow in all ? "
+  },
+  {
+    "iIndex": 106,
+    "lEquations": [
+      "X = 5 - 2"
+    ],
+    "lSolutions": [
+      "3"
+    ],
+    "sQuestion": "Tom found 5 seashells on the beach . he gave Jessica 2 of the seashells . How many seashells does he now have ? "
+  },
+  {
+    "iIndex": 107,
+    "lEquations": [
+      "X = 5 - 3"
+    ],
+    "lSolutions": [
+      "2"
+    ],
+    "sQuestion": "Fred has 5 baseball cards . Melanie bought 3 of Fred 's baseball cards . How many baseball cards does Fred have now ? "
+  },
+  {
+    "iIndex": 108,
+    "lEquations": [
+      "X = 8 - 3"
+    ],
+    "lSolutions": [
+      "5"
+    ],
+    "sQuestion": "Mary had 8 potatoes in the garden . The rabbits ate 3 of the potatoes . How many potatoes does Mary now have ? "
+  },
+  {
+    "iIndex": 109,
+    "lEquations": [
+      "X = 9 - 2"
+    ],
+    "lSolutions": [
+      "7"
+    ],
+    "sQuestion": "There are 9 oak trees currently in the park . Park workers had to cut down 2 oak trees that were damaged . How many oak trees will the park have when the workers are finished ? "
+  },
+  {
+    "iIndex": 110,
+    "lEquations": [
+      "X = 8 - 3"
+    ],
+    "lSolutions": [
+      "5"
+    ],
+    "sQuestion": "Jessica had 8 quarters in her bank . Her sister borrowed 3 of her quarters . How many quarters does Jessica have now ? "
+  }
+]

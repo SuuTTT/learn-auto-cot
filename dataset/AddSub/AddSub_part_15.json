@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 141,
+    "lEquations": [
+      "X = 1986.0 + 5106.0"
+    ],
+    "lSolutions": [
+      "7092.0"
+    ],
+    "sQuestion": "There are 1986 books in Oak Grove 's public library . In addition , there are 5106 books in its school libraries . How many books do the libraries in Oak Grove have overall ? "
+  },
+  {
+    "iIndex": 142,
+    "lEquations": [
+      "X = 20817.0 + 97741.0"
+    ],
+    "lSolutions": [
+      "118558.0"
+    ],
+    "sQuestion": "There were originally 20817 houses in Lincoln County . During a housing boom , developers built 97741 . How many houses are there now in Lincoln County ? "
+  },
+  {
+    "iIndex": 143,
+    "lEquations": [
+      "X = 48097.0 + 684.0"
+    ],
+    "lSolutions": [
+      "48781.0"
+    ],
+    "sQuestion": "A farmer estimates that he will harvest 48097 bushels of wheat . The weather is perfect during the growing season , so he harvests 684 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ? "
+  },
+  {
+    "iIndex": 144,
+    "lEquations": [
+      "X = 69.0 + 26935.0"
+    ],
+    "lSolutions": [
+      "27004.0"
+    ],
+    "sQuestion": "Christina just transferred $ 69 out of her bank account . As a result , the account now has $ 26935 in it . How much money was in the account before the transfer ? "
+  },
+  {
+    "iIndex": 145,
+    "lEquations": [
+      "X = 14507.0 + 213.0"
+    ],
+    "lSolutions": [
+      "14720.0"
+    ],
+    "sQuestion": "Last year at Newberg 's airport , 14507 passengers landed on time . Unfortunately , 213 passengers landed late . In all , how many passengers landed in Newberg last year ? "
+  },
+  {
+    "iIndex": 146,
+    "lEquations": [
+      "X = 64535.0 - 522.0"
+    ],
+    "lSolutions": [
+      "64013.0"
+    ],
+    "sQuestion": "A dust storm sweeps across the prairie . It covers 64535 acres of the prairie in dust , but leaves 522 acres untouched . How many acres does the prairie cover ? "
+  },
+  {
+    "iIndex": 147,
+    "lEquations": [
+      "X = 12170.0 + 54912.0"
+    ],
+    "lSolutions": [
+      "67082.0"
+    ],
+    "sQuestion": "Some insects called aphids attack a large farm . In response , the farmer releases ladybugs onto the fields . There are 12170 ladybugs with spots and 54912 ladybugs without spots . How many ladybugs are there in all ? "
+  },
+  {
+    "iIndex": 148,
+    "lEquations": [
+      "X = 90171.0 + 16320.0"
+    ],
+    "lSolutions": [
+      "106491.0"
+    ],
+    "sQuestion": "Last year , 90171 people were born in a country , and 16320 people immigrated to it . How many new people began living in the country last year ? "
+  },
+  {
+    "iIndex": 149,
+    "lEquations": [
+      "X = 49952.0 + 918.0"
+    ],
+    "lSolutions": [
+      "50870.0"
+    ],
+    "sQuestion": "A ship full of grain crashes into a coral reef . By the time the ship is fixed , 49952 tons of grain have spilled into the water . Only 918 tons of grain remain onboard . How many tons of grain did the ship originally contain ? "
+  },
+  {
+    "iIndex": 150,
+    "lEquations": [
+      "X = 61921.0 + 49500.0"
+    ],
+    "lSolutions": [
+      "111421.0"
+    ],
+    "sQuestion": "To fill an order , the factory dyed 61921 yards of silk green and 49500 yards pink . How many yards of silk did it dye for that order ? "
+  }
+]

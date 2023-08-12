@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 301,
+    "lEquations": [
+      "X = 9 - 4"
+    ],
+    "lSolutions": [
+      "5"
+    ],
+    "sQuestion": "There are 9 pencils and 4 rulers in the drawer . Sally took 4 pencils out of the drawer . How many pencils are there now ? "
+  },
+  {
+    "iIndex": 302,
+    "lEquations": [
+      "X = 7 - 3"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "Jason has 7 violet balloons and 4 red balloons . He lost 3 of the violet balloons . How many violet balloons does Jason have now ? "
+  },
+  {
+    "iIndex": 303,
+    "lEquations": [
+      "X = 7 - 4"
+    ],
+    "lSolutions": [
+      "3"
+    ],
+    "sQuestion": "Dan had 7 potatoes and 4 cantelopes in the garden . The rabbits ate 4 of the potatoes . How many potatoes does Dan now have ? "
+  },
+  {
+    "iIndex": 304,
+    "lEquations": [
+      "X = 8 - 4"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "Sara had 4 quarters and 8 dimes in her bank . Her sister borrowed 4 dimes . How many dimes does Sara have now ? "
+  },
+  {
+    "iIndex": 305,
+    "lEquations": [
+      "X = 8 - 4"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "Sandy 's dog had 8 puppies and 4 had spots . She gave 4 to her friends . How many puppies does she now have ? "
+  },
+  {
+    "iIndex": 306,
+    "lEquations": [
+      "X = 6 - 4"
+    ],
+    "lSolutions": [
+      "2"
+    ],
+    "sQuestion": "Mike found 6 seashells and 4 starfish , but 4 of the seashells were broken . How many unbroken seashells did Mike find ? "
+  },
+  {
+    "iIndex": 307,
+    "lEquations": [
+      "X = 30 - 18"
+    ],
+    "lSolutions": [
+      "12"
+    ],
+    "sQuestion": "Melanie had 30 baseball cards , and 9 were torn . Sara bought 18 of Melanie 's baseball cards . How many baseball cards does Melanie have now ? "
+  },
+  {
+    "iIndex": 308,
+    "lEquations": [
+      "X = 35 - 28"
+    ],
+    "lSolutions": [
+      "7"
+    ],
+    "sQuestion": "Sara picked 35 pears and 27 apples from the orchard . She gave 28 pears to Dan . How many pears does Sara have ? "
+  },
+  {
+    "iIndex": 309,
+    "lEquations": [
+      "X = 35 - 27"
+    ],
+    "lSolutions": [
+      "8"
+    ],
+    "sQuestion": "Jessica grew 35 watermelons and 30 carrots , but the rabbits ate 27 watermelons . How many watermelons does Jessica have ? "
+  },
+  {
+    "iIndex": 310,
+    "lEquations": [
+      "X = 35 - 17"
+    ],
+    "lSolutions": [
+      "18"
+    ],
+    "sQuestion": "Nancy found 35 seashells and 25 starfish on the beach . She gave 17 of the seashells to Jason . How many seashells does Nancy now have ? "
+  }
+]

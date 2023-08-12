@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 111,
+    "lEquations": [
+      "X = 9 - 3"
+    ],
+    "lSolutions": [
+      "6"
+    ],
+    "sQuestion": "A restaurant made 9 hamburgers to serve during lunch . Only 3 were actually served . How many hamburgers were over from lunch ? "
+  },
+  {
+    "iIndex": 112,
+    "lEquations": [
+      "X = 7 - 3"
+    ],
+    "lSolutions": [
+      "4"
+    ],
+    "sQuestion": "There are 7 crayons in the drawer . Mary took 3 crayons out of the drawer . How many crayons are there now ? "
+  },
+  {
+    "iIndex": 113,
+    "lEquations": [
+      "X = 9 - 4"
+    ],
+    "lSolutions": [
+      "5"
+    ],
+    "sQuestion": "Dan picked 9 limes and gave Sara 4 of the limes . How many limes does Dan have now ? "
+  },
+  {
+    "iIndex": 114,
+    "lEquations": [
+      "X = 9 - 2"
+    ],
+    "lSolutions": [
+      "7"
+    ],
+    "sQuestion": "Joan has 9 blue balloons but lost 2 of them . How many blue balloons does Joan have now ? "
+  },
+  {
+    "iIndex": 115,
+    "lEquations": [
+      "X = 43 - 27"
+    ],
+    "lSolutions": [
+      "16"
+    ],
+    "sQuestion": "Joan picked 43 apples from the orchard , and gave 27 apples to Melanie . How many apples does Joan have now ? "
+  },
+  {
+    "iIndex": 116,
+    "lEquations": [
+      "X = 30 - 16"
+    ],
+    "lSolutions": [
+      "14"
+    ],
+    "sQuestion": "Tom has 30 violet balloons , he gave Fred 16 of the balloons . How many violet balloons does he now have ? "
+  },
+  {
+    "iIndex": 117,
+    "lEquations": [
+      "X = 40 - 22"
+    ],
+    "lSolutions": [
+      "18"
+    ],
+    "sQuestion": "Fred has 40 baseball cards . Keith bought 22 of Fred 's baseball cards . How many baseball cards does Fred have now ? "
+  },
+  {
+    "iIndex": 118,
+    "lEquations": [
+      "X = 47 - 25"
+    ],
+    "lSolutions": [
+      "22"
+    ],
+    "sQuestion": "Fred found 47 seashells on the beach , he gave Jessica 25 of the seashells . How many seashells does he now have ? "
+  },
+  {
+    "iIndex": 119,
+    "lEquations": [
+      "X = 43 - 23"
+    ],
+    "lSolutions": [
+      "20"
+    ],
+    "sQuestion": "Sara grew 43 pumpkins , but the rabbits ate 23 pumpkins . How many pumpkins does Sara have ? "
+  },
+  {
+    "iIndex": 120,
+    "lEquations": [
+      "X = 33 - 26"
+    ],
+    "lSolutions": [
+      "7"
+    ],
+    "sQuestion": "Joan decided to sell all of her old books . She gathered up 33 books to sell . She sold 26 books in a yard sale . How many books does Joan now have ? "
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-481",
+    "Body": "The Razorback shop makes $ 67 dollars off each t-shirt and $ 165 off each jersey. During the Arkansas and Texas tech game they sold 74 t-shirts and 156 jerseys.",
+    "Question": "How much money did they make from selling the jerseys?",
+    "Equation": "( 165.0 * 156.0 )",
+    "Answer": 25740.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-482",
+    "Body": "After resting they decided to go for a swim. The depth of the water is 5 times Ron's height. Dean is 11 feet shorter than Ron. If Ron stands at 12 feet",
+    "Question": "How deep was the water?",
+    "Equation": "( 12.0 * 5.0 )",
+    "Answer": 60.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-483",
+    "Body": "There are 466 pots. Each pot has 53 flowers and 181 sticks in it.",
+    "Question": "How many flowers and sticks are there in all?",
+    "Equation": "( ( 53.0 + 181.0 ) * 466.0 )",
+    "Answer": 109044.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-484",
+    "Body": "Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons.",
+    "Question": "How many more crayons did he lose than those he gave to his friends?",
+    "Equation": "( 412.0 - 90.0 )",
+    "Answer": 322.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-485",
+    "Body": "In a school there are 569 girls and 236 boys.",
+    "Question": "How many more girls than boys does the school have?",
+    "Equation": "( 569.0 - 236.0 )",
+    "Answer": 333.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-486",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 65 sacks of unripe oranges and 46 sacks of ripe oranges per day.",
+    "Question": "How many sacks of unripe oranges will they have after 6 days of harvest?",
+    "Equation": "( 65.0 * 6.0 )",
+    "Answer": 390.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-487",
+    "Body": "The Ferris wheel in paradise park has 6 seats. Each seat can hold 14 people. If there are 16 people on the wheel right now",
+    "Question": "How many more people can join the wheel?",
+    "Equation": "( ( 6.0 * 14.0 ) - 16.0 )",
+    "Answer": 68.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-488",
+    "Body": "Debby bought 153 water bottles when they were on sale. She drank the same number of bottles each day. If the bottles lasted for 17 days",
+    "Question": "How many bottles did she drink each day?",
+    "Equation": "( 153.0 / 17.0 )",
+    "Answer": 9.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-489",
+    "Body": "Robin has 21 packages of gum and 45 packages of candy. There are 9 pieces in each package.",
+    "Question": "How many pieces of candies does Robin have?",
+    "Equation": "( 45.0 * 9.0 )",
+    "Answer": 405.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-490",
+    "Body": "After Olivia visited a supermarket there were 29 dollars left. If there were 54 dollars in her wallet initially",
+    "Question": "How much did she spend?",
+    "Equation": "( 54.0 - 29.0 )",
+    "Answer": 25.0,
+    "Type": "Subtraction"
+  }
+]

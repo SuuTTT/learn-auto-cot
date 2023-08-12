@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 51,
+    "lEquations": [
+      "X = 29 + 16 + 20"
+    ],
+    "lSolutions": [
+      "65"
+    ],
+    "sQuestion": "Keith grew 29 cantelopes , Fred grew 16 cantelopes , and Jason grew 20 cantelopes . How many cantelopes did they grow in total ? "
+  },
+  {
+    "iIndex": 52,
+    "lEquations": [
+      "X = 19 + 39 + 25"
+    ],
+    "lSolutions": [
+      "83"
+    ],
+    "sQuestion": "Melanie had 19 dimes in her bank . Her dad gave her 39 dimes and her mother gave her 25 dimes . How many dimes does Melanie have now ? "
+  },
+  {
+    "iIndex": 53,
+    "lEquations": [
+      "X = 37 + 28 + 39"
+    ],
+    "lSolutions": [
+      "104"
+    ],
+    "sQuestion": "Alyssa has 37 blue balloons , Sandy has 28 blue balloons , and Sally has 39 blue balloons . How many blue balloons do they have in all ? "
+  },
+  {
+    "iIndex": 54,
+    "lEquations": [
+      "X = 27 + 41 + 20"
+    ],
+    "lSolutions": [
+      "88"
+    ],
+    "sQuestion": "Sally had 27 Pokemon cards . Dan gave her 41 new Pokemon cards . Sally bought 20 Pokemon cards . How many Pokemon cards does Sally have now ? "
+  },
+  {
+    "iIndex": 55,
+    "lEquations": [
+      "X = 11 + 17 + 16"
+    ],
+    "lSolutions": [
+      "44"
+    ],
+    "sQuestion": "Jason went to 11 football games this month . He went to 17 games last month , and plans to go to 16 games next month . How many games will he attend in all ? "
+  },
+  {
+    "iIndex": 56,
+    "lEquations": [
+      "X = 43 + 19 + 16"
+    ],
+    "lSolutions": [
+      "78"
+    ],
+    "sQuestion": "There are 43 pencils in the drawer and 19 pencils on the desk . Dan placed 16 pencils on the desk . How many pencils are now there in total ? "
+  },
+  {
+    "iIndex": 57,
+    "lEquations": [
+      "35 + X = 56"
+    ],
+    "lSolutions": [
+      "21"
+    ],
+    "sQuestion": "Mike has 35 books in his library . He bought several books at a yard sale over the weekend . He now has 56 books in his library . How many books did he buy at the yard sale ? "
+  },
+  {
+    "iIndex": 58,
+    "lEquations": [
+      "53 + X = 64"
+    ],
+    "lSolutions": [
+      "11"
+    ],
+    "sQuestion": "There are 53 maple trees currently in the park . Park workers will plant maple trees today . When the workers are finished there will be 64 maple trees in the park . How many maple trees did the workers plant today ? "
+  },
+  {
+    "iIndex": 59,
+    "lEquations": [
+      "56 - X = 22"
+    ],
+    "lSolutions": [
+      "34"
+    ],
+    "sQuestion": "Dan found 56 seashells on the beach , he gave Jessica some of his seashells . He has 22 seashell . How many seashells did he give to Jessica ? "
+  },
+  {
+    "iIndex": 60,
+    "lEquations": [
+      "13 + X = 55"
+    ],
+    "lSolutions": [
+      "42"
+    ],
+    "sQuestion": "Sally had 13 peaches at her roadside fruit dish . She went to the orchard and picked peaches to stock up . There are now 55 peaches . how many did she pick ? "
+  }
+]

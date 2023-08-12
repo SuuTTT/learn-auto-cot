@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Cheri Rico Teo Jesus\" and concatenate them.",
+      "answer": "ioos"
+    },
+    {
+      "question": "Take the last letters of each words in \"Alexandria Meghan Autumn Robert\" and concatenate them.",
+      "answer": "annt"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jr Meredith Zoe Robby\" and concatenate them.",
+      "answer": "rhey"
+    },
+    {
+      "question": "Take the last letters of each words in \"Pretty Jada Sarita Allen\" and concatenate them.",
+      "answer": "yaan"
+    },
+    {
+      "question": "Take the last letters of each words in \"Shari Bella Liza Maira\" and concatenate them.",
+      "answer": "iaaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lazaro Ana Charlotte Precious\" and concatenate them.",
+      "answer": "oaes"
+    },
+    {
+      "question": "Take the last letters of each words in \"Imelda Andi Mack Rigoberto\" and concatenate them.",
+      "answer": "aiko"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ashish Tracey Varun Emil\" and concatenate them.",
+      "answer": "hynl"
+    },
+    {
+      "question": "Take the last letters of each words in \"Marian Joanne Darrin Rohit\" and concatenate them.",
+      "answer": "nent"
+    },
+    {
+      "question": "Take the last letters of each words in \"Julieta Zachary Jared Tyson\" and concatenate them.",
+      "answer": "aydn"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-631",
+    "Body": "Paco had 8 sweet cookies and 6 salty cookies. He ate 20 sweet cookies and 34 salty cookies.",
+    "Question": "How many more salty cookies than sweet cookies did he eat?",
+    "Equation": "( 34.0 - 20.0 )",
+    "Answer": 14.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-632",
+    "Body": "A grocery store had 79 bottles of regular soda, 53 bottles of diet soda and 42 apples.",
+    "Question": "How many more bottles of regular soda than diet soda did they have?",
+    "Equation": "( 79.0 - 53.0 )",
+    "Answer": 26.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-633",
+    "Body": "Carol was sending out birthday invitations to 12 friends. She bought 3 packs each one having the same number of invitations.",
+    "Question": "How many invitations are in each pack?",
+    "Equation": "( 12.0 / 3.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-634",
+    "Body": "Jake has 13 fewer peaches and 3 more apples than Steven. Steven has 9 peaches and 8 apples.",
+    "Question": "How many apples does Jake have?",
+    "Equation": "( 3.0 + 8.0 )",
+    "Answer": 11.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-635",
+    "Body": "Josh had 22 marbles in his collection. Jack gave him 20 marbles.",
+    "Question": "How many marbles does Josh have now?",
+    "Equation": "( 22.0 + 20.0 )",
+    "Answer": 42.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-636",
+    "Body": "Faye had 31 packs of pencils each one having 6 pencils. She was placing her pencils into rows with 19 pencils in each row.",
+    "Question": "How many pencils does she have?",
+    "Equation": "( 31.0 * 6.0 )",
+    "Answer": 186.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-637",
+    "Body": "Jake has 84 more apples and 10 fewer peaches than Steven. Steven has 13 peaches and 52 apples.",
+    "Question": "How many peaches does Jake have?",
+    "Equation": "( 13.0 - 10.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-638",
+    "Body": "Rebecca wants to split a collection of eggs into 4 groups. Rebecca has 8 eggs and 6 marbles.",
+    "Question": "How many eggs will each group have?",
+    "Equation": "( 8.0 / 4.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-639",
+    "Body": "Jack received 4 emails and sent 2 letters in the morning. He then received 6 emails and sent 8 letters in the afternoon.",
+    "Question": "How many emails did Jack send in the day?",
+    "Equation": "( 2.0 + 8.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-640",
+    "Body": "Rachel had to complete 7 pages of math homework, 11 pages of reading homework and 8 more pages of biology homework.",
+    "Question": "How many more pages of reading homework than biology homework did she have?",
+    "Equation": "( 11.0 - 8.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  }
+]

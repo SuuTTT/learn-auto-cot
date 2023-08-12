@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-901",
+    "Body": "Marco and his dad went strawberry picking. Together their strawberries weighed 20 pounds. His dad's strawberries weighed 17 pounds.",
+    "Question": "How much did marco's strawberries weigh?",
+    "Equation": "( 20.0 - 17.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-902",
+    "Body": "Haley grew 9 trees in her backyard. After a typhoon 4 died. Then she grew 5 more trees.",
+    "Question": "How many trees does she have left?",
+    "Equation": "( ( 9.0 - 4.0 ) + 5.0 )",
+    "Answer": 10.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-903",
+    "Body": "Stray cats loved eating goldfish in the pond leaving 6 goldfish. Paige had raised 8 goldfish in the pond initially.",
+    "Question": "How many goldfish disappeared?",
+    "Equation": "( 8.0 - 6.0 )",
+    "Answer": 2.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-904",
+    "Body": "Danny collects bottle caps and wrappers. He found 58 bottle caps and 25 wrappers at the park. Now he has 11 wrappers and 12 bottle caps in his collection.",
+    "Question": "How many more bottle caps than wrappers does danny have now?",
+    "Equation": "( 12.0 - 11.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-905",
+    "Body": "Mary is baking a cake. The recipe calls for 9 cups of flour and 6 cups of sugar. She already put in 4 cups of sugar.",
+    "Question": "How many more cups of flour than cups of sugar does she need to add now?",
+    "Equation": "( 9.0 - ( 6.0 - 4.0 ) )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-906",
+    "Body": "Jesse's room is 2 feet long and 12 feet wide. If each tile is of size 4 square feet",
+    "Question": "How many tiles does she need to cover the whole floor?",
+    "Equation": "( ( 2.0 * 12.0 ) / 4.0 )",
+    "Answer": 6.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-907",
+    "Body": "An industrial machine can make 6 shirts a minute. It worked for 12 minutes yesterday and for 14 shirts today.",
+    "Question": "How many shirts did machine make altogether?",
+    "Equation": "( 6.0 * ( 12.0 + 14.0 ) )",
+    "Answer": 156.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-908",
+    "Body": "Paco had 9 sweet cookies and 6 salty cookies. He ate 36 sweet cookies and 3 salty cookies.",
+    "Question": "How many salty cookies did Paco have left?",
+    "Equation": "( 6.0 - 3.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-909",
+    "Body": "Robin cut off 20 inches of his hair. If his hair is now 10 inches long",
+    "Question": "How long was his hair before he cut?",
+    "Equation": "( 20.0 + 10.0 )",
+    "Answer": 30.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-910",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 36 inches. The frog jumped 17 inches farther than the grasshopper and the mouse jumped 15 inches farther than the frog.",
+    "Question": "How far did the frog jump?",
+    "Equation": "( 36.0 + 17.0 )",
+    "Answer": 53.0,
+    "Type": "Addition"
+  }
+]

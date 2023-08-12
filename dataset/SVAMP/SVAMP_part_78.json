@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-771",
+    "Body": "Mary is baking a cake. The recipe calls for 9 cups of sugar 14 cups of flour and 40 cups of salt. She already put in 4 cups of flour.",
+    "Question": "How many more cups of flour than cups of sugar does she need to add now?",
+    "Equation": "( ( 14.0 - 4.0 ) - 9.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-772",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 82 sacks of ripe oranges and 61 sacks of unripe oranges per day.",
+    "Question": "How many sacks of ripe oranges will they have after 25 days of harvest?",
+    "Equation": "( 82.0 * 25.0 )",
+    "Answer": 2050.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-773",
+    "Body": "Jack received 10 emails and 12 letters in the morning. He then received 3 emails and 44 letters in the afternoon.",
+    "Question": "How many more emails did Jack receive in the morning than in the afternoon?",
+    "Equation": "( 10.0 - 3.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-774",
+    "Body": "Katie had 62 new games and 80 old games. Her friends had 73 new games and 41 old games.",
+    "Question": "How many old games do they have 3",
+    "Equation": "( 80.0 + 41.0 )",
+    "Answer": 121.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-775",
+    "Body": "Together Adam and Jackie have 12 apples. He has 9 apples more than Adam and Jackie together do. Adam has 8 more apples than Jackie.",
+    "Question": "How many apples does He have?",
+    "Equation": "( 12.0 + 9.0 )",
+    "Answer": 21.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-776",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 67 sacks per day and that each sack containes 12 oranges.",
+    "Question": "How many oranges are harvested if they harvest a total of 35 sacks of oranges?",
+    "Equation": "( 12.0 * 35.0 )",
+    "Answer": 420.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-777",
+    "Body": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups",
+    "Question": "How big is each group of bananas?",
+    "Equation": "( 290.0 / 2.0 )",
+    "Answer": 145.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-778",
+    "Body": "There are 384 oranges and 192 bananas in Philip's collection. If the bananas are organized into 345 groups and oranges are organized into 16 groups",
+    "Question": "How big is each group of oranges?",
+    "Equation": "( 384.0 / 16.0 )",
+    "Answer": 24.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-779",
+    "Body": "David did 27 more push-ups but 7 less crunches than Zachary in gym class today. If Zachary did 5 push-ups and 17 crunches",
+    "Question": "How many more crunches than push-ups did Zachary do?",
+    "Equation": "( 17.0 - 5.0 )",
+    "Answer": 12.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-780",
+    "Body": "He also had 74 aquariums for freshwater animals and 22 aquariums for saltwater animals. Each aquarium has 46 animals in it.",
+    "Question": "How many saltwater animals does Tyler have?",
+    "Equation": "( 22.0 * 46.0 )",
+    "Answer": 1012.0,
+    "Type": "Multiplication"
+  }
+]

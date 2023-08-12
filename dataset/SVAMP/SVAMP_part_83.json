@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-821",
+    "Body": "Paul had some books. After selling 137 in a garage sale he had 105 left.",
+    "Question": "How many books did he have at the start?",
+    "Equation": "( 137.0 + 105.0 )",
+    "Answer": 242.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-822",
+    "Body": "Last week Fred had 33 dollars and Jason had 95 dollars. Over the weekend Fred delivered newspapers earning 16 dollars and washed cars earning 74 dollars.",
+    "Question": "How much money did Fred earn over the weekend?",
+    "Equation": "( 16.0 + 74.0 )",
+    "Answer": 90.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-823",
+    "Body": "If you have 14 cookies in total and 7 bags having equal number of cookies",
+    "Question": "How many cookies does each bag have?",
+    "Equation": "( 14.0 / 7.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-824",
+    "Body": "Matthew gave equal numbers of crackers to his 18 friends. If he had 36 crackers",
+    "Question": "How many crackers did each person eat?",
+    "Equation": "( 36.0 / 18.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-825",
+    "Body": "Kelly has 80 nintendo games. She found 31 more nintendo games.",
+    "Question": "How many does she need to give away so that she will have 6 games left?",
+    "Equation": "( ( 80.0 + 31.0 ) - 6.0 )",
+    "Answer": 105.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-826",
+    "Body": "There are 4 different books and 17 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 7 of the movies",
+    "Question": "How many more movies do you still have to watch?",
+    "Equation": "( 17.0 - 7.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-827",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 5 sacks of ripe oranges and 74 sacks of unripe oranges per day.",
+    "Question": "How many more sacks of unripe oranges than ripe oranges are harvested per day?",
+    "Equation": "( 74.0 - 5.0 )",
+    "Answer": 69.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-828",
+    "Body": "Lewis earns $ 368 every week during the 1359 weeks of harvest. If he has to pay $ 388 rent every week",
+    "Question": "How much money does he pay as rent during the harvest season?",
+    "Equation": "( 388.0 * 1359.0 )",
+    "Answer": 527292.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-829",
+    "Body": "For the walls of the house he would use 11 nails in all to secure large planks of wood. If each plank needs 3 pieces of nails to be secured and an additional 8 nails were used.",
+    "Question": "How many planks does John need for the house wall?",
+    "Equation": "( ( 11.0 - 8.0 ) / 3.0 )",
+    "Answer": 1.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-830",
+    "Body": "17 red peaches and 16 green peaches are in the basket.",
+    "Question": "How many more red peaches than green peaches are in the basket?",
+    "Equation": "( 17.0 - 16.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  }
+]

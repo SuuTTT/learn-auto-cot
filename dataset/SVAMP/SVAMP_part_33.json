@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-321",
+    "Body": "Dave had 19 apps and 18 files on his phone. After deleting some apps and files he had 6 apps and 15 files left.",
+    "Question": "How many more files than apps does he have left on the phone?",
+    "Equation": "( 15.0 - 6.0 )",
+    "Answer": 9.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-322",
+    "Body": "Baker made 99 cakes. He bought 167 new cakes and sold 89 cakes.",
+    "Question": "How many more cakes did baker buy than those he sold?",
+    "Equation": "( 167.0 - 89.0 )",
+    "Answer": 78.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-323",
+    "Body": "3 birds and 4 storks were sitting on the fence. 6 more storks came to join them.",
+    "Question": "How many birds and storks are sitting on the fence?",
+    "Equation": "( ( 3.0 + 4.0 ) + 6.0 )",
+    "Answer": 13.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-324",
+    "Body": "David did 44 push-ups in gym class today. David did 9 more push-ups than Zachary.",
+    "Question": "How many push-ups did Zachary do?",
+    "Equation": "( 44.0 - 9.0 )",
+    "Answer": 35.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-325",
+    "Body": "Edward spent $ 6 to buy books and $ 16 to buy pens. Now he has $ 19.",
+    "Question": "How much did Edward have before he spent his money?",
+    "Equation": "( ( 6.0 + 16.0 ) + 19.0 )",
+    "Answer": 41.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-326",
+    "Body": "Bryan took a look at his books as well. Each bookshelf contains 2 books. If he has a total of 38 books",
+    "Question": "How many bookshelves does he have?",
+    "Equation": "( 38.0 / 2.0 )",
+    "Answer": 19.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-327",
+    "Body": "There were 7 roses in the vase. Jessica cut some more roses from her flower garden which had a total of 59 roses. There are now 20 roses in the vase.",
+    "Question": "How many roses did she cut?",
+    "Equation": "( 20.0 - 7.0 )",
+    "Answer": 13.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-328",
+    "Body": "Luke played a trivia game and gained 3 points in each round of a game. If he scored 78 points in the trivia game",
+    "Question": "How many rounds did he play?",
+    "Equation": "( 78.0 / 3.0 )",
+    "Answer": 26.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-329",
+    "Body": "Baker made 13 cakes. He sold 91 of them and bought 154 new cakes.",
+    "Question": "How many more cakes did baker buy than those he sold?",
+    "Equation": "( 154.0 - 91.0 )",
+    "Answer": 63.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-330",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 71 sacks of unripe oranges and 60 sacks of ripe oranges per day.",
+    "Question": "How many more sacks of unripe oranges than ripe oranges are harvested per day?",
+    "Equation": "( 71.0 - 60.0 )",
+    "Answer": 11.0,
+    "Type": "Subtraction"
+  }
+]

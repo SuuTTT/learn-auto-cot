@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-51",
+    "Body": "At the zoo, a cage had 93 snakes and 97 alligators. If 40 alligators were hiding",
+    "Question": "How many alligators were not hiding?",
+    "Equation": "( 97.0 - 40.0 )",
+    "Answer": 57.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-52",
+    "Body": "You have read 8 books from the ' crazy silly school ' series. If there are a total of 14 different books in the ' crazy silly school ' series",
+    "Question": "How many more do you still have to read?",
+    "Equation": "( 14.0 - 8.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-53",
+    "Body": "Emily is making bead necklaces for her 43 friends. She had 20 beads and she was able to make 5 necklaces.",
+    "Question": "How many beads did each necklace need?",
+    "Equation": "( 20.0 / 5.0 )",
+    "Answer": 4.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-54",
+    "Body": "Frank put 11 pieces of candy in each bag. If he had 22 pieces of candy",
+    "Question": "How many bags would he have?",
+    "Equation": "( 22.0 / 11.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-55",
+    "Body": "A waiter had 12 customers. After some left he still had 14 customers. Then he got 10 new customers",
+    "Question": "How many customers does he have now?",
+    "Equation": "( 14.0 + 10.0 )",
+    "Answer": 24.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-56",
+    "Body": "A farmer had 90 tomatoes in his garden. If he picked 154 of them yesterday and 50 today.",
+    "Question": "How many tomatoes did he pick in all?",
+    "Equation": "( 154.0 + 50.0 )",
+    "Answer": 204.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-57",
+    "Body": "5 red peaches, 14 yellow peaches and 6 green peaches are in the basket.",
+    "Question": "How many green and yellow peaches are in the basket?",
+    "Equation": "( 6.0 + 14.0 )",
+    "Answer": 20.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-58",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. There were 89 bird families living near the mountain. If 60 bird families flew away for winter",
+    "Question": "How many more bird families flew away for the winter than those that stayed behind?",
+    "Equation": "( 60.0 - ( 89.0 - 60.0 ) )",
+    "Answer": 31.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-59",
+    "Body": "There were 9 roses and 6 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 13 orchids and 3 roses in the vase.",
+    "Question": "How many more orchids than roses are there in the vase now?",
+    "Equation": "( 13.0 - 3.0 )",
+    "Answer": 10.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-60",
+    "Body": "After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. If there were 600 visitors the previous day",
+    "Question": "How many more visitors visited the Buckingham palace on that day than on the previous day?",
+    "Equation": "( 661.0 - 600.0 )",
+    "Answer": 61.0,
+    "Type": "Subtraction"
+  }
+]

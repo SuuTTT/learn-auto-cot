@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-351",
+    "Body": "After a typhoon, 13 trees in Haley's backyard died. If she had grown 3 trees initially",
+    "Question": "How many more trees died in the typhoon than those that survived?",
+    "Equation": "( 13.0 - ( 3.0 - 13.0 ) )",
+    "Answer": 23.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-352",
+    "Body": "Josh had 9 marbles in his collection. He lost some marbles. If he has 4 marbles now",
+    "Question": "How many marbles did he lose?",
+    "Equation": "( 9.0 - 4.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-353",
+    "Body": "They decided to hold the party in their backyard. They have 14 chairs for each set of table. If they have 9 sets of tables",
+    "Question": "How many more chairs than tables do they have?",
+    "Equation": "( ( 9.0 * 14.0 ) - 9.0 )",
+    "Answer": 117.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-354",
+    "Body": "He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day.",
+    "Question": "How many oranges do they harvest per day if each sack contains 28 oranges?",
+    "Equation": "( 66.0 * 28.0 )",
+    "Answer": 1848.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-355",
+    "Body": "At the arcade Dave had won some tickets. He used 12 tickets to buy some toys. If he still has 14 tickets left",
+    "Question": "How many tickets did Dave win at the arcade?",
+    "Equation": "( 12.0 + 14.0 )",
+    "Answer": 26.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-356",
+    "Body": "Adam could fit 10 action figures on each shelf in his room. His room has could hold 8 action figures.",
+    "Question": "How many total shelves did his room have?",
+    "Equation": "( 8.0 * 10.0 )",
+    "Answer": 80.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-357",
+    "Body": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 24 pounds. On the way back Marco lost 9 pounds of strawberries. Marco's strawberries now weighed 3 pounds.",
+    "Question": "How much did his dad's strawberries weigh?",
+    "Equation": "( 24.0 - ( 3.0 + 9.0 ) )",
+    "Answer": 12.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-358",
+    "Body": "Mary is baking a cake. The recipe calls for 12 cups of flour and 13 cups of sugar. She already put in 2 cups of sugar.",
+    "Question": "How many more cups of sugar does she need to add?",
+    "Equation": "( 13.0 - 2.0 )",
+    "Answer": 11.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-359",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. There are 38 bird families living near the mountain. If 47 bird families flew away to africa and 94 bird families flew away to asia",
+    "Question": "How many more bird families flew away to asia than those that flew away to africa?",
+    "Equation": "( 94.0 - 47.0 )",
+    "Answer": 47.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-360",
+    "Body": "Jake has 9 fewer peaches than Steven and 18 more peaches than Jill. Steven has 16 peaches.",
+    "Question": "How many more peaches does Steven have than Jill?",
+    "Equation": "( 9.0 + 18.0 )",
+    "Answer": 27.0,
+    "Type": "Addition"
+  }
+]

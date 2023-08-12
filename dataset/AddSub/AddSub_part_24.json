@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 231,
+    "lEquations": [
+      "X = 0.25 + 0.4166666666666667 + 0.25"
+    ],
+    "lSolutions": [
+      "0.9166666666666666"
+    ],
+    "sQuestion": "During a school play , Jonah staffed the snack bar . He served 0.25 pitcher of lemonade during the first intermission , 0.4166666666666667 pitcher during the second , and 0.25 pitcher during the third . How many pitchers of lemonade did Jonah pour in all ? "
+  },
+  {
+    "iIndex": 232,
+    "lEquations": [
+      "X = 0.3333333333333333 + 0.3333333333333333 + 0.08333333333333333"
+    ],
+    "lSolutions": [
+      "0.75"
+    ],
+    "sQuestion": "Heather went to the county fair last weekend . When she got there , she had to walk 0.3333333333333333 mile from the car to the entrance . Then she walked 0.3333333333333333 mile to the carnival rides and 0.08333333333333333 mile from the carnival rides back to the car . How many miles did Heather walk in all ? "
+  },
+  {
+    "iIndex": 233,
+    "lEquations": [
+      "X = 0.16666666666666666 + 0.3333333333333333 + 0.16666666666666666"
+    ],
+    "lSolutions": [
+      "0.6666666666666666"
+    ],
+    "sQuestion": "A renovation project required 0.16666666666666666 truck-load of sand , 0.3333333333333333 truck-load of dirt , and 0.16666666666666666 truck-load of cement . How many truck-loads of material were needed in all ? "
+  },
+  {
+    "iIndex": 234,
+    "lEquations": [
+      "X = 0.08333333333333333 + 0.3333333333333333 + 0.4166666666666667"
+    ],
+    "lSolutions": [
+      "0.8333333333333334"
+    ],
+    "sQuestion": "Karin 's science class weighed plastic rings for an experiment . They found that the orange ring weighed 0.08333333333333333 ounce , the purple ring weighed 0.3333333333333333 ounce , and the white ring weighed 0.4166666666666667 ounce . What was the total weight of the plastic rings ? "
+  },
+  {
+    "iIndex": 235,
+    "lEquations": [
+      "X = 0.16666666666666666 + 1.1666666666666667"
+    ],
+    "lSolutions": [
+      "1.3333333333333333"
+    ],
+    "sQuestion": "Carefully following a recipe , Kenny used exactly 0.16666666666666666 cup of oil and 1.1666666666666667 cups of water . How many cups of liquid did Kenny use in all ? "
+  },
+  {
+    "iIndex": 236,
+    "lEquations": [
+      "X = 2.8333333333333335 + 2.8333333333333335"
+    ],
+    "lSolutions": [
+      "5.666666666666667"
+    ],
+    "sQuestion": "Dale 's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers . How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ? "
+  },
+  {
+    "iIndex": 237,
+    "lEquations": [
+      "X = 3.8333333333333335 - 0.16666666666666666"
+    ],
+    "lSolutions": [
+      "3.6666666666666665"
+    ],
+    "sQuestion": "This afternoon Craig left school , rode the bus 3.8333333333333335 miles , and then walked 0.16666666666666666 mile to get home . How much farther did Craig ride than walk ? "
+  },
+  {
+    "iIndex": 238,
+    "lEquations": [
+      "X = 7.125 - 0.625"
+    ],
+    "lSolutions": [
+      "6.5"
+    ],
+    "sQuestion": "Kelly 's chemistry textbook weighs 7.125 pounds and her geometry textbook weighs 0.625 pound . How much more does the chemistry textbook weigh than the geometry textbook ? "
+  },
+  {
+    "iIndex": 239,
+    "lEquations": [
+      "X = 10.0 + 5.1"
+    ],
+    "lSolutions": [
+      "15.1"
+    ],
+    "sQuestion": "Roadster 's Paving Company used 10 tons of cement to pave Lexi 's street and 5.1 tons of cement to pave Tess 's street . How much cement did Roadster 's Paving Company use in all ? "
+  },
+  {
+    "iIndex": 240,
+    "lEquations": [
+      "X = 1.0 + 8.8"
+    ],
+    "lSolutions": [
+      "9.8"
+    ],
+    "sQuestion": "On a hot day , Sam poured 1 bucket of water into a plastic wading pool . A few minutes later he added another 8.8 buckets . How much water did Sam pour into the pool ? "
+  }
+]

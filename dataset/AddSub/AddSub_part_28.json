@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 271,
+    "lEquations": [
+      "X = 4.0 + 8.7"
+    ],
+    "lSolutions": [
+      "12.7"
+    ],
+    "sQuestion": "Marta picked 2 pumpkins . The first pumpkin weighed 4 pounds , and the second pumpkin weighed 8.7 pounds . How much did the 2 pumpkins weigh all together ? "
+  },
+  {
+    "iIndex": 272,
+    "lEquations": [
+      "X = 4.1 - 2.4"
+    ],
+    "lSolutions": [
+      "1.7"
+    ],
+    "sQuestion": "A truck carrying 4.1 pounds of sand travels to a construction yard and loses 2.4 pounds of sand along the way . How much sand does the truck have when it arrives at the yard ? "
+  },
+  {
+    "iIndex": 273,
+    "lEquations": [
+      "X = 4.4 + 2.86"
+    ],
+    "lSolutions": [
+      "7.26"
+    ],
+    "sQuestion": "Tori was 4.4 feet tall . Then she grew 2.86 feet taller . How tall is Tori now ? "
+  },
+  {
+    "iIndex": 274,
+    "lEquations": [
+      "X = 8.9 - 2.3"
+    ],
+    "lSolutions": [
+      "6.6"
+    ],
+    "sQuestion": "A carpenter bought a piece of wood that was 8.9 centimeters long . Then he sawed 2.3 centimeters off the end . How long is the piece of wood now ? "
+  },
+  {
+    "iIndex": 275,
+    "lEquations": [
+      "X = 49 - 13"
+    ],
+    "lSolutions": [
+      "36"
+    ],
+    "sQuestion": "Jason found 49 seashells and 48 starfish on the beach . He gave 13 of the seashells to Tim . How many seashells does Jason now have ? "
+  },
+  {
+    "iIndex": 276,
+    "lEquations": [
+      "X = 29 + 11"
+    ],
+    "lSolutions": [
+      "40"
+    ],
+    "sQuestion": "Joan grew 29 carrots and 14 watermelons . Jessica grew 11 carrots . How many carrots did they grow in all ? "
+  },
+  {
+    "iIndex": 277,
+    "lEquations": [
+      "X = 39 - 24"
+    ],
+    "lSolutions": [
+      "15"
+    ],
+    "sQuestion": "Sally had 39 baseball cards , and 9 were torn . Sara bought 24 of Sally 's baseball cards . How many baseball cards does Sally have now ? "
+  },
+  {
+    "iIndex": 278,
+    "lEquations": [
+      "X = 32 - 23"
+    ],
+    "lSolutions": [
+      "9"
+    ],
+    "sQuestion": "Dan has 32 green and 38 violet marbles . Mike took 23 of Dan 's green marbles . How many green marbles does Dan now have ? "
+  },
+  {
+    "iIndex": 279,
+    "lEquations": [
+      "X = 18 + 42"
+    ],
+    "lSolutions": [
+      "60"
+    ],
+    "sQuestion": "Jason has 18 books and he has read 9 of them . Mary has 42 books . How many books do they have together ? "
+  },
+  {
+    "iIndex": 280,
+    "lEquations": [
+      "X = 32 + 31"
+    ],
+    "lSolutions": [
+      "63"
+    ],
+    "sQuestion": "Jason grew 32 watermelons and 22 cantelopes . Dan grew 31 watermelons . How many watermelons did they grow in total ? "
+  }
+]

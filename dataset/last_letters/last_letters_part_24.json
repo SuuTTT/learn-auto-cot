@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Kelly Cheryl Nancy Jojo\" and concatenate them.",
+      "answer": "ylyo"
+    },
+    {
+      "question": "Take the last letters of each words in \"H\u00e9ctor Daniela Rossy Jose Manuel\" and concatenate them.",
+      "answer": "rayl"
+    },
+    {
+      "question": "Take the last letters of each words in \"Carissa Paige Consuelo Izzy\" and concatenate them.",
+      "answer": "aeoy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Wilson Abbey Harold Nelly\" and concatenate them.",
+      "answer": "nydy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Tiara Araceli Michaela Genaro\" and concatenate them.",
+      "answer": "aiao"
+    },
+    {
+      "question": "Take the last letters of each words in \"Alexa Pilar Rod Nicola\" and concatenate them.",
+      "answer": "arda"
+    },
+    {
+      "question": "Take the last letters of each words in \"Yamileth Dane Aron Dee\" and concatenate them.",
+      "answer": "hene"
+    },
+    {
+      "question": "Take the last letters of each words in \"Rachel Alisa Fanny Jeffery\" and concatenate them.",
+      "answer": "layy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Manuel Aurelio India Rosalba\" and concatenate them.",
+      "answer": "loaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Garrett Eva Joaquin Monique\" and concatenate them.",
+      "answer": "tane"
+    }
+  ]
+}

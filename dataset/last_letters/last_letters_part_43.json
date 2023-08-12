@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Leon Payton Stefan Javi\" and concatenate them.",
+      "answer": "nnni"
+    },
+    {
+      "question": "Take the last letters of each words in \"Marcos Kerri Fabio Stephen\" and concatenate them.",
+      "answer": "sion"
+    },
+    {
+      "question": "Take the last letters of each words in \"Earl Rudy Harrison Nadine\" and concatenate them.",
+      "answer": "lyne"
+    },
+    {
+      "question": "Take the last letters of each words in \"Andres Mary Ann Sydney Dina\" and concatenate them.",
+      "answer": "snya"
+    },
+    {
+      "question": "Take the last letters of each words in \"Rohan Antoinette Nikki Aida\" and concatenate them.",
+      "answer": "neia"
+    },
+    {
+      "question": "Take the last letters of each words in \"Braulio Staci Jocelyn Brittany\" and concatenate them.",
+      "answer": "oiny"
+    },
+    {
+      "question": "Take the last letters of each words in \"Clayton Edison Debbie Elvira\" and concatenate them.",
+      "answer": "nnea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Britt Tamara Elvis Nayeli\" and concatenate them.",
+      "answer": "tasi"
+    },
+    {
+      "question": "Take the last letters of each words in \"Cristina Saad Bridget Katie\" and concatenate them.",
+      "answer": "adte"
+    },
+    {
+      "question": "Take the last letters of each words in \"Stella Janis Darren Lena\" and concatenate them.",
+      "answer": "asna"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Leandro Maricela Genevieve Lesly\" and concatenate them.",
+      "answer": "oaey"
+    },
+    {
+      "question": "Take the last letters of each words in \"Andy Cecilia Gretchen Sandi\" and concatenate them.",
+      "answer": "yani"
+    },
+    {
+      "question": "Take the last letters of each words in \"Darwin Colin Cj Abhishek\" and concatenate them.",
+      "answer": "nnjk"
+    },
+    {
+      "question": "Take the last letters of each words in \"Lupita Cyndi Kay Derrick\" and concatenate them.",
+      "answer": "aiyk"
+    },
+    {
+      "question": "Take the last letters of each words in \"Felipe Heidi Nino Bradley\" and concatenate them.",
+      "answer": "eioy"
+    },
+    {
+      "question": "Take the last letters of each words in \"Dorian Mayra Freddie Magaly\" and concatenate them.",
+      "answer": "naey"
+    },
+    {
+      "question": "Take the last letters of each words in \"Flora Warren Gwendolyn Alissa\" and concatenate them.",
+      "answer": "anna"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ace Rosy Kimberly Jean\" and concatenate them.",
+      "answer": "eyyn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jeremy Simone Alondra Wyatt\" and concatenate them.",
+      "answer": "yeat"
+    },
+    {
+      "question": "Take the last letters of each words in \"Deanna Terri Gabriela Jonah\" and concatenate them.",
+      "answer": "aiah"
+    }
+  ]
+}

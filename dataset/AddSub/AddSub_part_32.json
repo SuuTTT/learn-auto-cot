@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 311,
+    "lEquations": [
+      "X = 47 - 24"
+    ],
+    "lSolutions": [
+      "23"
+    ],
+    "sQuestion": "Joan has 47 green and 48 red marbles . Fred took 24 of Joan 's green marbles . How many green marbles does Joan now have ? "
+  },
+  {
+    "iIndex": 312,
+    "lEquations": [
+      "X = 42 - 13"
+    ],
+    "lSolutions": [
+      "29"
+    ],
+    "sQuestion": "There are 42 walnut trees and 12 orange trees currently in the park . Park workers had to cut down 13 walnut trees that were damaged . How many walnut trees will be in the park when the workers are finished ? "
+  },
+  {
+    "iIndex": 313,
+    "lEquations": [
+      "X = 31 - 20"
+    ],
+    "lSolutions": [
+      "11"
+    ],
+    "sQuestion": "Sandy had 36 pennies and 31 nickels in her bank . Her dad borrowed 20 nickels from Sandy . How many nickels does she have now ? "
+  },
+  {
+    "iIndex": 314,
+    "lEquations": [
+      "X = 34 - 22"
+    ],
+    "lSolutions": [
+      "12"
+    ],
+    "sQuestion": "There are 34 pencils and 49 crayons in the drawer . Dan took 22 pencils from the drawer . How many pencils are now in the drawer ? "
+  },
+  {
+    "iIndex": 315,
+    "lEquations": [
+      "X = 12.32 + 11.54"
+    ],
+    "lSolutions": [
+      "23.86"
+    ],
+    "sQuestion": "Sally paid $ 12.32 total for peaches , after a 3 dollar coupon , and $ 11.54 for cherries . In total , how much money did Sally spend ? "
+  },
+  {
+    "iIndex": 316,
+    "lEquations": [
+      "X = 11.76 + 14.54"
+    ],
+    "lSolutions": [
+      "26.3"
+    ],
+    "sQuestion": "Dan spent $ 11.76 on a snake toy , and a cage cost him $ 14.54 . Dan also found a dollar bill on the ground . What was the total cost of Dan 's purchases ? "
+  },
+  {
+    "iIndex": 317,
+    "lEquations": [
+      "X = 13.04 + 12.27"
+    ],
+    "lSolutions": [
+      "25.31"
+    ],
+    "sQuestion": "Mary went to the mall . She spent $ 13.04 on a shirt and $ 12.27 on a jacket . She went to 2 shops . In total , how much money did Mary spend on clothing ? "
+  },
+  {
+    "iIndex": 318,
+    "lEquations": [
+      "X = 130.30 + 11.24"
+    ],
+    "lSolutions": [
+      "141.54"
+    ],
+    "sQuestion": "Dan joined his school 's band . He bought a clarinet for $ 130.30 , and a song book which was $ 11.24 . Dan found $ 12.32 in his pocket . How much did Dan spend at the music store ? "
+  },
+  {
+    "iIndex": 319,
+    "lEquations": [
+      "X = 9.46 + 9.56"
+    ],
+    "lSolutions": [
+      "19.02"
+    ],
+    "sQuestion": "Tom bought a skateboard for $ 9.46 , and spent $ 9.56 on marbles . Tom also spent $ 14.50 on shorts . In total , how much did Tom spend on toys ? "
+  },
+  {
+    "iIndex": 320,
+    "lEquations": [
+      "X = 1.08 + 4.80"
+    ],
+    "lSolutions": [
+      "5.88"
+    ],
+    "sQuestion": "Mary got fast food for lunch . Mary spent $ 1.08 on soup and $ 4.80 on a salad . Mary paid with a 20 dollar bill . What was the total of the lunch bill ? "
+  }
+]

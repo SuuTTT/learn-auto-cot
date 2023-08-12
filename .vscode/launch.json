@@ -1,0 +1,40 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Run Demo Multiarith",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/run_demo.py",
+            "args": [
+                "--task", "multiarith",
+                "--pred_file", "log/multiarith_zero_shot_cot.log",
+                "--clustering_method", "hierarchical",
+                "--demo_save_dir", "demos/multiarith"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Run Inference Multiarith",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/run_inference.py",
+            "args": [
+                "--dataset", "multiarith",
+                "--demo_path", "demos/multiarith",
+                "--output_dir", "experiment/multiarith"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

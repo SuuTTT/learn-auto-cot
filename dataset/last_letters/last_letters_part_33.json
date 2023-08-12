@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Elle Alex Irma Stephan\" and concatenate them.",
+      "answer": "exan"
+    },
+    {
+      "question": "Take the last letters of each words in \"Arnold Aidan Ally Ami\" and concatenate them.",
+      "answer": "dnyi"
+    },
+    {
+      "question": "Take the last letters of each words in \"Gabino Kayla Laurie Familia\" and concatenate them.",
+      "answer": "oaea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Logan Ely Abbie Colleen\" and concatenate them.",
+      "answer": "nyen"
+    },
+    {
+      "question": "Take the last letters of each words in \"Kristy Brandi Lizeth Petra\" and concatenate them.",
+      "answer": "yiha"
+    },
+    {
+      "question": "Take the last letters of each words in \"Hazel Gabrielle Tre Dalton\" and concatenate them.",
+      "answer": "leen"
+    },
+    {
+      "question": "Take the last letters of each words in \"Conrad Marcella Annette Esteban\" and concatenate them.",
+      "answer": "daen"
+    },
+    {
+      "question": "Take the last letters of each words in \"Isaac Reyes Carly Tania\" and concatenate them.",
+      "answer": "csya"
+    },
+    {
+      "question": "Take the last letters of each words in \"Wilma Margie Amber Sergio\" and concatenate them.",
+      "answer": "aero"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sonya Eddy Carol Yung\" and concatenate them.",
+      "answer": "aylg"
+    }
+  ]
+}

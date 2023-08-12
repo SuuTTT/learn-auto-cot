@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Reginald Franky Kira Gordon\" and concatenate them.",
+      "answer": "dyan"
+    },
+    {
+      "question": "Take the last letters of each words in \"Bret Lois Ismael Mirna\" and concatenate them.",
+      "answer": "tsla"
+    },
+    {
+      "question": "Take the last letters of each words in \"Peggy Trent Darrell Pamela\" and concatenate them.",
+      "answer": "ytla"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sophie Gregorio Avery Pooja\" and concatenate them.",
+      "answer": "eoya"
+    },
+    {
+      "question": "Take the last letters of each words in \"Yvonne Rafaela Jb Salomon\" and concatenate them.",
+      "answer": "eabn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Gabi Dante Rafa Tricia\" and concatenate them.",
+      "answer": "ieaa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Martin Sage Tanisha Rick\" and concatenate them.",
+      "answer": "neak"
+    },
+    {
+      "question": "Take the last letters of each words in \"Suzanne Julissa Chino America\" and concatenate them.",
+      "answer": "eaoa"
+    },
+    {
+      "question": "Take the last letters of each words in \"Mel Josh Alejandra Harley\" and concatenate them.",
+      "answer": "lhay"
+    },
+    {
+      "question": "Take the last letters of each words in \"Candy Megan Ed Nathan\" and concatenate them.",
+      "answer": "yndn"
+    }
+  ]
+}

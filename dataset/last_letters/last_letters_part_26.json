@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Ever Gio Elia Ramesh\" and concatenate them.",
+      "answer": "roah"
+    },
+    {
+      "question": "Take the last letters of each words in \"Dallas Uriel Brendan Julian\" and concatenate them.",
+      "answer": "slnn"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sandeep Graciela Jai Xiomara\" and concatenate them.",
+      "answer": "paia"
+    },
+    {
+      "question": "Take the last letters of each words in \"Frank Trevor Al Gabriella\" and concatenate them.",
+      "answer": "krla"
+    },
+    {
+      "question": "Take the last letters of each words in \"Elva Kari Shirley Gilberto\" and concatenate them.",
+      "answer": "aiyo"
+    },
+    {
+      "question": "Take the last letters of each words in \"Alonzo Dorothy Alfred Rodriguez\" and concatenate them.",
+      "answer": "oydz"
+    },
+    {
+      "question": "Take the last letters of each words in \"Ernest Yuri Camila Ashlee\" and concatenate them.",
+      "answer": "tiae"
+    },
+    {
+      "question": "Take the last letters of each words in \"Jim Dwayne Ricky Artemio\" and concatenate them.",
+      "answer": "meyo"
+    },
+    {
+      "question": "Take the last letters of each words in \"Noah Aubrey Cesar Eliana\" and concatenate them.",
+      "answer": "hyra"
+    },
+    {
+      "question": "Take the last letters of each words in \"Shawn Tracie Lynne Leila\" and concatenate them.",
+      "answer": "neea"
+    }
+  ]
+}

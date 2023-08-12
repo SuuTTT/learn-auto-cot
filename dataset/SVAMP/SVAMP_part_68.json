@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-671",
+    "Body": "Julia played tag with 7 kids on monday and 13 kids on tuesday. She played cards wtih 20 kids on wednesday.",
+    "Question": "How many kids did she play tag with altogether?",
+    "Equation": "( 7.0 + 13.0 )",
+    "Answer": 20.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-672",
+    "Body": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 36 of the pickers that they fill 8 drums of grapes per day.",
+    "Question": "How many days will it take to fill 240 drums of grapes?",
+    "Equation": "( 240.0 / 8.0 )",
+    "Answer": 30.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-673",
+    "Body": "Bobby ate 23 pieces of candy. If he initially had 30 pieces of candy",
+    "Question": "How many pieces of candy does he still have left?",
+    "Equation": "( 30.0 - 23.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-674",
+    "Body": "The Ferris wheel in paradise park has 18 seats. Each seat can hold 15 people. If 10 seats are broken",
+    "Question": "How many people can ride the Ferris wheel at the same time?",
+    "Equation": "( ( 18.0 - 10.0 ) * 15.0 )",
+    "Answer": 120.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-675",
+    "Body": "Robin's hair was 16 inches long. He cut off 11 inches. Then it again grew by 12 inches.",
+    "Question": "How long is his hair now?",
+    "Equation": "( ( 16.0 - 11.0 ) + 12.0 )",
+    "Answer": 17.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-676",
+    "Body": "Frank was reading through his favorite book. The book had 193 pages equally distributed over 15 chapters. It took Frank 660 days to finish the book.",
+    "Question": "How many chapters did he read per day?",
+    "Equation": "( 660.0 / 15.0 )",
+    "Answer": 44.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-677",
+    "Body": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 19 inches. The grasshopper jumped 4 inches farther than the frog and the mouse jumped 44 inches lesser than the frog.",
+    "Question": "How far did the frog jump?",
+    "Equation": "( 19.0 - 4.0 )",
+    "Answer": 15.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-678",
+    "Body": "Winter is almost here and most animals are migrating to warmer countries. There are 18 bird families living near the mountain. If 38 bird families flew away to africa and 80 bird families flew away to asia",
+    "Question": "How many bird families flew away for the winter?",
+    "Equation": "( 38.0 + 80.0 )",
+    "Answer": 118.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-679",
+    "Body": "Matthew had 23 crackers. He has 11 crackers left after he gave equal numbers of crackers to his 2 friends.",
+    "Question": "How many crackers did each friend eat?",
+    "Equation": "( ( 23.0 - 11.0 ) / 2.0 )",
+    "Answer": 6.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-680",
+    "Body": "Rachel's tree had 4 apples. She picked 2 apples from her tree. Thereafter 3 new apples grew on the tree.",
+    "Question": "How many apples are there on the tree now?",
+    "Equation": "( ( 4.0 - 2.0 ) + 3.0 )",
+    "Answer": 1.0,
+    "Type": "Addition"
+  }
+]

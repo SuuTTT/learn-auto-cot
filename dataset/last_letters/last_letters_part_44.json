@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "question": "Take the last letters of each words in \"Charles Emilio Vivek Steve\" and concatenate them.",
+      "answer": "soke"
+    },
+    {
+      "question": "Take the last letters of each words in \"Sal Scott Myrna Maximo\" and concatenate them.",
+      "answer": "ltao"
+    },
+    {
+      "question": "Take the last letters of each words in \"Mia Art Samantha Lety\" and concatenate them.",
+      "answer": "atay"
+    },
+    {
+      "question": "Take the last letters of each words in \"Miguel Angel Saul Brady Darryl\" and concatenate them.",
+      "answer": "llyl"
+    },
+    {
+      "question": "Take the last letters of each words in \"Maria Elena Dewayne Mj Elliott\" and concatenate them.",
+      "answer": "aejt"
+    },
+    {
+      "question": "Take the last letters of each words in \"Antoine Javier Brett Stewart\" and concatenate them.",
+      "answer": "ertt"
+    },
+    {
+      "question": "Take the last letters of each words in \"Amanda Geoff Belinda Gaurav\" and concatenate them.",
+      "answer": "afav"
+    },
+    {
+      "question": "Take the last letters of each words in \"Krishna Catalina Eileen Teddy\" and concatenate them.",
+      "answer": "aany"
+    },
+    {
+      "question": "Take the last letters of each words in \"Mar\u00eda Fredy Bridgette Kenya\" and concatenate them.",
+      "answer": "ayea"
+    },
+    {
+      "question": "Take the last letters of each words in \"Neil Dani Eddie Marcelino\" and concatenate them.",
+      "answer": "lieo"
+    }
+  ]
+}

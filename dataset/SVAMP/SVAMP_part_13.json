@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-121",
+    "Body": "Rachel had to complete 7 pages of math homework. If she had to complete 4 more pages of math homework than reading homework",
+    "Question": "How many pages of reading homework did she have to complete?",
+    "Equation": "( 7.0 - 4.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-122",
+    "Body": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 19 chocolate chip cookies yesterday and 231 raisin cookies and 237 chocolate chip cookies this morning.",
+    "Question": "How many more chocolate chip cookies than raisin cakes did Helen bake?",
+    "Equation": "( ( 19.0 + 237.0 ) - 231.0 )",
+    "Answer": 25.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-123",
+    "Body": "Tiffany was collecting cans for recycling. On monday she had some bags of cans. The next day she found 4 more bags worth of cans. If she had a total of 8 bags altogether",
+    "Question": "How many bags did she have on monday?",
+    "Equation": "( 8.0 - 4.0 )",
+    "Answer": 4.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-124",
+    "Body": "Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection.",
+    "Question": "How many more bottle caps did danny throw away than those he found at the park?",
+    "Equation": "( 63.0 - 30.0 )",
+    "Answer": 33.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-125",
+    "Body": "Mary is baking a cake. The recipe calls for 12 cups of sugar and 14 cups of flour. She already put in 10 cups of sugar.",
+    "Question": "How many more cups of flour than cups of sugar does she need to add now?",
+    "Equation": "( 14.0 - ( 12.0 - 10.0 ) )",
+    "Answer": 12.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-126",
+    "Body": "Kelly has 22 nintendo games.",
+    "Question": "How many does she need to buy so that she will have 140 games left?",
+    "Equation": "( 140.0 - 22.0 )",
+    "Answer": 118.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-127",
+    "Body": "Mom buys 70 white t - shirts in total. If white t - shirts can be purchased in packages and mom buys 14 packages",
+    "Question": "How many white t - shirts does each package have?",
+    "Equation": "( 70.0 / 14.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-128",
+    "Body": "A farmer had 171 tomatoes in his garden. If he picked 134 of them yesterday and 30 today.",
+    "Question": "How many will he have left after today?",
+    "Equation": "( ( 171.0 - 134.0 ) - 30.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-129",
+    "Body": "Last week Fred had 47 dollars and Jason had 99 dollars. Over the weekend Fred delivered newspapers earning 111 dollars and washed cars earning 34 dollars.",
+    "Question": "How much money does Fred have now?",
+    "Equation": "( ( 47.0 + 111.0 ) + 34.0 )",
+    "Answer": 192.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-130",
+    "Body": "Mary is baking a cake. The recipe calls for 6 cups of sugar and 14 cups of flour. She already put in 7 cups of flour and 60 cups of sugar.",
+    "Question": "How many more cups of flour does she need to add?",
+    "Equation": "( 14.0 - 7.0 )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  }
+]

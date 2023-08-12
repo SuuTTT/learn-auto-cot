@@ -1,0 +1,102 @@
+[
+  {
+    "iIndex": 31,
+    "lEquations": [
+      "X = 20 + 21"
+    ],
+    "lSolutions": [
+      "41"
+    ],
+    "sQuestion": "Keith has 20 books . Jason has 21 books . How many books do they have together ? "
+  },
+  {
+    "iIndex": 32,
+    "lEquations": [
+      "X = 49 + 25"
+    ],
+    "lSolutions": [
+      "74"
+    ],
+    "sQuestion": "Jason had 49 quarters in his bank . His dad gave him 25 quarters . How many quarters does he have now ? "
+  },
+  {
+    "iIndex": 33,
+    "lEquations": [
+      "X = 15 + 43"
+    ],
+    "lSolutions": [
+      "58"
+    ],
+    "sQuestion": "Tom found 15 seashells and Fred found 43 seashells on the beach . When they cleaned them , they discovered that 29 were cracked . How many seashells did they find together ? "
+  },
+  {
+    "iIndex": 34,
+    "lEquations": [
+      "X = 31 + 24"
+    ],
+    "lSolutions": [
+      "55"
+    ],
+    "sQuestion": "Sara has 31 red and 15 green balloons . Sandy has 24 red balloons . How many red balloons do they have in total ? "
+  },
+  {
+    "iIndex": 35,
+    "lEquations": [
+      "X = 37 + 10"
+    ],
+    "lSolutions": [
+      "47"
+    ],
+    "sQuestion": "Joan picked 37 oranges and Sara picked 10 oranges . Alyssa picked 30 pears . How many oranges were picked in total ? "
+  },
+  {
+    "iIndex": 36,
+    "lEquations": [
+      "X = 36 + 11"
+    ],
+    "lSolutions": [
+      "47"
+    ],
+    "sQuestion": "Fred went to 36 basketball games this year , but missed 35 . He went to 11 games last year . How many basketball games did Fred go to in total ? "
+  },
+  {
+    "iIndex": 37,
+    "lEquations": [
+      "X = 33 + 27 "
+    ],
+    "lSolutions": [
+      "60"
+    ],
+    "sQuestion": "There are 33 pencils and 44 crayons in the drawer . Joan placed 27 pencils in the drawer . How many pencils are now there in total ? "
+  },
+  {
+    "iIndex": 38,
+    "lEquations": [
+      "X = 24 + 39"
+    ],
+    "lSolutions": [
+      "63"
+    ],
+    "sQuestion": "Sam had 49 pennies and 24 nickels in his bank . His dad gave him 39 nickels and 31 quarters . How many nickels does he have now ? "
+  },
+  {
+    "iIndex": 39,
+    "lEquations": [
+      "X = 42 + 47"
+    ],
+    "lSolutions": [
+      "89"
+    ],
+    "sQuestion": "Dan grew 42 turnips and 38 cantelopes . Jessica grew 47 turnips . How many turnips did they grow in total ? "
+  },
+  {
+    "iIndex": 40,
+    "lEquations": [
+      "X = 33 + 44"
+    ],
+    "lSolutions": [
+      "77"
+    ],
+    "sQuestion": "There are 33 walnut trees currently in the park . Park workers will plant 44 walnut trees today . How many walnut trees will the park have when the workers are finished ? "
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-551",
+    "Body": "Robin has some packages of gum. There are 7 pieces in each package. Robin has 6 extra pieces of gum. In all the number of pieces of gums robin has is 41.",
+    "Question": "How many packages does Robin have?",
+    "Equation": "( ( 41.0 - 6.0 ) / 7.0 )",
+    "Answer": 5.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-552",
+    "Body": "Baker made 155 cakes. If his friend bought 140 cakes from him",
+    "Question": "How many cakes would baker still have?",
+    "Equation": "( 155.0 - 140.0 )",
+    "Answer": 15.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-553",
+    "Body": "2 children were riding on the bus. At the bus stop some more children got on the bus. Then there were 10 children altogether on the bus.",
+    "Question": "How many more children are on the bus now than there were before the bus stop?",
+    "Equation": "( 10.0 - 2.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-554",
+    "Body": "Danny collects bottle caps and wrappers. He found 22 bottle caps and 8 wrappers at the park. Now he has 28 bottle caps and 63 wrappers in his collection.",
+    "Question": "How many bottle caps did danny have at first?",
+    "Equation": "( 28.0 - 22.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-555",
+    "Body": "For the walls of the house he would use 8 large planks of wood. If each plank of wood needs 74 pieces of nails to be secured",
+    "Question": "How many planks does John need for the house wall?",
+    "Equation": "8.0",
+    "Answer": 8.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-556",
+    "Body": "Paco ate 36 cookies. If he had 37 cookies initially",
+    "Question": "How many cookies did Paco have left?",
+    "Equation": "( 37.0 - 36.0 )",
+    "Answer": 1.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-557",
+    "Body": "Bobby had 21 pieces of candy. He ate 5 pieces of candy. Then he ate 9 more.",
+    "Question": "How many pieces of candy does he still have left?",
+    "Equation": "( 21.0 - ( 5.0 + 9.0 ) )",
+    "Answer": 7.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-558",
+    "Body": "Baker made 54 cakes. He sold some of them. If he still has 13 cakes left",
+    "Question": "How many cakes did baker sell?",
+    "Equation": "( 54.0 - 13.0 )",
+    "Answer": 41.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-559",
+    "Body": "During summer break 819058 kids from Lawrence county go to camp and the other 668278 kids stay home.",
+    "Question": "How many more kids spent their summer break at the camp compared to those who stayed home?",
+    "Equation": "( 819058.0 - 668278.0 )",
+    "Answer": 150780.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-560",
+    "Body": "Randy has 79 blocks. He uses 14 blocks to build a tower and 11 blocks to build a house.",
+    "Question": "How many blocks are left?",
+    "Equation": "( 79.0 - ( 14.0 + 11.0 ) )",
+    "Answer": 54.0,
+    "Type": "Subtraction"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "chal-981",
+    "Body": "10 red peaches and some more green peaches are in the basket. If there are a total of 15 peaches in the basket",
+    "Question": "How many green peaches are in the basket?",
+    "Equation": "( 15.0 - 10.0 )",
+    "Answer": 5.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-982",
+    "Body": "62 campers went rowing in the morning. 39 campers went rowing in the afternoon.",
+    "Question": "How many more campers went rowing in the morning than in the afternoon?",
+    "Equation": "( 62.0 - 39.0 )",
+    "Answer": 23.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-983",
+    "Body": "In a school there are 315 girls and 309 boys. There are also 772 teachers",
+    "Question": "How many people are there in that school?",
+    "Equation": "( ( 315.0 + 309.0 ) + 772.0 )",
+    "Answer": 1396.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-984",
+    "Body": "In Haley's class some boys love to play marbles. If Haley has 10 marbles and she gave 5 marbles to each boy",
+    "Question": "How many boys did she give the marbles to?",
+    "Equation": "( 10.0 / 5.0 )",
+    "Answer": 2.0,
+    "Type": "Common-Division"
+  },
+  {
+    "ID": "chal-985",
+    "Body": "Lewis earns $ 28 every week during the 1091 weeks of harvest. He also earns $ 939 per week for working overtime. If he works overtime every week",
+    "Question": "How much money does he earn during harvest season?",
+    "Equation": "( ( 28.0 + 939.0 ) * 1091.0 )",
+    "Answer": 1054997.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-986",
+    "Body": "Rachel had to complete 11 pages of math homework, 2 pages of reading homework and 3 more pages of biology homework.",
+    "Question": "How many more pages of math homework than biology homework did she have?",
+    "Equation": "( 11.0 - 3.0 )",
+    "Answer": 8.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-987",
+    "Body": "Adam has 3 more apples than jackie. Adam has 9 apples.",
+    "Question": "How many apples does Jackie have?",
+    "Equation": "( 9.0 - 3.0 )",
+    "Answer": 6.0,
+    "Type": "Subtraction"
+  },
+  {
+    "ID": "chal-988",
+    "Body": "Rachel picked 3 ripe apples from her tree. Now the tree has 2 ripe apples and 27 unripe apples.",
+    "Question": "How many ripe apples did the tree have to begin with?",
+    "Equation": "( 3.0 + 2.0 )",
+    "Answer": 5.0,
+    "Type": "Addition"
+  },
+  {
+    "ID": "chal-989",
+    "Body": "Melissa scored 109 points in each game. She also got 82 bonus points in each game.",
+    "Question": "How many points did she score in 79 games?",
+    "Equation": "( ( 109.0 + 82.0 ) * 79.0 )",
+    "Answer": 15089.0,
+    "Type": "Multiplication"
+  },
+  {
+    "ID": "chal-990",
+    "Body": "Rachel had to complete 4 pages of reading homework, 7 pages of math homework and 19 more pages of biology homework.",
+    "Question": "How many more pages of math homework than reading homework did she have?",
+    "Equation": "( 7.0 - 4.0 )",
+    "Answer": 3.0,
+    "Type": "Subtraction"
+  }
+]
